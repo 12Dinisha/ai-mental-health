@@ -27,7 +27,8 @@ uvicorn api.inference:app --reload --port 8000
 ### Run Demo
 
 python Week 4/demo_notebook.py
-Weeks Summary
+
+### Weeks Summary
 Week
 
 Content
@@ -52,13 +53,6 @@ License
 NHS Internal Use Only
 
 May 2026 EOF
-
-
-Copy code
-
----
-
-## Commit the README
 
 ```bash
 git add README.md
