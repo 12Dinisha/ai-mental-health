@@ -19,15 +19,24 @@ Mental Health Readmission Risk Prediction for NHS Services
 - Week 2/ - Baseline Models
 - Week 3/ - Ensemble and Tuning
 - Week 4/ - Validation and Demo
-- full_presentation.html - Presentation
 
 ## Quick Start
 
-Run API:
+Run API: 
 uvicorn api.inference:app --reload --port 8000
 
-
 Run Demo:
+python Week 4/demo_notebook.py
+
+
+
+## Presentation
+
+Open the full presentation locally:
+full_presentation.html
+
+
+Or run the demo presentation:
 python Week 4/demo_notebook.py
 
 
