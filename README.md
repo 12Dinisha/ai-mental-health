@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # AI Mental Health UK - Risk Prediction Model
 
 Mental Health Readmission Risk Prediction for NHS Services
