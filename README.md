@@ -7,7 +7,8 @@ Mental Health Readmission Risk Prediction for NHS Services
 - **Purpose**: Predict 30-day readmission risk for mental health patients
 - **Model**: Ensemble (XGBoost + Random Forest + Logistic Regression)
 - **Target**: F1 > 0.80
-- **Team**: Dinisha Jain, Mohit
+- **Team**: AI/ML 
+- **Team Members**: Dinisha Jain, Mohit
 
 ## Project Structure
 
