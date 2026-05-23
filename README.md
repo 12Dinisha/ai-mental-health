@@ -26,11 +26,10 @@ Mental Health Readmission Risk Prediction for NHS Services
 Run API:
 uvicorn api.inference:app --reload --port 8000
 
+
 Run Demo:
 python Week 4/demo_notebook.py
 
-
-Copy code
 
 ## License
 
