@@ -1,0 +1,59 @@
+"table s30: perceptions of changing crime levels by personal characteristics, year ending march 2017 csew1",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 5,unnamed: 6,unnamed: 7,unnamed: 8,age_band
+England and Wales,,,,,,,Adults aged 16 and over,unknown
+,National,Local,Unweighted base - number of adults2,,National,Local,Unweighted base - number of adults2,unknown
+,Percentage saying crime has gone up 'a little' or 'a lot' in the past few years,,,,Percentage saying crime has gone up 'a little' or 'a lot' in the past few years,,,unknown
+,,,,Respondent's employment status,,,,unknown
+,,,,In employment,58.47098327750052,37.40083914927354,15237,unknown
+ALL ADULTS,62.807060628216036,37.17438613180016,26361,Unemployed,63.48370180668799,37.32812006321788,510,unknown
+,,,,Economically inactive,70.36113066083229,36.85607667180475,10581,unknown
+Age,,,,Student,50.659121079770856,29.234688950958766,569,unknown
+16-24,56.175750038829406,34.6515820586542,1897,Looking after family/home,67.51306753601484,45.77479865638381,1125,unknown
+25-34,55.300627328937104,36.858746068832424,3866,Long-term/temporarily sick/ill,72.03016263390587,46.81698750522178,1169,unknown
+35-44,58.16362931793528,39.145423274701905,4335,Retired,75.01604579760068,34.728888530923825,7400,unknown
+45-54,61.00191947168743,39.24205250194114,4656,Other inactive,56.92874762056076,40.7205736552365,318,unknown
+55-64,65.67292465818161,39.6078432680265,4303,,,,,unknown
+65-74,73.56195865030418,36.77769043491397,4158,Respondent's occupation (NS-SEC),,,,unknown
+75+,77.6721156661045,30.701980554142512,3146,Managerial and professional occupations,54.475925167745245,33.68245153017539,9291,unknown
+,,,,Intermediate occupations,67.34377890843089,39.76352933316298,6164,unknown
+Sex,,,,Routine and manual occupations,70.95093978722576,40.11001023595825,8848,unknown
+Men,55.54077749961422,33.46382987441678,12202,Never worked and long-term unemployed,63.77522871894005,38.42039529994308,968,unknown
+Women,69.76109234485628,40.63014998877302,14159,Full-time students,51.03876165479152,28.508588771872525,854,unknown
+,,,,Not classified,51.058570878606645,37.71619208858721,236,unknown
+Ethnic group,,,,,,,,unknown
+White ,63.127026427467456,36.53419014745837,23608,Highest qualification,,,,unknown
+English/Welsh/Scottish/Northern Irish/ British ,64.49883251999421,36.696883403608666,22017,Degree or diploma,53.2266368781778,33.5126679498888,10472,unknown
+Irish ,58.41817680656373,34.46008750765849,214,Apprenticeship or A/AS level,63.15917229084713,38.12109625388222,4593,unknown
+"Gypsy, Traveller or Irish Traveller ",-,-,17,O level/GCSE,72.18775097225509,41.40644843081746,4788,unknown
+Any other White background,45.38345070459135,33.64715176877732,1360,Other,68.77712712051314,41.42881361138096,1069,unknown
+Mixed/Multiple,59.11036868352725,38.45412070999278,273,,72.54381285213069,38.1786205726503,5365,unknown
+White and Black Caribbean ,68.44714526696181,32.39690081519311,82,,,,,unknown
+White and Black African ,-,-,41,Long-standing illness or disability ,,,,unknown
+White and Asian ,52.62390190752293,43.481640390619106,84,Long-standing illness or disability ,71.76602803104527,40.00657106289094,6356,unknown
+Any other Mixed/ Multiple ethnic background,62.22859397613184,-,66,Limits activities,73.54142321250524,41.329760153644564,5014,unknown
+Asian/Asian British,64.84318407347286,46.2004202733283,1433,Does not limit activities,65.75480667920272,35.32425911775694,1339,unknown
+Indian ,71.50373477842912,48.57121046894917,557,No long-standing illness or disability ,60.4431844378206,36.375048152832846,19942,unknown
+Pakistani ,65.80345509901815,50.673415559768095,372,,,,,unknown
+Bangladeshi ,67.77856905772236,50.78925178812188,124,Confidence in police and local council dealing with issues,,,,unknown
+Chinese ,43.83551305742569,24.938167856825398,134,Agree,59.43910772645924,31.27367114335921,15350,unknown
+Any other Asian background ,57.47338169216077,36.89484257730426,246,No opinion,62.72610124999882,37.20064621972368,6061,unknown
+Black/African/Caribbean/Black British,56.030725531814376,33.77586575522246,758,Disagree,75.67043288830546,60.484168430046005,3799,unknown
+African ,51.301677317079964,28.39546551360572,448,,,,,unknown
+Caribbean ,64.99049700708147,41.55832654711389,249,Experience of crime in last 12 months3,,,,unknown
+Any other Black/ African/ Caribbean background,62.80683966225513,-,61,Victim,66.41130803759889,52.386352396291315,3529,unknown
+Other ethnic group,49.78939710595512,38.77603890600611,257,Not a victim,62.21403230715161,34.72122531449814,22832,unknown
+Arab ,43.523812633915,35.30871680213986,103,,,,,unknown
+Any other ethnic group ,54.398652464746846,40.83009014865699,154,Religion,,,,unknown
+,,,,No religion,55.04736535147878,33.35133087999895,9236,unknown
+Marital status,,,,Christian,67.8903587548884,38.313995944945994,15325,unknown
+Married/civil partnered,64.35938881965978,37.66496432426179,11843,Buddhist,54.37983358286645,42.236934614722614,130,unknown
+Cohabiting,60.85883403723763,38.29608865175617,2759,Hindu,73.45511414057235,49.92481204400886,310,unknown
+Single,55.962927901466074,35.725177008523154,5955,Muslim,60.42219246249927,45.179625706471384,895,unknown
+Separated,66.80289074088664,40.044461250638044,809,Other,67.07350884603943,42.013340910410726,395,unknown
+Divorced/legally dissolved partnership,68.40021002802635,39.82196070127182,2414,,,,,unknown
+Widowed,75.37708316678783,33.166502594425886,2508,,,,,unknown
+ ,,,,,,,,unknown
+"Source: Crime Survey for England and Wales, Office for National Statistics",,,,,,,,unknown
+1. See Section 7.3 of User Guide for definitions of personal characteristics.,,,,,,,,unknown
+2. Unweighted base refers to perceived change in national crime. Bases for local crime will be slightly smaller due to only including respondents that have lived in their area 3 years or more.,,,,,,,,unknown
+3. The 'Experience of Crime' variable covers the victimisation of all types of crime excluding fraud and computer misuse. Fraud and computer misuse estimates are currently Experimental statistics and these questions were only asked of half the sample for the year ending March 2017.,,,,,,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,,,,,,unknown

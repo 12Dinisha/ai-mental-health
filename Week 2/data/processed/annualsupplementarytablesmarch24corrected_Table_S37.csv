@@ -1,0 +1,56 @@
+"table s37: percentage of people aged 16 and over who felt very or fairly safe when walking alone after dark, by household and area characteristics",unnamed: 1,unnamed: 2,unnamed: 3,age_band
+"England and Wales, year ending March 2024",,,,unknown
+This worksheet contains one table. Some cells refer to notes which can be found on the Notes worksheet. The units used in this table are percentages.,,,,unknown
+Link to notes,,,,unknown
+Some shorthand is used in this table. [u] denotes that data are not reported because the unweighted base is fewer than 50.,,,,unknown
+Link to table of contents,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,unknown
+Household or area characteristic [note 1],Household or area characteristic breakdown ,Percentage who feel very or fairly safe [note 2],Unweighted base - number of people aged 16 and over [note 3],unknown
+All people,All people aged 16 and over,79.49412805585996,7282,unknown
+Structure of household,Single person and child(ren) under 16,62.86796026271825,310,unknown
+Structure of household,Persons and child(ren) under 16,82.42593027448109,1446,unknown
+Structure of household,Person(s) and no children ,78.96209239138669,5526,unknown
+Total household income,"Less than £10,400",66.3260195967441,431,unknown
+Total household income,"£10,400 to less than £20,800",69.44498579278999,1212,unknown
+Total household income,"£20,800 to less than £31,200",75.57402875942735,1137,unknown
+Total household income,"£31,200 to less than £41,600",84.78627933328511,783,unknown
+Total household income,"£41,600 to less than £52,000",79.74730016320272,699,unknown
+Total household income,"£52,000 or more",87.12226658681419,1424,unknown
+Total household income,No income stated or not enough information provided,83.28334684730463,79,unknown
+Tenure,Owners,81.40407794178233,4520,unknown
+Tenure,Social renters,68.01617265936154,1250,unknown
+Tenure,Private renters,81.12750192616764,1400,unknown
+Accommodation type ,Houses,79.74771060443514,6023,unknown
+Accommodation type ,Detached,82.77162480719866,1613,unknown
+Accommodation type ,Semi-detached,80.00765678560134,2272,unknown
+Accommodation type ,Terraced,76.90571484516391,2138,unknown
+Accommodation type ,Flats/maisonettes,78.41821124348901,1212,unknown
+Accommodation type ,Other accommodation,[u],16,unknown
+Output Area Classification,Rural residents,87.10815376453354,840,unknown
+Output Area Classification,Cosmopolitans,80.0963746860488,316,unknown
+Output Area Classification,Ethnicity central,76.21368440491513,433,unknown
+Output Area Classification,Multicultural metropolitans,78.52178161225515,1064,unknown
+Output Area Classification,Urbanites,82.27489832131678,1265,unknown
+Output Area Classification,Suburbanites,83.08085641771089,1321,unknown
+Output Area Classification,Constrained city dwellers,67.2113292629462,611,unknown
+Output Area Classification,Hard-pressed living,73.56483077846207,1432,unknown
+Area type,Urban,78.13929823665255,5883,unknown
+Area type,Rural,85.16227157569203,1399,unknown
+Level of physical disorder,High,71.67889094656739,493,unknown
+Level of physical disorder,Not high ,80.06289356786921,6769,unknown
+English Indices of Deprivation (Employment),20% most deprived Output Areas,68.41984602862335,1718,unknown
+English Indices of Deprivation (Employment),Other Output Areas ,80.15161065542034,3908,unknown
+English Indices of Deprivation (Employment),20% least deprived Output Areas,86.8927833065228,1160,unknown
+Welsh Indices of Deprivation (Employment),20% most deprived Output Areas,66.42643422181955,112,unknown
+Welsh Indices of Deprivation (Employment),Other Output Areas ,86.4381293702819,301,unknown
+Welsh Indices of Deprivation (Employment),20% least deprived Output Areas,91.74791923621787,83,unknown
+Region,North East,76.51934983258947,412,unknown
+Region,North West,78.81540830077127,999,unknown
+Region,Yorkshire and The Humber,77.41436558537163,730,unknown
+Region,East Midlands,77.76059596729455,690,unknown
+Region,West Midlands,72.02490010496602,772,unknown
+Region,East,83.95985026011131,765,unknown
+Region,London,83.34560307851778,891,unknown
+Region,South East,78.40150787704101,848,unknown
+Region,South West,81.18317855601038,679,unknown
+Region,Wales,83.99908154994031,496,unknown

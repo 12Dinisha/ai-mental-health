@@ -1,0 +1,40 @@
+"Table A3: Number of times victims were victimised, people aged 16 and over, year ending March 2025",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,age_band,flag_depression,flag_anxiety,flag_comorbid
+England and Wales ,,,,,unknown,0,0,0
+This worksheet contains one table. Some cells refer to notes which can be found on the Notes worksheet.,,,,,unknown,0,0,0
+Link to Notes page,,,,,unknown,0,0,0
+Some shorthand is used in this table. [c] indicates that the data has been supressed due to disclosure constraints. [u] indicates that data are not reported because the unweighted base is fewer than 50.,,,,,unknown,0,0,0
+Link to Table of contents,,,,,unknown,0,0,0
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,,unknown,0,0,0
+Offence group [note 1],Percentage once,Percentage two to four times,Percentage five or more times,"Unweighted base
+ - number of victims ",unknown,0,0,0
+VIOLENCE [note 2],75.0398968692214,20.14103857385673,4.819064556921891,400,unknown,0,0,0
+Violence with injury,75.0509748691757,21.30870071278892,3.640324418035383,163,unknown,0,0,0
+Wounding,90.04250781045657,9.3259191796882,0.6315730098552301,85,unknown,0,0,0
+Assault with minor injury,76.32860763200185,17.95747217390395,5.71392019409421,80,unknown,0,0,0
+Violence without injury,75.96003047903555,18.94764179765652,5.092327723307917,246,unknown,0,0,0
+Domestic violence,65.8056249385241,23.23652234291583,10.95785271856006,73,unknown,0,0,0
+Acquaintance,71.86966763465857,19.47500362613621,8.655328739205217,117,unknown,0,0,0
+Stranger,82.16108529271136,16.26100132105057,1.577913386238052,216,unknown,0,0,0
+ROBBERY,[u],[u],[u],47,unknown,0,0,0
+THEFT OFFENCES [note 3],83.02386994771066,15.31440299804283,1.661727054246506,2178,unknown,0,0,0
+Theft from the person,93.3301451626307,4.511186018261061,2.158668819108247,218,unknown,0,0,0
+Other theft of personal property,88.28082459802461,10.95566531727779,0.7635100846975874,210,unknown,0,0,0
+Domestic burglary,85.48451217363267,11.39449239609076,3.120995430276613,404,unknown,0,0,0
+Domestic burglary in a dwelling,86.48627197441954,10.34035530648492,3.173372719095537,299,unknown,0,0,0
+Domestic burglary in a non-connected building to a dwelling,85.10443896986702,12.98935879011839,1.906202240014599,112,unknown,0,0,0
+Other household theft,81.17180579044239,16.21725665088702,2.610937558670583,613,unknown,0,0,0
+Vehicle-related theft,89.90445565146132,9.986259126651916,0.1092852218867622,691,unknown,0,0,0
+Bicycle theft,90.95032957384956,9.04967042615044,[c],208,unknown,0,0,0
+CRIMINAL DAMAGE AND ARSON,88.04741542239552,10.14875495063932,1.803829626965158,652,unknown,0,0,0
+Criminal damage to a vehicle,90.62451982317671,8.773104508146261,0.602375668677007,417,unknown,0,0,0
+Arson and other criminal damage,85.20813602610669,10.87550754431593,3.916356429577406,245,unknown,0,0,0
+FRAUD AND COMPUTER MISUSE [note 4],86.54507948291904,12.02990556785038,1.425014949230562,2609,unknown,0,0,0
+Fraud [note 4][note 5],87.1381424600154,11.29357294370294,1.568284596281665,2264,unknown,0,0,0
+Bank and credit account fraud,85.500348187444,12.13132980235229,2.368322010203711,1339,unknown,0,0,0
+Consumer and retail fraud,94.26961421733913,5.368108729552626,0.3622770531082617,628,unknown,0,0,0
+All other fraud [note 6],92.45478765074331,7.189215924412262,0.3559964248444287,344,unknown,0,0,0
+Cyber [note 7],88.87430801447704,9.021203287832599,2.104488697690359,1283,unknown,0,0,0
+Non-cyber [note 8],88.42048231828936,10.894896500366,0.6846211813446383,1017,unknown,0,0,0
+Computer misuse [note 4],92.02254821150764,7.503722066557255,0.4737297219350798,387,unknown,0,0,0
+Computer virus,99.27192027178737,0.7280797282126275,[c],69,unknown,0,0,0
+Unauthorised access to personal information (including hacking),91.07774013532321,8.332692665654685,0.5895671990220898,322,unknown,0,0,0

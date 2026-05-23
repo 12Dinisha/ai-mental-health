@@ -1,0 +1,55 @@
+"table s3: ratings of the local police, people aged 16 and over, by household and area characteristics, year ending march 2024",unnamed: 1,unnamed: 2,unnamed: 3,age_band
+England and Wales,,,,unknown
+This worksheet contains one table. Some cells refer to notes which can be found on the Notes worksheet. The units in this table are percentages.,,,,unknown
+Link to Notes ,,,,unknown
+Link to Table of contents,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,unknown
+Household or area characteristic [note 1],Household or area characteristic breakdown,Percentage saying local police doing a good/excellent job,Unweighted base - number of people aged 16 and over,unknown
+All people,All people,48.83149378819103,28896,unknown
+Structure of household,Single person with child(ren) under 16,48.39910507445923,1321,unknown
+Structure of household,Persons with child(ren) under 16,52.58698901644365,5542,unknown
+Structure of household,Person(s) and no child(ren),47.56343430189525,22033,unknown
+Total Household Income,"Less than £10,400",50.81783900659607,1758,unknown
+Total Household Income,"£10,400 to less than £20,800",48.77450931025774,4875,unknown
+Total Household Income,"£20,800 to less than £31,200",49.28831692420179,4558,unknown
+Total Household Income,"£31,200 to less than £41,600",47.81211710799708,3056,unknown
+Total Household Income,"£41,600 to less than £52,000",46.87218870389512,2769,unknown
+Total Household Income,"£52,000 or more",48.598651612768606,5860,unknown
+Total Household Income,No income stated of not enough information provided,47.85755855739304,311,unknown
+Tenure,Owners,46.65645030579197,18049,unknown
+Tenure,Social renters,46.65572584505453,5042,unknown
+Tenure,Private renters,56.69307961827512,5480,unknown
+Accommodation type,House or bungalow,47.969014735136554,23915,unknown
+Accommodation type,    Detached,48.47735209771851,6405,unknown
+Accommodation type,    Semi-detached,47.98631086275103,9053,unknown
+Accommodation type,    Terraced,47.522886673854465,8457,unknown
+Accommodation type,Flats/maisonettes,53.847462153413005,4844,unknown
+Accommodation type,Other accommodation,51.78051738127466,53,unknown
+Output Area Classification,Rural residents,48.92715776510891,3281,unknown
+Output Area Classification,Cosmopolitans,53.907713136523036,1310,unknown
+Output Area Classification,Ethnicity central,48.70598646233278,1804,unknown
+Output Area Classification,Multicultural metropolitans,50.612843570792535,3997,unknown
+Output Area Classification,Urbanites,50.095975636983766,5010,unknown
+Output Area Classification,Suburbanites,50.437817578629584,5222,unknown
+Output Area Classification,Constrained city dwellers,46.48700241552379,2485,unknown
+Output Area Classification,Hard-pressed living,43.61190284578335,5787,unknown
+Area type,Urban,48.78441277041896,23363,unknown
+Area type,Rural,49.03264313192868,5533,unknown
+Level of physical disorder,High,46.065261225976926,1994,unknown
+Level of physical disorder,Not high,49.01850802133273,26848,unknown
+English Indices of Deprivation (Employment) ,20% most deprived Output Areas,44.461362434680815,6790,unknown
+English Indices of Deprivation (Employment) ,Other Output Areas,48.97736119985471,15597,unknown
+English Indices of Deprivation (Employment) ,20% least deprived Output Areas,52.712707230032265,4569,unknown
+Welsh Indices of Deprivation (Employment) ,20% most deprived Output Areas,37.78275840014605,420,unknown
+Welsh Indices of Deprivation (Employment) ,Other Output Areas,49.427036139816124,1189,unknown
+Welsh Indices of Deprivation (Employment) ,20% least deprived Output Areas,53.3122155321204,331,unknown
+Region,North East,47.89213204517061,1608,unknown
+Region,North West,48.74999826268764,3887,unknown
+Region,Yorkshire and The Humber,48.45779897587838,2744,unknown
+Region,East Midlands,45.67278503747561,2761,unknown
+Region,West Midlands,47.128961457807755,3143,unknown
+Region,East,52.643293222557034,3144,unknown
+Region,London,51.31780760080139,3598,unknown
+Region,South East,48.37258432137727,3368,unknown
+Region,South West,47.13600270536953,2703,unknown
+Region,Wales,48.32093207531092,1940,unknown

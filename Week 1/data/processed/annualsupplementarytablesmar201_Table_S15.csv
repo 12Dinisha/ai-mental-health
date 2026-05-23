@@ -1,0 +1,72 @@
+"table s15: percentage of incidents in which victims were satisfied with the police, by personal characteristics, year ending march 2020 csew1",unnamed: 1,unnamed: 2,unnamed: 4,unnamed: 5,unnamed: 6,age_band
+England and Wales,,,,,Adults aged 16 and over,unknown
+Personal characteristic2,Satisfaction with the police,Unweighted base - number of incidents,Personal characteristic2,Satisfaction with the police,Unweighted base - number of incidents,unknown
+,Percentage of incidents in which the victim was 'very' or 'fairly' satisfied with the police,,,Percentage of incidents in which the victim was 'very' or 'fairly' satisfied with the police,,unknown
+ALL INCIDENTS,65.60066435115357,1815,Respondent's employment status,,,unknown
+,,,In employment,67.05801828793135,1212,unknown
+16-24,68.55685482671592,168,Unemployed,-,46,unknown
+25-34,68.98655089420271,391,Economically inactive,63.50121960747256,553,unknown
+35-44,61.62092557217458,362,Student,-,42,unknown
+45-54,66.42586693012629,329,Looking after family/home,55.37388342568508,94,unknown
+55-64,60.54307610385874,270,Long-term/temporarily sick/ill,57.999456478680536,122,unknown
+65-74,64.53042369191546,194,Retired,66.61982246555326,276,unknown
+75+,66.81973409348242,101,Other inactive,-,19,unknown
+Men,65.35306226882864,853,Respondent's occupation ,,,unknown
+,,,Managerial and professional occupations,69.40032178897506,724,unknown
+16-24,71.34535073257415,77,Intermediate occupations,66.13807083278674,413,unknown
+25-34,73.54183717168313,157,Routine and manual occupations,60.149792626979156,532,unknown
+35-44,56.12362036732922,155,Never worked and long-term unemployed,58.32967621609432,62,unknown
+45-54,64.1473065058605,158,Full-time students,68.07177069216876,65,unknown
+55-64,56.487355642281,153,Not classified,-,19,unknown
+65-74,68.0974347681004,114,,,,unknown
+75+,-,39,Highest qualification,,,unknown
+,,,Degree or diploma,69.09478657162202,853,unknown
+Women,65.85140370713496,962,Apprenticeship or A/AS level,68.2297788146149,320,unknown
+,,,O level/GCSE,59.99219450641866,344,unknown
+16-24,66.0859892489967,91,Other,44.9801969044941,65,unknown
+25-34,64.13975125612733,234,,62.09283046664569,226,unknown
+35-44,65.85779363094268,207,,,,unknown
+45-54,68.79302125251434,171,Disability3,,,unknown
+55-64,66.52681869401134,117,Disabled,65.31014523831627,407,unknown
+65-74,59.19756910591355,80,Not disabled,65.66044299808559,1398,unknown
+75+,71.59160051315475,62,,,,unknown
+,,,Religion,,,unknown
+Ethnic group,,,No religion,65.28044468154754,778,unknown
+White ,67.05405927067368,1541,Christian,66.88993246334296,868,unknown
+   English/Welsh/Scottish/Northern Irish/British,66.74324821206864,1403,Buddhist,-,~,unknown
+   Irish,-,17,Hindu,-,~,unknown
+   Gypsy or Irish Traveller,-,4,Muslim,61.175697861219,98,unknown
+   Any other White background,72.49720706278346,117,Other,-,~,unknown
+Mixed/Multiple,-,35,,,,unknown
+   White and Black Caribbean,-,14,Sexual orientation4,,,unknown
+   White and Black African,-,~,Heterosexual/straight,65.78440367592673,1462,unknown
+   White and Asian,-,~,Gay/Lesbian,-,27,unknown
+   Any other Mixed/Multiple ethnic background,-,11,Bisexual,-,34,unknown
+Asian/Asian British,56.64226648037717,139,Other,-,9,unknown
+   Indian,46.628135069313856,59,,,,unknown
+   Pakistani,-,43,Hours out of home on an average weekday,,,unknown
+   Bangladeshi,-,13,Less than 3 hours,63.61934525622338,439,unknown
+   Chinese,-,6,3 hours or more but less than 7,63.392201683442565,461,unknown
+   Any other Asian background,-,18,7 hours or longer,67.27217691901267,912,unknown
+Black/African/Caribbean/Black British,58.911637716699914,72,,,,unknown
+   African,-,38,Number of evening visits to pub/bar in the last month,,,unknown
+   Caribbean,-,27,,61.29725180521546,879,unknown
+   Any other Black/African/Caribbean background,-,7,Less than once a week,66.69333627726536,585,unknown
+Other ethnic group,-,23,Once a week or more often,72.24050214298515,350,unknown
+   Arab,-,9,,,,unknown
+   Any other ethnic group,-,14,Number of visits to a nightclub/disco in the last month,,,unknown
+,,,,65.34437464782405,1657,unknown
+Marital status,,,1-3 times a month,65.36795575919652,136,unknown
+Married/civil partnered,62.00309790399899,758,4+ times a month,-,22,unknown
+Cohabiting,60.46264901981245,243,,,,unknown
+Single,70.90327609374266,515,,,,unknown
+Separated,54.32392593581405,66,,,,unknown
+Divorced/legally dissolved partnership,73.27665533052911,146,,,,unknown
+Widowed,69.452374321967,85,,,,unknown
+Source: Office for National Statistics - Crime Survey for England and Wales,,,,,,unknown
+"1. Following a methodological change to the handling of repeat victimisation in the CSEW, these data are not comparable with data published before January 2019. For more information see Improving victimisation estimates derived from the Crime Survey for England and Wales.",,,,,,unknown
+2. See Section 7.3 of the User Guide for definitions of personal characteristics.,,,,,,unknown
+"3. The definition of disability used is consistent with the core definition of disability under the Equality Act 2010. A person is considered to have a disability if they have a long-standing illness, disability or impairment which causes difficulty with day-to-day activities.",,,,,,unknown
+"4. The terminology used to label this data has been changed to 'sexual orientation' from 'sexual identity' to align with terminology used in legislation (Equality Act 2010). Sexual Orientation is an umbrella concept which encompasses sexual identity, attraction and behaviour. This question described within this principle is based on a substantial body of research and is designed to capture self-perceived Sexual Identity. An individual could respond differently to questions on either sexual identity, attraction or behaviour. The measurement of Sexual Identity was identified within the research as the component of Sexual Orientation most closely related to experiences of disadvantage and discrimination. The question was not designed for specific or detailed studies of sexual behaviour or attraction where a series of more detailed questions and answer categories might be more appropriate.",,,,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,,,,unknown
+"""~"" Denotes that figures have been suppressed due to disclosure constraints.",,,,,,unknown

@@ -1,0 +1,32 @@
+============================================================
+AIML-1  Feature Engineering Summary
+AI Mental Health UK — Week 2
+============================================================
+Total rows:       54
+Total columns:    39
+Engineered cols:  11
+
+--- Age bands ---
+age_band
+unknown    54
+
+--- IMD proxy ---
+Mean decile:       5.00
+High deprivation:  0 (0.0%)
+
+imd_source
+fallback    54
+
+--- Comorbidity flags ---
+flag_depression:         0 (0.0%)
+flag_anxiety:            0 (0.0%)
+flag_comorbid_anx_dep:   0 (0.0%)
+
+--- Engineered columns preview ---
+  age_band  age_band_code  imd_proxy imd_source  high_deprivation  flag_depression  flag_anxiety  flag_comorbid_anx_dep  comorbidity_count
+0  unknown            NaN          5   fallback                 0                0             0                      0                  0
+1  unknown            NaN          5   fallback                 0                0             0                      0                  0
+2  unknown            NaN          5   fallback                 0                0             0                      0                  0
+3  unknown            NaN          5   fallback                 0                0             0                      0                  0
+4  unknown            NaN          5   fallback                 0                0             0                      0                  0
+============================================================

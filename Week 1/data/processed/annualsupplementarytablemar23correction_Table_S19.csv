@@ -1,0 +1,62 @@
+"table s19: attitudes to local police working in partnership with local council, people aged 16 and over, by police force area, year ending march 2023 [note 1]",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,age_band
+England and Wales,,,,,,unknown
+This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. The units in this table are percentages.,,,,,,unknown
+Link to notes,,,,,,unknown
+Some shorthand is used in this table. [s] denotes the change is significant at the 5% level. [si] denotes the change is a significant increase at the 5% level. [sd] denotes the changes is a significant decrease at the 5% level.,,,,,,unknown
+Link to table of contents,,,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,,,unknown
+Area Code,Area Name,Strongly agree or tend to agree that police and local council are dealing with issues (%),Statisically significant difference from England and Wales,Apr 2022 to Mar 2023 compared with Apr 2019 to Mar 2020 Statistically significant difference [note 2],Unweighted base - number of people aged 16 and over [note 3],unknown
+K04000001,ENGLAND AND WALES,49.826077224153025,,[sd],30043,unknown
+E92000001,ENGLAND,49.44738905948393,,[sd],27671,unknown
+E12000001,North East,42.21275432828022,[s],[sd],1574,unknown
+E23000013,Cleveland,39.392989996781836,[s],,543,unknown
+E23000008,Durham,46.649717411961,,,412,unknown
+E23000007,Northumbria,41.33504400693828,[s],[sd],619,unknown
+E12000002,North West,50.69909644403015,,[sd],3533,unknown
+E23000006,Cheshire,57.0239144624848,[s],,595,unknown
+E23000002,Cumbria,54.3955719328772,,,411,unknown
+E23000005,Greater Manchester,48.2617417240316,,,1164,unknown
+E23000003,Lancashire,48.384142010736,,[sd],697,unknown
+E23000004,Merseyside,51.47685639448967,,,666,unknown
+E12000003,Yorkshire and the Humber,46.96552032090866,[s],,2418,unknown
+E23000012,Humberside,47.18554815130361,,,342,unknown
+E23000009,North Yorkshire,53.71669592197773,,[sd],658,unknown
+E23000011,South Yorkshire,40.975765840297264,[s],,448,unknown
+E23000010,West Yorkshire,46.619121890581155,,,970,unknown
+E12000004,East Midlands,44.731731386571916,[s],[sd],3071,unknown
+E23000018,Derbyshire,40.22998228235982,[s],,744,unknown
+E23000021,Leicestershire,43.92903848374387,[s],[sd],678,unknown
+E23000020,Lincolnshire,52.52535074117137,,,391,unknown
+E23000022,Northamptonshire,46.18942804970331,,,586,unknown
+E23000019,Nottinghamshire,46.1889266260062,,,672,unknown
+E12000005,West Midlands,53.327789797613605,[s],[si],3378,unknown
+E23000015,Staffordshire,45.248104538365354,,,641,unknown
+E23000017,Warwickshire,53.78941845184488,,,470,unknown
+E23000016,West Mercia,51.399778087125604,,,710,unknown
+E23000014,West Midlands,57.42978988315047,[s],[si],1557,unknown
+E12000006,East,51.868458038924636,,,3329,unknown
+E23000026,Bedfordshire,47.15057990922514,,[sd],439,unknown
+E23000023,Cambridgeshire,48.49294276768165,,,535,unknown
+E23000028,Essex,48.96293661518222,,,719,unknown
+E23000027,Hertfordshire,56.2956421420786,[s],,599,unknown
+E23000024,Norfolk,62.45911628626978,[s],,489,unknown
+E23000025,Suffolk,46.26526954400048,,,548,unknown
+E12000007,London,51.91080167176221,,,3134,unknown
+E12000007,City of London and Metropolitan Police,51.91080167176221,,,3134,unknown
+E12000008,South East,47.046532405379146,[s],[sd],4269,unknown
+E23000030,Hampshire,43.551501043194364,[s],[sd],859,unknown
+E23000032,Kent,47.21199558303772,,,894,unknown
+E23000031,Surrey,49.261415045461476,,,624,unknown
+E23000033,Sussex,41.26805806488724,[s],[sd],803,unknown
+E23000029,Thames Valley,52.77979392400951,,[sd],1089,unknown
+E12000009,South West,51.10175515298415,,,2965,unknown
+E23000036,Avon and Somerset,50.25345585756926,,,712,unknown
+E23000035,Devon and Cornwall,50.948757795705745,,,705,unknown
+E23000039,Dorset,49.00807568394977,,,546,unknown
+E23000037,Gloucestershire,47.62840245477286,,,449,unknown
+E23000038,Wiltshire,57.12859375420323,[s],,553,unknown
+W92000004,WALES,56.59108542025778,[s],,2372,unknown
+W15000004,Dyfed-Powys,64.88769355792131,[s],,665,unknown
+W15000002,Gwent,49.81278233180997,,,576,unknown
+W15000001,North Wales,47.72033968719484,,[sd],537,unknown
+W15000003,South Wales,60.45754095777817,[s],,594,unknown

@@ -1,0 +1,83 @@
+"table s39: percentage of people aged 16 and over who were stopped, in a vehicle or on foot, by the police in the last 12 months, by personal characteristics and region,",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,age_band
+"England and Wales, year ending March 2024",,,,,unknown
+This worksheet contains one table. Some cells refer to notes which can be found on the Notes worksheet. The units in this table are percentages.,,,,,unknown
+Link to notes ,,,,,unknown
+Some shorthand is used in this table. [u] denotes that data are not reported because the unweighted base is fewer than 50.,,,,,unknown
+Link to table of contents,,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,,unknown
+Characteristics [note 1],Characteristics breakdown, In a vehicle,On foot,Unweighted base - number of people aged 16 and over [note 2],unknown
+All people,All people,2.6428910506513517,1.3486711876688902,30360,unknown
+All people,16-24,6.100436825223126,5.3526254656888845,1675,unknown
+All people,25-34,3.485816138561957,1.2692552592757418,4146,unknown
+All people,35-44,2.765266307835808,1.0734891785047658,5044,unknown
+All people,45-54,2.2465026464203435,0.8657977313417655,4414,unknown
+All people,55-64,2.059753620271648,0.6152081815545014,5197,unknown
+All people,65-74,1.1654548578523825,0.42078722092940707,5103,unknown
+All people,75+,0.44483532135078724,0.20205135565302018,4781,unknown
+Male age group,All Men,3.3091226677325065,1.8788438383377373,14218,unknown
+Male age group,16-24,6.929975003464717,7.5571198321262925,841,unknown
+Male age group,25-34,3.9725647287404575,1.744813650710483,1853,unknown
+Male age group,35-44,4.015939453874274,1.4336316555303033,2257,unknown
+Male age group,45-54,2.731739081056843,1.1696138565563212,2060,unknown
+Male age group,55-64,2.646922234688575,0.754850033090422,2499,unknown
+Male age group,65-74,1.5493017507356737,0.43734869190437525,2517,unknown
+Male age group,75+,0.566651014688683,0.24590933569029425,2191,unknown
+Female age group,All Women,2.0025177312574143,0.8391671033219886,16142,unknown
+Female age group,16-24,5.234716490433375,3.0546874725931628,834,unknown
+Female age group,25-34,2.991392731299373,0.7856640535461615,2293,unknown
+Female age group,35-44,1.5477798008338821,0.7231808355436276,2787,unknown
+Female age group,45-54,1.7744395786671259,0.5701627041525451,2354,unknown
+Female age group,55-64,1.4988047432262126,0.48177047822092833,2698,unknown
+Female age group,65-74,0.8092744637582867,0.4053902401627024,2586,unknown
+Female age group,75+,0.3449830142965391,0.16622438039061563,2590,unknown
+Ethnic group,White ,2.545587319780485,1.2823730880343256,25728,unknown
+Ethnic group,   English/Welsh/Scottish/Northern Irish/British,2.493060112420227,1.2498504813146218,23466,unknown
+Ethnic group,   Irish,0.8074191607505135,0.2066584127350931,221,unknown
+Ethnic group,   Gypsy or Irish Traveller,[u],[u],11,unknown
+Ethnic group,   Any other White background,3.2283753121073997,1.649117958021264,2030,unknown
+Ethnic group,Mixed/Multiple,1.9776227087838862,1.6142209694886005,397,unknown
+Ethnic group,   White and Black Caribbean,3.478882490368524,1.0366472929464954,113,unknown
+Ethnic group,   White and Black African,0,0,63,unknown
+Ethnic group,   White and Asian,2.337682392988261,3.764165590885545,108,unknown
+Ethnic group,   Any other Mixed/Multiple ethnic background,1.2470184582709385,0.2924903652940475,113,unknown
+Ethnic group,Asian/Asian British,2.6745003949700688,1.0256271883739818,2449,unknown
+Ethnic group,   Indian,1.4025143511061524,1.2578464956556024,1000,unknown
+Ethnic group,   Pakistani,4.3393262692795105,1.3425062212520493,521,unknown
+Ethnic group,   Bangladeshi,4.830416131804485,0.17975613927062808,205,unknown
+Ethnic group,   Chinese,1.861360525351454,0.479582485788573,280,unknown
+Ethnic group,   Any other Asian background,2.671789185867373,0.9092003447758614,443,unknown
+Ethnic group,Black/African/Caribbean/Black British,4.111625905678578,1.7075413018925056,1283,unknown
+Ethnic group,   African,4.929149958936902,1.3534062999770589,874,unknown
+Ethnic group,   Caribbean,2.0445784249166032,1.5107132678283355,335,unknown
+Ethnic group,   Any other Black/African/Caribbean background,2.0536499261503884,6.463040100573362,74,unknown
+Ethnic group,Other ethnic group,4.46830031088745,5.554789083344815,428,unknown
+Ethnic group,   Arab,4.639060004035408,9.028131357756505,137,unknown
+Ethnic group,   Any other ethnic group,4.369999220587215,3.5502947310224484,291,unknown
+Country of birth,Born in the UK,2.5691657513120894,1.3712216659932341,24497,unknown
+Country of birth,Not born in the UK,2.9490282644668007,1.2773840615900087,5778,unknown
+Disability [note 3],Disabled,2.7062299475808644,2.0467965309488987,7005,unknown
+Disability [note 3],Not disabled,2.634635094188973,1.1800852891902844,23218,unknown
+Religion,No religion,2.8121597955319535,1.6454404563542735,12177,unknown
+Religion,Christian,2.4129353262923368,1.0684703924204275,15412,unknown
+Religion,Buddhist,1.8948360903756507,0,164,unknown
+Religion,Hindu,2.297974741657099,0.9480175646463134,573,unknown
+Religion,Jewish,0.9616154945781601,0,116,unknown
+Religion,Muslim,4.012196402227559,1.5634135569813443,1385,unknown
+Religion,Sikh,1.4241440116630062,3.4938596550559855,174,unknown
+Religion,Other,1.297069235777877,1.9782724666615916,198,unknown
+Sexual orientation [note 4],Heterosexual or straight,2.6959182969130104,1.3785049054488003,24588,unknown
+Sexual orientation [note 4],Gay or lesbian,4.044871153283858,2.550270327919492,447,unknown
+Sexual orientation [note 4],Bisexual,2.3425223774365267,2.685956740532372,566,unknown
+Sexual orientation [note 4],Other,2.280660206589809,2.7091417620811598,171,unknown
+Gender identity [note 5],Gender identity the same as sex registered at birth,2.81248527080963,1.4795962605734232,23961,unknown
+Gender identity [note 5],Gender identity different from sex registered at birth,4.433697448969056,1.3303214666645589,144,unknown
+Region,North East,2.681923154258045,1.2635376518651096,1719,unknown
+Region,North West,3.9604382343051476,1.6134241549480333,4059,unknown
+Region,Yorkshire and The Humber,2.602577970061021,0.9775061602783506,2943,unknown
+Region,East Midlands,2.9174201165652747,1.5435866493553563,2895,unknown
+Region,West Midlands,2.3973692267467777,1.5724626740119017,3305,unknown
+Region,East,2.475144944268557,1.2631329278169512,3308,unknown
+Region,London,2.0560069524994025,1.4947855689364962,3738,unknown
+Region,South East,2.594920346327365,1.2395742439458934,3598,unknown
+Region,South West,1.9445969145188438,1.2952466225961663,2803,unknown
+Region,Wales,3.056174760244891,0.8882164501646556,1992,unknown

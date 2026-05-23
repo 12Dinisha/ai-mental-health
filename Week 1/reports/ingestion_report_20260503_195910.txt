@@ -1,0 +1,30 @@
+============================================================
+APMS 2014 - Ingestion Report
+Generated : 2026-05-03 19:59:10.941085
+File MD5   : 02946b8c9bdf41f0d4e2e85d2d235e16
+============================================================
+
+Rows    : 5,000
+Columns : 12
+
+-- Schema Validation --
+  Schema OK      : True
+  Missing cols   : []
+
+-- Null Rates (top 10 worst) --
+      column  null_rate  flagged
+         age        0.0    False
+         sex        0.0    False
+   ethnicity        0.0    False
+imd_quintile        0.0    False
+      region        0.0    False
+     any_cmd        0.0    False
+  depression        0.0    False
+ anxiety_gad        0.0    False
+      phobia        0.0    False
+         ocd        0.0    False
+
+-- Row-level Checks --
+  duplicate_rows           : 0
+  age_out_of_range         : 0
+  invalid_weights          : 0

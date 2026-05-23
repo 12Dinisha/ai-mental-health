@@ -1,0 +1,67 @@
+"table s30: perceptions of changing crime levels, by household and area characteristics, year ending march 2020 csew",unnamed: 1,unnamed: 2,unnamed: 3,age_band
+England and Wales,,,Adults aged 16 and over,unknown
+Household characteristic1,National,Local,"Unweighted base
+ - number of adults2",unknown
+,Percentage saying crime has gone up 'a little' or 'a lot' in the past few years,,,unknown
+ALL ADULTS,81.74357143338389,51.617718186347886,16595,unknown
+Structure of household,,,,unknown
+Single adult and child(ren),85.2930279946282,60.25752520365233,819,unknown
+Adults and child(ren),80.3762614133038,55.66997163195367,3519,unknown
+Adult(s) and no child(ren),82.11813857606009,49.80606692256831,12257,unknown
+Total household income,,,,unknown
+"Less than £10,400",84.27041548214743,53.60121039282903,1460,unknown
+"£10,400 to less than £20,800",86.51646946167536,52.5516581524627,2930,unknown
+"£20,800 to less than £31,200",83.9996801247719,53.05862824959957,2496,unknown
+"£31,200 to less than £41,600",81.75976489634957,50.54795081642476,1868,unknown
+"£41,600 to less than £52,000",79.90639597848121,51.82788804111206,1598,unknown
+"£52,000 or more",76.53698395570372,51.71827039605391,3155,unknown
+No income stated or not enough information provided,78.57239939337084,67.71572045047684,69,unknown
+Tenure,,,,unknown
+Owner occupiers,82.6780438246706,51.18028032953522,10785,unknown
+Social renters,85.75102945461887,54.61123568875962,2720,unknown
+Private renters,76.38668996533143,50.660106776515626,2987,unknown
+Accommodation type ,,,,unknown
+Houses,82.69814709208141,51.84300927344997,14089,unknown
+Detached,82.04305003538974,48.369582115930356,4158,unknown
+Semi-detached,84.15822085154029,52.703881876550874,5051,unknown
+Terraced,81.76591904478776,54.014559855510456,4880,unknown
+Flats/maisonettes,76.03236271497981,50.16235118652372,2425,unknown
+Other Accommodation,-,-,37,unknown
+Output Area Classification,,,,unknown
+Rural residents,81.823860486817,39.39008262536424,2285,unknown
+Cosmopolitans,70.09665509131193,45.674398659253534,597,unknown
+Ethnicity central,71.51551181451674,50.64762864346699,788,unknown
+Multicultural metropolitans,82.13689418988132,58.60375698521756,1955,unknown
+Urbanites,79.97273225992522,50.906811493700665,3118,unknown
+Suburbanites,82.88429682507085,51.8931929465049,3493,unknown
+Constrained city dwellers,86.45517590428678,57.75359781394391,1180,unknown
+Hard-pressed living,86.5890199214339,54.05291891749724,3179,unknown
+Area type,,,,unknown
+Urban,81.52844307360174,54.18739781546024,12917,unknown
+Rural,82.64384038149194,41.09490706968787,3678,unknown
+Level of physical disorder,,,,unknown
+High,77.48713370543746,53.93204710567618,737,unknown
+Not high,81.947206287023,51.49323527706391,15832,unknown
+English Indices of Deprivation (Employment),,,,unknown
+20% most deprived output areas,84.08525071936978,57.57524821778232,2877,unknown
+Other output areas,82.15810343845374,51.84628808561027,9394,unknown
+20% least deprived output areas,78.2178390253162,47.68857541059191,3111,unknown
+Welsh Indices of Deprivation (Employment),,,,unknown
+20% most deprived output areas,84.45911770086468,49.67712556124474,209,unknown
+Other output areas,83.00880846130585,44.59561179836851,766,unknown
+20% least deprived output areas,78.04311669101443,32.70662803085392,238,unknown
+Region,,,,unknown
+North East,86.20973621337154,51.85249180877555,1004,unknown
+North West,82.03688931503325,51.30205868610563,2110,unknown
+Yorkshire and The Humber,81.93633688626645,49.84098477798049,1514,unknown
+East Midlands,80.85592432325048,48.31010963180512,1430,unknown
+West Midlands,88.82502559088256,63.04853385334894,1525,unknown
+East,81.5736837290711,54.84470165801305,1924,unknown
+London,77.21810028105716,55.34133945912204,1915,unknown
+South East,81.14965148158197,48.5663276895571,2259,unknown
+South West,80.28645934677198,44.65275389780123,1701,unknown
+Wales,82.28448456352365,43.32702040393172,1213,unknown
+Source: Office for National Statistics - Crime Survey for England and Wales,,,,unknown
+1. See Sections 7.1 and 7.2 of the User Guide for definitions of household and area characteristics.,,,,unknown
+2. Unweighted base refers to perceived change in national crime. Bases for local crime will be slightly smaller due to only including respondents that have lived in their area 3 years or more.,,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,,unknown

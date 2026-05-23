@@ -1,0 +1,27 @@
+============================================================
+AIML-4: Model v2 Comparison Report (XGBoost)
+============================================================
+
+-- Test Set Metrics --
+  Accuracy : 1.0000
+  F1 Score : 1.0000
+  ROC-AUC  : 1.0000
+
+-- 5-Fold Cross Validation --
+  F1 Score : 1.0000 ± 0.0000
+  ROC-AUC  : 1.0000 ± 0.0000
+
+-- Classification Report --
+              precision    recall  f1-score   support
+
+    Low Risk       1.00      1.00      1.00        74
+   High Risk       1.00      1.00      1.00        26
+
+    accuracy                           1.00       100
+   macro avg       1.00      1.00      1.00       100
+weighted avg       1.00      1.00      1.00       100
+
+
+-- Baseline Comparison --
+  F1 Delta : +0.2800
+  AUC Delta: +0.2150

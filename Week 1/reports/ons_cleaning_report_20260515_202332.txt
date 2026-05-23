@@ -1,0 +1,31 @@
+============================================================
+ONS Crime Dataset - Cleaning Report
+Generated: 2026-05-15 20:23:32.698567
+============================================================
+
+-- Shapes --
+Raw   : 67 rows x 1 cols
+Clean : 54 rows x 1 cols
+
+-- Columns --
+Raw columns:
+['Unnamed: 0']
+
+Clean columns:
+['unnamed_0']
+
+-- Null summary (top 20) --
+unnamed_0    0.018519
+
+-- Head --
+                                                                                                             unnamed_0
+                                               Crime in England & Wales, year ending March 2016 - Supplementary tables
+                                                                                                                   NaN
+               For explanatory notes on these statistics, see the User Guide to Crime Statistics for England and Wales
+                           Data tables shown in this workbook relate to the Crime Survey for England and Wales (CSEW).
+                                                                             The data contained in this file comprise:
+                                                                  Perception of the Police and Criminal Justice System
+                Table S1: Trends in ratings of the local police, year ending March 2004 to year ending March 2016 CSEW
+                       Table S2: Ratings of the local police, by personal characteristics, year ending March 2016 CSEW
+             Table S3: Ratings of the local police, by household and area characteristics, year ending March 2016 CSEW
+Table S4: Trends in ratings and perceptions of the local police, year ending March 2006 to year ending March 2016 CSEW

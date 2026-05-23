@@ -1,0 +1,35 @@
+======================================================================
+WEEK 3 — AIML-1: BIAS AUDIT REPORT
+AI Mental Health UK Project
+======================================================================
+
+--- OVERALL ---
+  accuracy: 1.0000
+  f1: 1.0000
+  precision: 1.0000
+  recall: 1.0000
+
+--- DISPARITY (max-min) ---
+  accuracy: 0.0000 [OK]
+  f1: 0.0000 [OK]
+  selection_rate: 0.2961 [WARNING]
+
+--- PER-GROUP ---
+  attribute  value  n  accuracy  f1  precision  recall  selection_rate
+  age_group      1  8       1.0 1.0        1.0     1.0        0.125000
+  age_group      2 16       1.0 1.0        1.0     1.0        0.187500
+  age_group      3 27       1.0 1.0        1.0     1.0        0.259259
+  age_group      4 21       1.0 1.0        1.0     1.0        0.380952
+  age_group      5 28       1.0 1.0        1.0     1.0        0.250000
+     gender      0 57       1.0 1.0        1.0     1.0        0.280702
+     gender      1 43       1.0 1.0        1.0     1.0        0.232558
+deprivation      1 20       1.0 1.0        1.0     1.0        0.150000
+deprivation      2 13       1.0 1.0        1.0     1.0        0.384615
+deprivation      3 22       1.0 1.0        1.0     1.0        0.181818
+deprivation      4 26       1.0 1.0        1.0     1.0        0.230769
+deprivation      5 19       1.0 1.0        1.0     1.0        0.421053
+
+--- RECOMMENDATIONS ---
+- Selection rate disparity > 10%: Consider threshold adjustment
+
+======================================================================

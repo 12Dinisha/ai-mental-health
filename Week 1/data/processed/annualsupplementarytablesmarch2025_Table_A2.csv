@@ -1,0 +1,56 @@
+"Table A2: Proportion of people who were victims of all CSEW headline crime and personal crime (including fraud and computer misuse), by household and area characteristics, people aged 16 and over and households",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,age_band,flag_depression,flag_anxiety,flag_comorbid
+"England and Wales, year ending March 2025",,,,,,,unknown,0,0,0
+This worksheet contains one table. The units in this table are percentage of people who were victims of crime once or more. Some cells refer to notes which can be found on the Notes worksheet.,,,,,,,unknown,0,0,0
+Link to Notes,,,,,,,unknown,0,0,0
+Link to Table of contents,,,,,,,unknown,0,0,0
+Source: Crime Survey for England and Wales from the Office for National Statistics ,,,,,,,unknown,0,0,0
+Household characteristic [note 1],Household and area characteristics breakdown,"All CSEW headline crime (including fraud and computer misuse)  percentage, victims once or more [note 2]","Personal crime (including fraud and computer misuse) percentage, victims once or more  [note 3]",Unweighted base - number of people aged 16 and over,"Household crime, percentage, victims once or more [note 9]","Unweighted base - 
+number of households",unknown,0,0,0
+All people,All people,17.06516390552321,10.79438186003107,31532,7.460349069906937,31375,unknown,0,0,0
+Structure of household,Single person with child(ren) under 16,20.58843624371521,13.005653260422,1345,10.35973002365591,1333,unknown,0,0,0
+Structure of household,Persons with child(ren) under 16,19.36891914705249,11.62935544573762,6007,9.45426544165405,5906,unknown,0,0,0
+Structure of household,Person(s) and no child(ren),16.20721680698627,10.45520681262318,24180,6.733750814601041,24136,unknown,0,0,0
+Total household income,"Less than £10,400",16.91447366125166,11.1586163588323,1442,7.705144897526278,1438,unknown,0,0,0
+Total household income,"£10,400 to less than £20,800",15.49994190919822,10.03617244158322,4985,6.438820402331539,4976,unknown,0,0,0
+Total household income,"£20,800 to less than £31,200",16.51264797642957,10.24032809156821,5092,7.224845550155077,5083,unknown,0,0,0
+Total household income,"£31,200 to less than £41,600",15.00571355457815,10.43798329522052,3390,6.155423663696683,3381,unknown,0,0,0
+Total household income,"£41,600 to less than £52,000",18.37935701906243,12.45401818959617,3034,7.495620975743887,3030,unknown,0,0,0
+Total household income,"£52,000 or more",20.9765064165987,13.19886248476366,7020,9.781625993362002,6988,unknown,0,0,0
+Total household income,No income stated or not enough information provided,9.024623956918,6.123294030212318,358,4.353128199332544,354,unknown,0,0,0
+Tenure,Owners,16.49763766179455,10.50086331777856,19655,7.042389771421524,19568,unknown,0,0,0
+Tenure,Social renters,18.92998937112604,11.78352275287721,5375,8.899351027342362,5351,unknown,0,0,0
+Tenure,Private renters,17.44408138400458,11.02049053720999,6131,7.665174249798589,6098,unknown,0,0,0
+Accommodation type,Houses,16.74878466565142,10.61908996603137,25867,7.219979716803982,25726,unknown,0,0,0
+Accommodation type,Detached,15.29832044134954,10.85378543497862,7149,5.380624911888257,7127,unknown,0,0,0
+Accommodation type,Semi-detached,16.03253324984507,9.940335771036514,9318,6.966559401904604,9255,unknown,0,0,0
+Accommodation type,Terraced,18.73205762693419,11.14286049406437,9400,8.98068169376635,9344,unknown,0,0,0
+Accommodation type,Flats/maisonettes,18.85303350906663,11.82138178164169,5480,8.52074193896026,5464,unknown,0,0,0
+Accommodation type,Other accommodation,10.59167958379597,6.667496483621103,67,4.246435850651476,67,unknown,0,0,0
+Output Area Classification,Rural residents,14.89126527795777,11.39975639247494,3780,4.284887468082813,3768,unknown,0,0,0
+Output Area Classification,Cosmopolitans,18.81674471512433,11.38475319412268,1370,9.198364629166878,1367,unknown,0,0,0
+Output Area Classification,Ethnicity central,21.15035936584999,12.27668624734922,2082,10.86570089669708,2071,unknown,0,0,0
+Output Area Classification,Multicultural metropolitans,18.32426345161678,9.500905240595449,4154,10.0302117098809,4096,unknown,0,0,0
+Output Area Classification,Urbanites,18.35913546955688,11.76993297501071,5387,7.81542817993334,5364,unknown,0,0,0
+Output Area Classification,Suburbanites,14.91385070395011,10.45402441778661,5633,5.24121855881007,5617,unknown,0,0,0
+Output Area Classification,Constrained city dwellers,17.91736329197282,11.1391016587129,2656,8.227365679005691,2648,unknown,0,0,0
+Output Area Classification,Hard-pressed living,16.16252648869554,9.935678509542885,6470,7.602633024578697,6444,unknown,0,0,0
+Area type,Urban,17.6280597235586,10.75981519575919,25194,8.151181155502208,25063,unknown,0,0,0
+Area type,Rural,14.77287127662528,10.93514842318049,6338,4.702648502822523,6312,unknown,0,0,0
+Level of physical disorder,High,19.37347384970746,9.93935628380134,2041,10.12350774670894,2028,unknown,0,0,0
+Level of physical disorder,Not high,16.90968871927875,10.8390518403854,29403,7.293406984909716,29260,unknown,0,0,0
+English Indices of Deprivation (Employment),20% most deprived Output Areas,18.30415199919918,10.45479573447737,7553,9.365659396310066,7511,unknown,0,0,0
+English Indices of Deprivation (Employment),Other Output Areas,17.32175110357909,11.29776558460584,16753,7.200801343516996,16673,unknown,0,0,0
+English Indices of Deprivation (Employment),20% least deprived Output Areas,16.46184696510334,10.34583403631606,5034,7.146006325763568,5016,unknown,0,0,0
+Welsh Indices of Deprivation (Employment),20% most deprived Output Areas,14.67458810391581,8.29259336563122,541,8.220482502377074,536,unknown,0,0,0
+Welsh Indices of Deprivation (Employment),Other Output Areas,10.00257046733952,6.137100679181859,1282,3.820459848093111,1271,unknown,0,0,0
+Welsh Indices of Deprivation (Employment),20% least deprived Output Areas,15.56529838195492,13.77901564463779,369,3.395921511647775,368,unknown,0,0,0
+Region,North East,15.2202803300184,7.874510823238823,1890,7.712923744800531,1886,unknown,0,0,0
+Region,North West,15.52659641359042,9.830152891359798,4031,6.935728996287609,3988,unknown,0,0,0
+Region,Yorkshire and The Humber,15.24501138494833,9.778161882993205,3240,6.698456957512009,3229,unknown,0,0,0
+Region,East Midlands,16.74576736564418,11.19944803065567,3008,6.447577877340836,3000,unknown,0,0,0
+Region,West Midlands,17.22174940473444,11.18173890942908,3159,6.700317895115101,3151,unknown,0,0,0
+Region,East,17.14073803521677,10.85793804904178,3533,7.180387626396503,3506,unknown,0,0,0
+Region,London,18.69964940539424,10.27327626610215,3878,9.94890051612598,3853,unknown,0,0,0
+Region,South East,18.11167285228114,12.22353622181171,3686,7.488265876279833,3677,unknown,0,0,0
+Region,South West,20.14992119774879,13.49158721082665,2915,8.483897604443277,2910,unknown,0,0,0
+Region,Wales,12.06738825209307,8.160389825127337,2192,4.600681165547926,2175,unknown,0,0,0

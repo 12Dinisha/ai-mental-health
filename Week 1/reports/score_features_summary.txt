@@ -1,0 +1,51 @@
+============================================================
+AIML-2  Score Feature Engineering Summary
+AI Mental Health UK — Week 2
+============================================================
+Total rows:       26,350
+Total columns:    14
+Engineered cols:  12
+
+--- PHQ-9 scores ---
+Mean:   11.36
+Median: 12
+Std:    6.94
+
+phq9_tier
+moderately_severe    6585
+minimal              5924
+moderate             5172
+mild                 5049
+severe               3620
+
+--- GAD-7 scores ---
+Mean:   9.34
+Median: 10
+Std:    4.72
+
+gad7_tier
+moderate    11434
+mild         7045
+minimal      4707
+severe       3164
+
+--- Risk summary ---
+High-risk (PHQ>=15 or GAD>=15): 12,411 (47.1%)
+Severity index mean:            0.431
+
+--- PHQ-9 change flags ---
+phq9_change
+unknown    26350
+
+--- GAD-7 change flags ---
+gad7_change
+unknown    26350
+
+--- Preview (first 5 rows, engineered cols) ---
+   phq9_score          phq9_tier  phq9_tier_code phq9_change  phq9_change_code  gad7_score gad7_tier  gad7_tier_code gad7_change  gad7_change_code  severity_index  high_risk
+0          13           moderate               2     unknown               -99           9      mild               1     unknown               -99          0.4583          0
+1          17  moderately_severe               3     unknown               -99          14  moderate               2     unknown               -99          0.6458          1
+2          16  moderately_severe               3     unknown               -99          12  moderate               2     unknown               -99          0.5833          1
+3           7               mild               1     unknown               -99          17    severe               3     unknown               -99          0.5000          1
+4           0            minimal               0     unknown               -99          12  moderate               2     unknown               -99          0.2500          0
+============================================================

@@ -1,0 +1,26 @@
+============================================================
+AIML-3 SHAP SUMMARY
+============================================================
+
+Top Features
+
+              feature  mean_abs_shap
+       phq9_tier_code       2.156317
+       gad7_tier_code       1.171671
+       severity_index       0.523847
+           phq9_score       0.323793
+     high_deprivation       0.275673
+           gad7_score       0.263101
+            high_risk       0.188936
+    comorbidity_count       0.149606
+      flag_depression       0.146039
+        age_band_code       0.132587
+            imd_proxy       0.108902
+flag_comorbid_anx_dep       0.022389
+         flag_anxiety       0.014529
+     phq9_change_code       0.000000
+     gad7_change_code       0.000000
+
+SHAP Shape → (76, 15)
+Max SHAP → 7.888547
+Mean SHAP → 0.365159

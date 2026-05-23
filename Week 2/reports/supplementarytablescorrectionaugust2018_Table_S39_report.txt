@@ -1,0 +1,11 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : supplementarytablescorrectionaugust2018.xls
+Sheet    : Table S39
+Rows     : 42
+Columns  : 17
+Duplicates : 0
+Missing Cells : 195
+

@@ -1,0 +1,57 @@
+"table c10: high levels of perceived anti-social behaviour in local area, by household and area characteristics, people aged 16 and over [note 1]",unnamed: 1,unnamed: 2,unnamed: 3,age_band
+"England and Wales, year ending March 2025",,,,unknown
+This worksheet contains one table. Some cells refer to notes which can be found on the Notes worksheet. The units used in this table are percentages.,,,,unknown
+Link to Notes page,,,,unknown
+Some shorthand is used in this table. [u] indicates that that data are not reported because the unweighted base is fewer than 50,,,,unknown
+Link to Table of contents,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,unknown
+Household characteristic [note 1] ,Household/area characteristics breakdown,"Percentage of people reporting high level of perceived ASB
+ [note 2]",Unweighted base - number of people aged 16 and over,unknown
+All people,All people,8.275303094814102,7661,unknown
+Structure of household ,Single person and child(ren) under 16,16.20713862432562,321,unknown
+Structure of household ,Persons and child(ren) under 16,10.08125798003406,1427,unknown
+Structure of household ,Person(s) and no child(ren),7.460688746066094,5913,unknown
+Total household income,"Less than £10,400",11.14732701059435,348,unknown
+Total household income,"£10,400 to less than £20,800",9.883386713299961,1198,unknown
+Total household income,"£20,800 to less than £31,200",8.586940229987269,1247,unknown
+Total household income,"£31,200 to less than £41,600",9.261164231902175,839,unknown
+Total household income,"£41,600 to less than £52,000",9.625029023104602,763,unknown
+Total household income,"£52,000 or more",6.715392991463467,1692,unknown
+Total household income,No income stated or not enough information provided,4.706851037257107,79,unknown
+Tenure,Owner occupiers,5.664092296333775,4855,unknown
+Tenure,Social renters,17.7679166029911,1311,unknown
+Tenure,Private renters,9.33811797557665,1418,unknown
+Accommodation type ,Houses,7.220014270515655,6309,unknown
+Accommodation type ,Detached,3.285591969626183,1716,unknown
+Accommodation type ,Semi-detached,5.92979685307243,2361,unknown
+Accommodation type ,Terraced,12.01075126020558,2232,unknown
+Accommodation type ,Flats/maisonettes,13.89647632654308,1313,unknown
+Accommodation type ,Other,[u],17,unknown
+Output Area Classification,Rural residents,2.216428517557078,962,unknown
+Output Area Classification,Cosmopolitans,13.75522785471736,322,unknown
+Output Area Classification,Ethnicity central,19.10027189653445,458,unknown
+Output Area Classification,Multicultural metropolitans,14.39559306598139,996,unknown
+Output Area Classification,Urbanites,4.366242320046765,1364,unknown
+Output Area Classification,Suburbanites,2.852434929805793,1388,unknown
+Output Area Classification,Constrained city dwellers,16.30933267515197,624,unknown
+Output Area Classification,Hard-pressed living,9.726136445614586,1547,unknown
+Area type,Urban,9.868145800711,6093,unknown
+Area type,Rural,2.016631453417122,1568,unknown
+Level of physical disorder,High,27.21185910084723,500,unknown
+Level of physical disorder,Not high,7.057296173511282,7145,unknown
+English Indices of Deprivation (Employment),20% most deprived output areas,17.13078704128895,1795,unknown
+English Indices of Deprivation (Employment),Other output areas,7.31470872090402,4053,unknown
+English Indices of Deprivation (Employment),20% least deprived output areas,3.041250753528712,1258,unknown
+Welsh Indices of Deprivation (Employment),20% most deprived output areas,9.737966693556812,144,unknown
+Welsh Indices of Deprivation (Employment),Other output areas,6.402878516839865,313,unknown
+Welsh Indices of Deprivation (Employment),20% least deprived output areas,4.476337095020922,98,unknown
+Region,North East,7.401449386503504,478,unknown
+Region,North West,8.1154478797337,974,unknown
+Region,Yorkshire and The Humber,11.17148128678561,782,unknown
+Region,East Midlands,6.177877022368246,720,unknown
+Region,West Midlands,9.686491993324093,738,unknown
+Region,East,5.83040241612906,871,unknown
+Region,London,13.75789841968129,914,unknown
+Region,South East,5.085801929739817,925,unknown
+Region,South West,7.107466760719144,704,unknown
+Region,Wales,6.703517286209775,555,unknown

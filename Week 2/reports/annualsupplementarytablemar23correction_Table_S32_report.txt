@@ -1,0 +1,11 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : annualsupplementarytablemar23correction.xlsx
+Sheet    : Table S32
+Rows     : 16
+Columns  : 29
+Duplicates : 0
+Missing Cells : 172
+

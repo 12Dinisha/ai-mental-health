@@ -1,0 +1,46 @@
+"table s15: percentage of incidents in which victims were satisfied with the police by personal characteristics, year ending march 2017 csew1",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,age_band
+England and Wales,,,,,,Adults aged 16 and over,unknown
+,Satisfaction with the police,Unweighted base - number of adults,,,Satisfaction with the police,Unweighted base - number of adults,unknown
+,Percentage of incidents in which the victim was 'very' or 'fairly' satisfied with the police,,,,Percentage of incidents in which the victim was 'very' or 'fairly' satisfied with the police,,unknown
+ALL INCIDENTS,68.41372141958121,2155,,Marital status,,,unknown
+,,,,Married/civil partnered,70.17830522805579,809,unknown
+Sex,,,,Cohabiting,70.3305164183285,322,unknown
+Men,68.41898203580232,979,,Single,64.19021083201167,610,unknown
+Women,68.40906462068025,1176,,Separated,63.12577377298258,90,unknown
+,,,,Divorced/legally dissolved partnership,71.30956609760453,211,unknown
+Age,,,,Widowed,77.77324995148578,108,unknown
+16-24,64.81367670580622,262,,,,,unknown
+25-34,65.69498443554448,441,,Respondent's employment status,,,unknown
+35-44,70.70323575402794,428,,In employment,70.17436890224828,1387,unknown
+45-54,67.30517550769642,437,,Unemployed,53.333184635917185,81,unknown
+55-64,72.00702766418084,296,,Economically inactive,66.58285912006777,681,unknown
+65-74,71.65771405494502,179,,Student,..,64,unknown
+75+,76.13161028489792,112,,Looking after family/home,61.12114554508993,131,unknown
+,,,,Long-term/temporarily sick/ill,65.46202054654138,171,unknown
+Ethnic group,,,,Retired,-,18,unknown
+White ,68.6729165777813,1889,,Other inactive,59.76317750449558,297,unknown
+   English/Welsh/Scottish/Northern Irish/British,69.03443439052225,1772,,,,,unknown
+   Irish,-,11,,Respondent's occupation (NS-SEC),,,unknown
+   Gypsy or Irish Traveller,-,1,,Managerial and professional occupations,72.1145137582626,730,unknown
+   Any other white background,63.950088958636044,105,,Intermediate occupations,65.06871827793077,504,unknown
+Mixed/Multiple,-,29,,Routine and manual occupations,68.55573744320223,714,unknown
+   White and Black Caribbean,-,8,,Never worked and long-term unemployed,68.16795907502541,103,unknown
+   White and Black African,-,3,,Full-time students,60.49101781245382,98,unknown
+   White and Asian,-,9,,Not classified,63.985435919022606,6,unknown
+   Any other Mixed/Multiple ethnic background,78.68382200653897,9,,,,,unknown
+Asian/Asian British,57.19573618828883,138,,Highest qualification,,,unknown
+   Indian,44.29910522111452,56,,Degree or diploma,69.84192555429892,888,unknown
+   Pakistani,-,37,,Apprenticeship or A/AS level,73.69126443620655,440,unknown
+   Bangladeshi,-,14,,O level/GCSE,66.7350436325391,406,unknown
+   Chinese,-,10,,Other,54.92977890716336,67,unknown
+   Any other Asian background,-,21,,,62.09993887808002,347,unknown
+Black/African/Caribbean/Black British,64.96111677775377,69,,,,,unknown
+   African,-,43,,,,,unknown
+   Caribbean,-,22,,Long-standing illness or disability ,,,unknown
+   Any other Black/African/Caribbean background,-,4,,Long-standing illness or disability ,61.758391664985325,592,unknown
+Other ethnic group,-,22,,Limits activities,60.760434897233786,480,unknown
+   Arab,-,7,,Does not limit activities,66.4256884263367,112,unknown
+   Any other ethnic group,-,15,,No long-standing illness or disability ,71.04163076975966,1558,unknown
+" Source: Crime Survey for England and Wales, Office for National Statistics",,,,,,,unknown
+1. See Section 7.3 of the User Guide for definitions of personal characteristics.,,,,,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,,,,,unknown

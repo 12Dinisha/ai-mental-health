@@ -1,0 +1,55 @@
+"table s3: ratings of the local police, people aged 16 and over, by household and area characteristics, year ending march 2023",unnamed: 1,unnamed: 2,unnamed: 3
+England and Wales,,,
+This worksheet contains one table. Some cells refer to notes which can be found on the Notes worksheet. The units in this table are percentage.,,,
+Link to notes ,,,
+Link to table of contents,,,
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,
+Household or area characteristic [note 1],Household or area characteristic breakdown,Percentage saying local police doing a good/excellent job,Unweighted base - number of people aged 16 and over
+All people,All people,51.16860086640392,29334
+Structure of household,Single person with child(ren) under 16,49.63683919946544,1228
+Structure of household,Persons with child(ren) under 16,55.744860188443745,5584
+Structure of household,Person(s) and no child(ren),49.687874385951034,22522
+Total Household Income,"Less than £10,400",52.32648291885794,2148
+Total Household Income,"£10,400 to less than £20,800",49.635642985561574,5004
+Total Household Income,"£20,800 to less than £31,200",49.44204682475747,4512
+Total Household Income,"£31,200 to less than £41,600",50.67869246477529,3325
+Total Household Income,"£41,600 to less than £52,000",50.06214309106395,2864
+Total Household Income,"£52,000 or more",51.92831086451346,5997
+Total Household Income,No income stated of not enough information provided,51.513131055760375,485
+Tenure,Owners,50.02103758417391,19527
+Tenure,Social renters,47.84716397477758,4418
+Tenure,Private renters,56.78239574910049,5085
+Accommodation type,House or bungalow,50.56148958754497,24828
+Accommodation type,    Detached,51.79352473287734,7880
+Accommodation type,    Semi-detached,51.54010953396438,9147
+Accommodation type,    Terraced,48.41694826444323,7801
+Accommodation type,Flats/maisonettes,54.51335898079953,4306
+Accommodation type,Other accommodation,67.82748064229256,74
+Output Area Classification,Rural residents,54.39584965952885,3944
+Output Area Classification,Cosmopolitans,53.000009160681394,1029
+Output Area Classification,Ethnicity central,49.372992004425484,1322
+Output Area Classification,Multicultural metropolitans,51.38981654372562,3595
+Output Area Classification,Urbanites,54.041537911546854,5438
+Output Area Classification,Suburbanites,51.587733831662995,6451
+Output Area Classification,Constrained city dwellers,47.08846768589859,2021
+Output Area Classification,Hard-pressed living,47.03842049955214,5534
+Area type,Urban,50.60444248460287,22951
+Area type,Rural,53.62295654027819,6383
+Level of physical disorder,High,46.249403278716265,1980
+Level of physical disorder,Not high,51.54836835101298,27316
+English Indices of Deprivation (Employment) ,20% most deprived Output Areas,47.22058464309925,5102
+English Indices of Deprivation (Employment) ,Other Output Areas,51.27164793365553,16422
+English Indices of Deprivation (Employment) ,20% least deprived Output Areas,54.15688221599804,5485
+Welsh Indices of Deprivation (Employment) ,20% most deprived Output Areas,50.33373897878489,360
+Welsh Indices of Deprivation (Employment) ,Other Output Areas,51.80669593223003,1544
+Welsh Indices of Deprivation (Employment) ,20% least deprived Output Areas,59.889822253133026,421
+Region,North East,52.58537233939751,1518
+Region,North West,47.897209145556005,3484
+Region,Yorkshire and The Humber,48.6710680808726,2346
+Region,East Midlands,49.02446679540528,2866
+Region,West Midlands,50.01122824956701,3406
+Region,East,53.32399638901006,3242
+Region,London,51.46540897954909,3098
+Region,South East,52.120936969857766,4125
+Region,South West,54.6965702522196,2924
+Region,Wales,53.00094828540865,2325

@@ -1,0 +1,13 @@
+column,dtype,null_count,null_rate,flagged
+age,int64,0,0.0,False
+sex,int64,0,0.0,False
+ethnicity,int64,0,0.0,False
+imd_quintile,int64,0,0.0,False
+region,str,0,0.0,False
+any_cmd,int64,0,0.0,False
+depression,int64,0,0.0,False
+anxiety_gad,int64,0,0.0,False
+phobia,int64,0,0.0,False
+ocd,int64,0,0.0,False
+cpd,int64,0,0.0,False
+weight,float64,0,0.0,False

@@ -1,0 +1,28 @@
+======================================================================
+WEEK 3 — AIML-2: ENSEMBLE MODEL REPORT
+AI Mental Health UK Project
+======================================================================
+
+--- TEST SET METRICS ---
+  Accuracy: 1.0000
+  F1 Score: 1.0000
+  ROC-AUC:  1.0000
+
+--- CROSS-VALIDATION ---
+  F1 Score: 1.0000 ± 0.0000
+
+--- CLASSIFICATION REPORT ---
+              precision    recall  f1-score   support
+
+    Low Risk       1.00      1.00      1.00        74
+   High Risk       1.00      1.00      1.00        26
+
+    accuracy                           1.00       100
+   macro avg       1.00      1.00      1.00       100
+weighted avg       1.00      1.00      1.00       100
+
+
+--- TARGET CHECK ---
+✅ F1 Target (0.80) Achieved!
+
+======================================================================

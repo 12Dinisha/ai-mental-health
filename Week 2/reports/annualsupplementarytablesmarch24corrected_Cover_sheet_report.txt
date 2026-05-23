@@ -1,0 +1,11 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : annualsupplementarytablesmarch24corrected.xlsx
+Sheet    : Cover sheet
+Rows     : 12
+Columns  : 3
+Duplicates : 0
+Missing Cells : 6
+

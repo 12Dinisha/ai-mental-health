@@ -1,0 +1,68 @@
+"table s18: attitudes to local police, by police force area, english regions and wales, year ending march 2020 csew1",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,unnamed: 7,unnamed: 8,unnamed: 9,unnamed: 10,age_band
+England and Wales,,,,,,,,,,Adults aged 16 and over,unknown
+Area Code,Area Name,,Rating of local police,,,,Police deal with local concerns,,,,unknown
+,,,"% saying
+police do
+excellent/good job",Statistically significantly different from England and Wales2,"Statistically significantly different from
+Apr '18 to 
+Mar '192",,% agree,Statistically significantly different from England and Wales2,"Statistically significantly different from
+Apr '18 to 
+Mar '192",Unweighted base - number of adults3,unknown
+K04000001,ENGLAND AND WALES,,55.36026245098808,:,*↓,,52.96814279848526,:,*↓,31791,unknown
+E92000001,ENGLAND,,55.35663610991069,,*↓,,52.95102012189904,,*↓,29430,unknown
+E12000001,North East,,63.86457100596295,*,,,62.55225920740818,*,,1934,unknown
+E23000013,Cleveland,,50.87709286877207,,,,54.45780976517119,,,558,unknown
+E23000008,Durham,,64.40450018833299,*,,,61.64255685124862,*,,609,unknown
+E23000007,Northumbria,,67.91331870484869,*,,,65.6463331155764,*,,767,unknown
+E12000002,North West,,54.91395787582378,,,,54.39623259953758,,,4038,unknown
+E23000006,Cheshire,,68.84024596006385,*,,,60.04520733356071,*,,592,unknown
+E23000002,Cumbria,,59.78969912315108,,,,58.98141518260757,*,,577,unknown
+E23000005,Greater Manchester,,47.264817196460996,*,,,50.59995186209413,,,1313,unknown
+E23000003,Lancashire,,52.40848122320474,,,,58.00741033164676,,,707,unknown
+E23000004,Merseyside,,59.1579845471445,,,,52.24016675265633,,*↓,849,unknown
+E12000003,Yorkshire and the Humber,,54.86034185690054,,,,50.28251699780985,*,,2877,unknown
+E23000012,Humberside,,54.42754488666782,,,,50.51186853382563,,,588,unknown
+E23000009,North Yorkshire,,64.94991709489268,*,,,62.64775893944214,*,,575,unknown
+E23000011,South Yorkshire,,49.680989982494495,*,,,44.613177535184825,*,,638,unknown
+E23000010,West Yorkshire,,54.46991648953437,,,,49.1206298881992,,,1076,unknown
+E12000004,East Midlands,,55.066940145378204,,,,51.399029925349694,,,2855,unknown
+E23000018,Derbyshire,,51.56629645722037,,,,50.09612857329756,,,563,unknown
+E23000021,Leicestershire,,54.61822546692068,,,,51.77098532907008,,,555,unknown
+E23000020,Lincolnshire,,62.7738845487748,*,,,59.2107145783024,*,,605,unknown
+E23000022,Northamptonshire,,52.61166944129842,,,,50.430732581571235,,,529,unknown
+E23000019,Nottinghamshire,,54.28362613043311,,,,47.147970890903,*,,604,unknown
+E12000005,West Midlands,,47.82143456436134,*,*↓,,48.31659860855539,*,*↓,2832,unknown
+E23000015,Staffordshire,,50.245144545093524,*,*↓,,47.760893480249464,*,*↓,559,unknown
+E23000017,Warwickshire,,53.977654964378615,,,,52.25781101305989,,,550,unknown
+E23000016,West Mercia,,54.6457203999498,,,,51.394510803586336,,,524,unknown
+E23000014,West Midlands,,42.474270106071735,*,*↓,,46.41102811466863,*,*↓,1199,unknown
+E12000006,East,,54.64339668594461,,,,51.88604030733422,,,3628,unknown
+E23000026,Bedfordshire,,49.83640073817259,*,,,51.96707196372573,,,555,unknown
+E23000023,Cambridgeshire,,54.05158519359029,,,,53.72872568479174,,,555,unknown
+E23000028,Essex,,48.57118156197524,*,,,46.40263427592781,*,,861,unknown
+E23000027,Hertfordshire,,61.200040472556864,*,*↓,,57.43032843038098,*,*↓,573,unknown
+E23000024,Norfolk,,63.27012929422508,*,,,54.908434126946915,,*↓,543,unknown
+E23000025,Suffolk,,53.130503076790674,,,,50.064661039448346,,,540,unknown
+E12000007,London,,54.610326239137876,,*↓,,55.704988829267556,*,*↓,3712,unknown
+E12000007,City of London / Metropolitan Police,,54.610326239137876,,*↓,,55.704988829267556,*,*↓,3712,unknown
+E12000008,South East,,56.4629782061738,,*↓,,51.65968011422894,,*↓,4333,unknown
+E23000030,Hampshire,,59.483855700623465,,,,54.615731622689516,,,903,unknown
+E23000032,Kent,,50.55323555141664,*,,,46.47270444689818,*,*↓,792,unknown
+E23000031,Surrey,,58.43022627804359,,,,52.99759923763282,,,640,unknown
+E23000033,Sussex,,52.911039087905344,,,,43.26414989094778,*,,919,unknown
+E23000029,Thames Valley,,59.727891226761066,*,,,58.752153759094895,*,,1079,unknown
+E12000009,South West,,60.30510826101528,*,,,53.839204136160255,,,3221,unknown
+E23000036,Avon and Somerset,,62.011852902667265,*,,,53.59273815809357,,,806,unknown
+E23000035,Devon and Cornwall,,56.26113157972688,,,,53.401623792466964,,,800,unknown
+E23000039,Dorset,,61.40327698379434,*,,,58.34001950021999,*,,569,unknown
+E23000037,Gloucestershire,,58.734325569946165,,,,47.69287134949748,,,486,unknown
+E23000038,Wiltshire,,65.44244582816508,*,,,55.434272666318805,,,560,unknown
+W92000004,WALES,,55.423867642622916,,*↓,,53.27106846433756,,*↓,2361,unknown
+W15000004,Dyfed-Powys,,63.80351995160037,*,,,55.30638963133093,,,574,unknown
+W15000002,Gwent,,45.91776952386168,*,,,51.46087823291731,,,561,unknown
+W15000001,North Wales,,59.54635555073934,,,,59.48514312613092,*,,632,unknown
+W15000003,South Wales,,54.01252256714044,,,,48.95494311747403,,*↓,594,unknown
+Source: Office for National Statistics - Crime Survey for England and Wales,,,,,,,,,,,unknown
+"1. Being based on small sample sizes, police force area estimates from the CSEW are less robust than national level estimates and should be treated with extreme caution.",,,,,,,,,,,unknown
+"2. Statistically significant change at the 5% level is indicated by an asterisk. For more information on statistical significance, see Chapter 8 of the User Guide.",,,,,,,,,,,unknown
+3. Unweighted base refers to ratings of local police; base for police deal with local concerns will be similar.,,,,,,,,,,,unknown

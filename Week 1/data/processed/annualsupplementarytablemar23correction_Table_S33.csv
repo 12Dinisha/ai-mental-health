@@ -1,0 +1,109 @@
+"table s33: high levels of perceived anti-social behaviour in local area, people aged 16 and over, by personal characteristics",unnamed: 1,unnamed: 2,unnamed: 3,age_band
+"England and Wales, year ending March 2023",,,,unknown
+This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. The units used in this table are percentages.,,,,unknown
+Link to notes,,,,unknown
+Some shorthand is used in this table. [u] denotes that that data are not reported because the unweighted base is fewer than 50,,,,unknown
+Link to table of contents,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,unknown
+Personal characteristic [note 1] ,Personal characteristic breakdown,Percentage of people reporting high level of perceived ASB [note 2],Unweighted base - number of people aged 16 and over,unknown
+All people,All people,7.701104687032361,7891,unknown
+All people,16-24,11.235134447779945,476,unknown
+All people,25-34,9.529031446953724,1068,unknown
+All people,35-44,8.648352458235884,1255,unknown
+All people,45-54,8.010702253264302,1126,unknown
+All people,55-64,6.944284937164769,1421,unknown
+All people,65-74,4.651306393521924,1327,unknown
+All people,75+,2.8282771830916964,1218,unknown
+Men,Men,7.282944534636631,3814,unknown
+Men,16-24,10.813959653883966,241,unknown
+Men,25-34,8.40839685045043,513,unknown
+Men,35-44,8.516781737595375,564,unknown
+Men,45-54,6.13500809884785,527,unknown
+Men,55-64,7.370474633248675,729,unknown
+Men,65-74,5.015226434046366,664,unknown
+Men,75+,2.0649183350182865,576,unknown
+Women,Women,8.128192174291886,4077,unknown
+Women,16-24,11.690524641113003,235,unknown
+Women,25-34,10.861605077209909,555,unknown
+Women,35-44,8.780150742801561,691,unknown
+Women,45-54,9.731142498625967,599,unknown
+Women,55-64,6.474383098440846,692,unknown
+Women,65-74,4.300427043576951,663,unknown
+Women,75+,3.475800258859929,642,unknown
+Ethnic group,White ,7.1826969582510785,6859,unknown
+Ethnic group,   English/Welsh/Scottish/Northern Irish/British,6.799428684141705,6298,unknown
+Ethnic group,   Irish,4.621861422727667,79,unknown
+Ethnic group,   Gypsy or Irish Traveller,[u],7,unknown
+Ethnic group,   Any other white background,11.060220681963093,475,unknown
+Ethnic group,Mixed/Multiple,10.164825188964713,113,unknown
+Ethnic group,   White and Black Caribbean,[u],28,unknown
+Ethnic group,   White and Black African,[u],25,unknown
+Ethnic group,   White and Asian,[u],22,unknown
+Ethnic group,   Any other Mixed/Multiple ethnic background,[u],38,unknown
+Ethnic group,Asian/Asian British,10.52794796028101,580,unknown
+Ethnic group,   Indian,10.209257441617435,261,unknown
+Ethnic group,   Pakistani,12.368674713569346,122,unknown
+Ethnic group,   Bangladeshi,[u],40,unknown
+Ethnic group,   Chinese,5.458590141163653,63,unknown
+Ethnic group,   Any other Asian background,7.290909023220901,94,unknown
+Ethnic group,Black/African/Caribbean/Black British,7.886228274657441,247,unknown
+Ethnic group,   African,6.506649062133622,172,unknown
+Ethnic group,   Caribbean,12.048698288912021,66,unknown
+Ethnic group,   Any other Black/African/Caribbean background,[u],9,unknown
+Ethnic group,Other ethnic group,9.611828149785234,74,unknown
+Ethnic group,   Arab,[u],29,unknown
+Ethnic group,   Any other ethnic group,[u],45,unknown
+Country of birth,Born in the UK,7.246801148743629,6584,unknown
+Country of birth,Not born in the UK,9.19552703920157,1281,unknown
+Marital status,Married/civil partnered,6.022280765155324,3544,unknown
+Marital status,Cohabiting,7.789860328184868,732,unknown
+Marital status,Single,10.790041946878036,1908,unknown
+Marital status,Separated,8.005563230516488,203,unknown
+Marital status,Divorced/legally dissolved partnership,9.82761450600567,647,unknown
+Marital status,Widowed,2.5687409267195522,802,unknown
+Respondent's employment status,Employed,7.407196353055198,4447,unknown
+Respondent's employment status,Unemployed,7.216809911372303,78,unknown
+Respondent's employment status,Economically inactive,8.092687388791484,3343,unknown
+Respondent's employment status,Economically inactive: student,11.315419655373594,167,unknown
+Respondent's employment status,Economically inactive: looking after family/home,15.862562408579453,270,unknown
+Respondent's employment status,Economically inactive: long-term/temp sick/ill,15.907795272575223,366,unknown
+Respondent's employment status,Economically inactive: retired,3.4917764540354814,2414,unknown
+Respondent's employment status,Economically inactive: other,21.354933148978226,126,unknown
+Respondent's occupation,Managerial and professional occupations,4.9349226890815,3026,unknown
+Respondent's occupation,Intermediate occupations,6.713283436192295,1807,unknown
+Respondent's occupation,Routine and manual occupations,9.797508222224305,2284,unknown
+Respondent's occupation,Never worked and long-term unemployed,16.829090172169213,372,unknown
+Respondent's occupation,Full-time students,10.47228358170425,256,unknown
+Respondent's occupation,Not classified,9.41692409815316,146,unknown
+Highest qualification,Degree or diploma,5.889352631062071,3519,unknown
+Highest qualification,Apprenticeship or A/AS level,7.498975235302098,1242,unknown
+Highest qualification,O level/GCSE,8.484961864587461,1305,unknown
+Highest qualification,Other,9.128500749464694,360,unknown
+Highest qualification,,11.545293541500957,1420,unknown
+Disability [note 3],Disabled,10.070971725077088,1664,unknown
+Disability [note 3],Not disabled,7.146393200339062,6189,unknown
+Religion,No religion,7.9747446099556845,3142,unknown
+Religion,Christian,6.372094980038416,4085,unknown
+Religion,Buddhist,[u],29,unknown
+Religion,Hindu,10.940552255600867,157,unknown
+Religion,Jewish,[u],25,unknown
+Religion,Muslim,12.155706972705092,314,unknown
+Religion,Sikh,[u],48,unknown
+Religion,Other,7.6555913908908675,50,unknown
+Sexual orientation [note 4],Heterosexual/straight,7.2430394791095605,6580,unknown
+Sexual orientation [note 4],Gay/Lesbian,9.27661738342145,119,unknown
+Sexual orientation [note 4],Bisexual,8.88231165171858,134,unknown
+Sexual orientation [note 4],Other,[u],32,unknown
+Gender identity [note 5],Gender the same as the sex registered at birth,7.6595214498011375,6477,unknown
+Gender identity [note 5],Gender not the same as the sex registered at birth,[u],32,unknown
+Experience of crime in last 12 months (including fraud and computer misuse),Victim,13.257856770575623,1106,unknown
+Experience of crime in last 12 months (including fraud and computer misuse),Not a victim,6.675700656518162,6785,unknown
+Number of hours away from home on weekday,Less than 3 hours,6.845900918688718,3490,unknown
+Number of hours away from home on weekday,3 hours or more but less than 7 hours,7.608480056149664,2112,unknown
+Number of hours away from home on weekday,7 hours or longer,8.936137920666612,2254,unknown
+Number of evening visits to a pub/bar in the last month,,8.470056322383241,4488,unknown
+Number of evening visits to a pub/bar in the last month,Less than once a week,6.5294698216412606,2320,unknown
+Number of evening visits to a pub/bar in the last month,Once a week or more often,7.282007891191548,1074,unknown
+Number of visits to a nightclub in the last month [note 6],,6.38830634216951,3091,unknown
+Number of visits to a nightclub in the last month [note 6],1-3 times,8.168970371424509,263,unknown
+Number of visits to a nightclub in the last month [note 6],4+ times,[u],40,unknown

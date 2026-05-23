@@ -1,0 +1,51 @@
+"table s36: worry about crime by household and area characteristics, year ending march 2016 csew1",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,age_band
+England and Wales,,,,Adults aged 16 and over,unknown
+,Worry about burglary,Worry about car crime,Worry about violent crime,Unweighted base - number of adults2,unknown
+,Percentage with high levels of worry,,,,unknown
+ALL ADULTS,10.666253594147395,6.042805903138256,11.52638840766869,8729,unknown
+Structure of household,,,,,unknown
+Single adult and child(ren),15.450778666193157,4.9972012359281335,18.99886733251404,447,unknown
+Adults and child(ren),12.082763031763424,5.81514585775024,13.64722242380743,1842,unknown
+Adult(s) and no child(ren),9.918567682531455,6.177631763030819,10.383967724962696,6440,unknown
+Total household income,,,,,unknown
+"Less than £10,000",15.403498452745326,10.38168943544324,16.808495271360865,911,unknown
+"£10,000 to less than £20,000",13.121812617600654,7.519413836038838,14.615603323683246,1707,unknown
+"£20,000 to less than £30,000",11.416799674105672,8.162828491274597,13.50497056548034,1263,unknown
+"£30,000 to less than £40,000",11.08104183625173,6.550216732756047,9.746121498918631,999,unknown
+"£40,000 to less than £50,000",7.4266037493504005,2.446144221756207,6.621096538389494,716,unknown
+"£50,000 or more",6.191478921703233,2.7939301653622444,5.998179147184542,1566,unknown
+No income stated or not enough information provided,12.462480865919629,8.08626244505847,15.030533898653504,1563,unknown
+Tenure,,,,,unknown
+Owner occupiers,9.07879540271927,5.377073191246663,9.51008570369091,5783,unknown
+Social renters,16.066350853725293,11.572160644819169,17.92977278742861,1397,unknown
+Private renters,11.772295116312408,5.421559952698406,13.31621973482863,1489,unknown
+Accommodation type ,,,,,unknown
+Houses,10.43969981269839,5.874739634549891,11.095327263676628,7475,unknown
+Detached,8.181228368907473,3.969843580828402,7.634982565059417,2319,unknown
+Semi-detached,10.73487804555157,5.43407306563878,11.74077933682881,2715,unknown
+Terraced,12.091856802252336,8.332392407118977,13.445856345658546,2441,unknown
+Flats/maisonettes,11.953480384387971,7.866846282237459,14.03430254823963,1165,unknown
+Other accommodation,-,-,-,33,unknown
+Output Area Classification,,,,,unknown
+Rural residents,6.330390563020674,3.372782378857554,5.698061448545417,1244,unknown
+Cosmopolitans,9.795127184491601,4.952379126364118,11.047450234907217,275,unknown
+Ethnicity central,17.08006858559429,8.190256501429769,18.752094167923346,376,unknown
+Multicultural metropolitans,16.67753607393673,12.520302000291206,18.58496434200521,958,unknown
+Urbanites,8.296125364739877,3.947884245523304,8.306242988057754,1665,unknown
+Suburbanites,8.599647068333317,4.0642691241287725,8.667709734300228,1893,unknown
+Constrained city dwellers,11.133490378365638,8.787984950583006,15.280579352367507,617,unknown
+Hard-pressed living,11.731259576020024,7.6990279882187815,13.208374096108866,1701,unknown
+Area type,,,,,unknown
+Urban,11.7051227377135,6.789170059349747,12.816551824382834,6690,unknown
+Rural,6.3703498763459185,3.5170826129016515,6.2512313591069955,2039,unknown
+Level of physical disorder,,,,,unknown
+High,14.5514122382703,8.276835400061103,16.608177431376216,367,unknown
+Not high,10.426676269954905,5.932153736988292,11.240410696613868,8308,unknown
+Employment deprivation index,,,,,unknown
+20% most deprived output areas,14.316816162303345,10.69166674697752,16.938546080683736,1533,unknown
+Other output areas,10.838233495426733,6.114187908311456,11.246093344648717,4830,unknown
+20% least deprived output areas,7.675934522768127,3.1794149332249466,8.644906919718931,1635,unknown
+"Source: Crime Survey for England and Wales, Office for National Statistics",,,,,unknown
+1. See Sections 7.1 and 7.2 of the User Guide for definitions of area and household characteristics.,,,,,unknown
+"2. Unweighted base refers to worry about burglary. Bases for violent crime will be similar but for car crime will be slightly lower as this is based only on those residing in households owning, or with use of a vehicle.",,,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,,,unknown

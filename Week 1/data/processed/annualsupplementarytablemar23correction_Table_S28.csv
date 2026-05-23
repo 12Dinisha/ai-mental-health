@@ -1,0 +1,56 @@
+"table s28: perceptions of changing crime levels, people aged 16 and over, by household and area characteristics",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,age_band
+"England and Wales, year ending March 2023",,,,,unknown
+This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. The units in this table are percentages.,,,,,unknown
+Link to notes,,,,,unknown
+Some shorthand is used in this table. [u] denotes that data are not reported because the unweighted base is fewer than 50.,,,,,unknown
+Link to table of contents ,,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,,unknown
+Household or area characteristic [note 1],Household or area characteristic breakdown,Percentage saying crime has gone up 'a little' or 'a lot' in the past few years: national level,Percentage saying crime has gone up 'a little' or 'a lot' in the past few years: local level,Unweighted base - number of people aged 16 and over [note 2],unknown
+All people,All people,73.63031766184935,48.95937344525657,15173,unknown
+Structure of household,Single person and child(ren) under 16,75.6059934524944,56.15300852682677,613,unknown
+Structure of household,Persons and child(ren) under 16,70.67097910944517,50.64586888310178,2810,unknown
+Structure of household,Person(s) and no children,74.527365309446,48.19354840269284,11750,unknown
+Total household income,"Less than £10,400",73.69712115053471,47.77222298649008,1110,unknown
+Total household income,"£10,400 to less than £20,800",77.51701515755438,49.21917786387874,2548,unknown
+Total household income,"£20,800 to less than £31,200",76.55815356786445,47.37496864910089,2342,unknown
+Total household income,"£31,200 to less than £41,600",76.99397407409913,50.62459990352064,1712,unknown
+Total household income,"£41,600 to less than £52,000",75.58267392017805,50.96170281200937,1519,unknown
+Total household income,"£52,000 or more",70.20120039192615,49.52487824521377,3075,unknown
+Total household income,No income stated or not enough information provided,71.05182778070173,60.45528550001846,248,unknown
+Tenure,Owner occupiers,74.82831763037284,48.608282152603735,12554,unknown
+Tenure,Social renters,77.21775293045935,53.18446882939808,10189,unknown
+Tenure,Private renters,67.14434643871392,46.477165003832326,2271,unknown
+Accommodation type ,Houses,74.77402551479206,48.825973575636446,12837,unknown
+Accommodation type ,Detached,76.17685129850534,47.97120317878863,4109,unknown
+Accommodation type ,Semi-detached,76.02515084993077,49.35247883710767,4753,unknown
+Accommodation type ,Terraced,72.16514818891355,49.04440654831781,3975,unknown
+Accommodation type ,Flats/maisonettes,67.11382164802978,50.295483287567635,2238,unknown
+Accommodation type ,Other Accommodation,[u],[u],32,unknown
+Output Area Classification,Rural residents,76.224218307891,37.97534104004606,2069,unknown
+Output Area Classification,Cosmopolitans,61.190472657694386,50.49141715874097,527,unknown
+Output Area Classification,Ethnicity central,62.141186219084275,49.701876239459224,671,unknown
+Output Area Classification,Multicultural metropolitans,70.45082379289983,51.389693522276104,1829,unknown
+Output Area Classification,Urbanites,72.77311214979186,50.21332348618085,2786,unknown
+Output Area Classification,Suburbanites,76.07275467131261,48.42810427425719,3349,unknown
+Output Area Classification,Constrained city dwellers,76.24149998906714,52.11165421362003,1039,unknown
+Output Area Classification,Hard-pressed living,79.53684866172699,52.118790509114476,2903,unknown
+Area type,Urban,73.09755948646563,51.01509874162159,11821,unknown
+Area type,Rural,75.90707510316649,40.503652334607175,3352,unknown
+Level of physical disorder,High,73.29056646064609,59.400812519455094,990,unknown
+Level of physical disorder,Not high,73.68570920913976,48.26053471380756,14163,unknown
+English Indices of Deprivation (Employment),20% most deprived output areas,75.38330032959304,52.91396035668656,2608,unknown
+English Indices of Deprivation (Employment),Other output areas,73.67990043054189,49.66628632678866,8481,unknown
+English Indices of Deprivation (Employment),20% least deprived output areas,71.7398151099387,45.32459388613765,2849,unknown
+Welsh Indices of Deprivation (Employment),20% most deprived output areas,77.84463251419382,45.52500984948226,188,unknown
+Welsh Indices of Deprivation (Employment),Other output areas,71.17514448386085,42.13565718973455,816,unknown
+Welsh Indices of Deprivation (Employment),20% least deprived output areas,79.4964619313894,34.53557815659394,231,unknown
+Region,North East,73.40646256880068,49.02889610817521,797,unknown
+Region,North West,79.16234183181088,47.45888386668818,1772,unknown
+Region,Yorkshire and The Humber,76.13663984365986,50.32036294413943,1220,unknown
+Region,East Midlands,77.59487248517873,50.13622628241898,1495,unknown
+Region,West Midlands,75.7139255634596,52.9683556752631,1775,unknown
+Region,East,76.02932119879573,52.388414127039326,1680,unknown
+Region,London,63.00846672443509,51.158556735855434,1576,unknown
+Region,South East,73.72216594661872,48.4054346594757,2130,unknown
+Region,South West,72.73159701075856,43.39812693810746,1493,unknown
+Region,Wales,73.822673866042,41.35746945572786,1235,unknown

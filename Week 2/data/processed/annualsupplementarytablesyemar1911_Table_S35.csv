@@ -1,0 +1,80 @@
+"table s35:  high levels of perceived anti-social behaviour in local area by personal characteristics, year ending march 2019 csew1",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,age_band
+England and Wales,,,,,,Adults aged 16 and over,unknown
+,High level of perceived ASB2,Unweighted base - number of adults,,,High level of perceived ASB2,Unweighted base - number of adults,unknown
+,Percentage,,,,Percentage,,unknown
+ALL ADULTS,7.195730186624691,8459,,Respondent's occupation,,,unknown
+,,,,Managerial and professional occupations,5.229352080018904,3122,unknown
+16-24,8.725615131608468,542,,Intermediate occupations,7.417159128742521,1899,unknown
+25-34,9.370068876221973,1314,,Routine and manual occupations,8.664389413501372,2861,unknown
+35-44,8.847155824484133,1369,,Never worked and long-term unemployed,13.592092098025566,257,unknown
+45-54,8.072846284136078,1452,,Full-time students,7.326405833720593,236,unknown
+55-64,6.063404552078084,1337,,Not classified,3.8110005281155774,84,unknown
+65-74,4.756759531291641,1366,,,,,unknown
+75+,1.7949935160090449,1079,,Highest qualification,,,unknown
+,,,,Degree or diploma,6.574283799937353,3496,unknown
+Men,6.290003779205133,3846,,Apprenticeship or A/AS level,7.109967315912748,1430,unknown
+,,,,O level/GCSE,8.55154435346398,1516,unknown
+16-24,7.550630108743888,263,,Other,7.743737986891684,417,unknown
+25-34,7.4572489142753895,551,,,7.0296086248244904,1568,unknown
+35-44,7.42629444914573,580,,,,,unknown
+45-54,7.2267346985337255,667,,Disability3,,,unknown
+55-64,5.680782967018903,655,,Disabled,9.706700900211507,1659,unknown
+65-74,4.579644596615882,654,,Not disabled,6.689400904768483,6771,unknown
+75+,1.5042291585771126,476,,,,,unknown
+,,,,Religion,,,unknown
+Women,8.051782951318959,4613,,No religion,6.968995097178142,3123,unknown
+,,,,Christian,6.141202068922281,4719,unknown
+16-24,10.043242717629806,279,,Buddhist,-,31,unknown
+25-34,11.167988886169706,763,,Hindu,12.50259641283711,123,unknown
+35-44,10.128360251623308,789,,Muslim,17.534652769135874,302,unknown
+45-54,8.850085976889638,785,,Other,8.848988987405049,138,unknown
+55-64,6.448608740944585,682,,,,,unknown
+65-74,4.929458487016265,712,,Sexual orientation4,,,unknown
+75+,2.012694148891647,603,,Heterosexual or straight,7.484403198100704,6615,unknown
+,,,,Gay or lesbian,7.737781929937719,98,unknown
+Ethnic group,,,,Bisexual,7.170306259145229,94,unknown
+White ,6.337824525709798,7542,,Other,-,39,unknown
+English/ Welsh/ Scottish/ Northern Irish/ British ,6.09986467812739,6970,,Don't know,-,3,unknown
+Irish ,5.153316405532362,66,,Don't wish to answer,10.493588328717484,225,unknown
+"Gypsy, Traveller or Irish Traveller ",-,1,,,,,unknown
+Any other White background,9.189146462299536,505,,Experience of crime in last 12 months (including fraud and computer misuse),,,unknown
+Mixed/ Multiple ethnic groups,12.531933905599397,85,,Victim,13.928907277738006,1635,unknown
+White and Black Caribbean ,-,25,,Not a victim,5.520499223610038,6824,unknown
+White and Black African ,-,15,,,,,unknown
+White and Asian ,-,22,,Number of hours away from home on weekday,,,unknown
+Any other Mixed/ Multiple ethnic background,-,23,,Less than 3 hours,6.598410004521769,2535,unknown
+Asian/ Asian British,13.142719960421607,529,,3 hours or more but less than 7 hours,6.582432918834069,2218,unknown
+Indian ,13.477848288072563,218,,7 hours or longer,7.784161548283035,3662,unknown
+Pakistani ,21.885521030185544,128,,,,,unknown
+Bangladeshi ,10.7470967740057,53,,Number of evening visits to a pub/bar in the last month,,,unknown
+Chinese ,-,42,,,8.308946174564124,4515,unknown
+Any other Asian background ,4.870421556756682,88,,Less than once a week,5.8187422651807195,2542,unknown
+Black/ African/ Caribbean/ Black British,11.82409996325759,230,,Once a week or more often,6.372674180296423,1394,unknown
+African ,15.267507977444245,149,,,,,unknown
+Caribbean ,3.573878451939836,67,,Number of visits to a nightclub in the last month,,,unknown
+Any other Black/ African/ Caribbean background ,-,14,,,7.146563437764134,7994,unknown
+Other ethnic group,10.323221069481457,62,,1-3 times,7.8331725179706115,405,unknown
+Arab ,-,17,,4+ times,7.888102652312051,55,unknown
+Any other ethnic group ,-,45,,,,,unknown
+Marital status,,,,,,,unknown
+Married/civil partnered,5.748469506221666,3858,,,,,unknown
+Cohabiting,9.349514257082433,922,,,,,unknown
+Single,9.204644695003033,1903,,,,,unknown
+Separated,10.087051803584547,229,,,,,unknown
+Divorced/legally dissolved partnership,9.234716296377336,718,,,,,unknown
+Widowed,2.8953495157559765,810,,,,,unknown
+Respondent's employment status,,,,,,,unknown
+In employment,7.15465607593463,4933,,,,,unknown
+Unemployed,9.44736319785118,161,,,,,unknown
+Economically inactive,7.048663456788471,3359,,,,,unknown
+Student,8.711290560256675,166,,,,,unknown
+Looking after family/home,10.927247734374923,370,,,,,unknown
+Long-term/temporarily sick/ill,18.928848680320524,373,,,,,unknown
+Retired,3.275681102091598,2362,,,,,unknown
+Other inactive,19.19129463414344,88,,,,,unknown
+ Source: Office for National Statistics - Crime Survey for England and Wales,,,,,,,unknown
+1. Section 7.3 of the User Guide provides definitions of the personal characteristics.,,,,,,,unknown
+2. This measure is derived from responses to the seven individual anti-social behaviour strands as described in Sections 5.7 and 6.3 of the User Guide.,,,,,,,unknown
+"3. The definition of disability used is consistent with the core definition of disability under the Equality Act 2010. A person is considered to have a disability if they have a long-standing illness, disability or impairment which causes difficulty with day-to-day activities.",,,,,,,unknown
+"4. The terminology used to label this data has been changed to 'sexual orientation' from 'sexual identity' to align with terminology used in legislation (Equality Act 2010). Sexual Orientation is an umbrella concept which encompasses sexual identity, attraction and behaviour. This question described within this principle is based on a substantial body of research and is designed to capture self-perceived Sexual Identity. An individual could respond differently to questions on either sexual identity, attraction or behaviour. The measurement of Sexual Identity was identified within the research as the component of Sexual Orientation most closely related to experiences of disadvantage and discrimination. The question was not designed for specific or detailed studies of sexual behaviour or attraction where a series of more detailed questions and answer categories might be more appropriate.",,,,,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,,,,,unknown

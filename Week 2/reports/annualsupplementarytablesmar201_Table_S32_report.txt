@@ -1,0 +1,15 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : annualsupplementarytablesmar201.xlsx
+Sheet    : Table S32
+Rows     : 72
+Columns  : 14
+Duplicates : 0
+Missing Cells : 333
+
+NUMERIC SUMMARY
+
+            count  mean  std  min  25%  50%  75%  max
+unnamed: 6    0.0   NaN  NaN  NaN  NaN  NaN  NaN  NaN

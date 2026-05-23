@@ -1,0 +1,92 @@
+﻿# NHS Mental Health Risk Prediction Model
+## AIML-4 Demo Walkthrough
+### May 2026
+
+============================================================
+SLIDE 1: TITLE
+============================================================
+🏥 NHS Mental Health Readmission Risk Predictor
+
+AIML-4: Live Model Demonstration
+28-30 May 2026
+
+============================================================
+SLIDE 2: WHAT IT DOES
+============================================================
+Purpose:
+- Predict 30-day readmission risk for mental health patients
+- Based on PHQ-9 (depression) + GAD-7 (anxiety) scores
+
+Input → Output:
+[Patient Data] → [Ensemble Model] → [Risk Score 0-10]
+
+Use: Decision support for clinicians (NOT replacement)
+
+============================================================
+SLIDE 3: THE MODEL
+============================================================
+Technical Details:
+- Algorithm: XGBoost + Random Forest + Logistic Regression
+- Features: 14 input features
+- Model: models/ensemble_v3.pkl
+- API: FastAPI at /predict
+
+Key Features:
+- age_band_code
+- phq9_score, gad7_score
+- comorbidity_count
+- high_deprivation
+
+============================================================
+SLIDE 4: LIVE DEMO
+============================================================
+[Run: python demo_notebook.py]
+
+Case 1: P001 - 67yo, PHQ-9=18, GAD-7=15
+→ Risk: 9.95 → HIGH 🔴
+
+Case 2: P002 - 34yo, PHQ-9=3, GAD-7=2
+→ Risk: 0.02 → LOW 🟢
+
+Case 3: P003 - 52yo, PHQ-9=20, GAD-7=18
+→ Risk: 9.96 → HIGH 🔴
+
+============================================================
+SLIDE 5: PERFORMANCE
+============================================================
+Training Metrics:
+- F1 Score: 1.00
+- ROC-AUC: 1.00
+
+Validation (MHSDS):
+- F1: 0.34
+- ROC-AUC: 0.51
+
+Note: Validation on real NHS data ongoing
+
+============================================================
+SLIDE 6: LIMITATIONS
+============================================================
+⚠ Important Limitations:
+- NOT clinically validated
+- Trained on synthetic data
+- Requires NHS governance approval
+- Does NOT replace clinical assessment
+
+Regulatory Status:
+- NHS England: NOT Approved
+- CE Mark: NOT Certified
+- MHRA: NOT Registered
+
+============================================================
+SLIDE 7: NEXT STEPS
+============================================================
+Roadmap:
+1. ✅ Model trained (Week 3)
+2. 🔄 Validation (Week 4)
+3. ⏳ Clinical validation
+4. ⏳ Governance approval
+5. ⏳ Pilot in IAPT services
+
+Questions?
+ai-mh-uk@project.nhs

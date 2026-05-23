@@ -1,0 +1,66 @@
+"worksheet s18: attitudes to local police, people aged 16 and over, by police force area, year ending march 2024 [note 1]",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,unnamed: 7,unnamed: 8,unnamed: 9,unnamed: 10,unnamed: 11,unnamed: 12,age_band
+England and Wales,,,,,,,,,,,,,unknown
+This worksheet contains two tables presented vertically with one blank column in between each table. Some cells refer to notes which can be found on the Notes worksheet. The units in this table are percentages.,,,,,,,,,,,,,unknown
+Link to Notes,,,,,,,,,,,,,unknown
+Some shorthand is used in this table. [s] denotes the change is significant at the 5% level. [si] denotes the change is a significant increase at the 5% level. [sd] denotes the changes is a significant decrease at the 5% level.,,,,,,,,,,,,,unknown
+Link to Table of contents,,,,,,,,,,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,,,,,,,,,,unknown
+Table S18a: Rating of local police,,,,,,,Table S18b: Police deal with local concerns,,,,,,unknown
+Area Code,Area Name,"Police do an excellent
+ or good job
+ (%)",Statistically significant difference from England and Wales,Apr 2023 to Mar 2024 compared with Apr 2022 to Mar 2023 Statistically significant difference [note 2],Unweighted base - number of people [note 3],,Area Code,Area Name,"Agree
+ (%)",Statistically significant difference from England and Wales,Apr 2023 to Mar 2024 compared with Apr 2022 to Mar 2023 Statistically significant difference [note 2],Unweighted base - number of people [note 3],unknown
+K04000001,England and Wales,48.83149378819068,,[sd],28896,,K04000001,England and Wales,44.588203643276685,,[sd],29601,unknown
+E92000001,England,48.8607198577353,,[sd],26956,,E92000001,England,44.52890217054326,,[sd],27622,unknown
+E12000001,North East,47.89213204517055,,,1608,,E12000001,North East,45.107246540633476,,,1636,unknown
+E23000013,Cleveland,38.04956712107256,[s],[sd],510,,E23000013,Cleveland,37.11889577601445,,,513,unknown
+E23000008,Durham,53.808626256326825,,,477,,E23000008,Durham,47.69747476972672,,,478,unknown
+E23000007,Northumbria,48.938193684902906,,,621,,E23000007,Northumbria,47.03464466044141,,,645,unknown
+E12000002,North West,48.74999826268751,,,3887,,E12000002,North West,46.69957972609551,,,3963,unknown
+E23000006,Cheshire,61.9441913265548,[s],,556,,E23000006,Cheshire,50.92812432022081,[s],,570,unknown
+E23000002,Cumbria,51.01348028739868,,,470,,E23000002,Cumbria,52.17048137404066,[s],,463,unknown
+E23000005,Greater Manchester,41.63954611885815,[s],,1423,,E23000005,Greater Manchester,43.0390496167995,,,1469,unknown
+E23000003,Lancashire,47.77240731227843,,,629,,E23000003,Lancashire,48.38648347699343,,,636,unknown
+E23000004,Merseyside,51.965504665302035,,,809,,E23000004,Merseyside,46.66157605925594,,,825,unknown
+E12000003,Yorkshire and the Humber,48.45779897587824,,,2744,,E12000003,Yorkshire and the Humber,44.515841394607946,,,2823,unknown
+E23000012,Humberside,52.93053301874356,,,403,,E23000012,Humberside,51.935188412820935,[s],,410,unknown
+E23000009,North Yorkshire,61.380714948681565,[s],,499,,E23000009,North Yorkshire,52.20438674114843,[s],,526,unknown
+E23000011,South Yorkshire,44.14260676312233,,,739,,E23000011,South Yorkshire,39.09405173963458,[s],,765,unknown
+E23000010,West Yorkshire,45.21390679614366,,,1103,,E23000010,West Yorkshire,42.63948729502684,,,1122,unknown
+E12000004,East Midlands,45.672785037475684,[s],,2761,,E12000004,East Midlands,40.416833368700125,[s],,2910,unknown
+E23000018,Derbyshire,42.51264368159266,[s],[sd],589,,E23000018,Derbyshire,39.265984046538144,[s],,602,unknown
+E23000021,Leicestershire,40.83379939058455,,,528,,E23000021,Leicestershire,35.719343152964385,[s],,582,unknown
+E23000020,Lincolnshire,45.61292022531484,,[sd],426,,E23000020,Lincolnshire,43.46298464868951,,,455,unknown
+E23000022,Northamptonshire,48.875641378970194,,,546,,E23000022,Northamptonshire,43.02787256891856,,,585,unknown
+E23000019,Nottinghamshire,50.362960072294776,,,672,,E23000019,Nottinghamshire,42.0695110071508,,,686,unknown
+E12000005,West Midlands,47.12896145780769,,,3143,,E12000005,West Midlands,44.417333240228466,,,3167,unknown
+E23000015,Staffordshire,43.50753822553446,[s],[sd],588,,E23000015,Staffordshire,48.426017799176684,,,588,unknown
+E23000017,Warwickshire,54.943932614484076,[s],,521,,E23000017,Warwickshire,43.85596744279493,,,528,unknown
+E23000016,West Mercia,48.96310998051568,,,645,,E23000016,West Mercia,45.65996175299309,,,652,unknown
+E23000014,West Midlands,46.278957154390575,,,1389,,E23000014,West Midlands,42.040953597462526,,,1399,unknown
+E12000006,East,52.643293222556935,[s],,3144,,E12000006,East,48.61166153263502,[s],,3203,unknown
+E23000026,Bedfordshire,49.19170661578337,,,481,,E23000026,Bedfordshire,47.81895986681229,,,498,unknown
+E23000023,Cambridgeshire,56.230369292679576,,,515,,E23000023,Cambridgeshire,42.709050833497336,,,548,unknown
+E23000028,Essex,47.203563748550245,,,670,,E23000028,Essex,48.024868283260304,,,669,unknown
+E23000027,Hertfordshire,60.04443720114766,[s],,575,,E23000027,Hertfordshire,55.797163604898316,[s],,573,unknown
+E23000024,Norfolk,52.661455173169024,,[sd],432,,E23000024,Norfolk,46.90714954121071,,[sd],437,unknown
+E23000025,Suffolk,50.17993137664962,,,471,,E23000025,Suffolk,46.70871588520127,,,478,unknown
+E12000007,London,51.3178076008013,,,3598,,E12000007,London,44.67129637431988,,,3656,unknown
+E12000007,City of London and Metropolitan Police,51.3178076008013,,,3598,,E12000007,City of London and Metropolitan Police,44.67129637431988,,,3656,unknown
+E12000008,South East,48.372584321377346,,[sd],3368,,E12000008,South East,43.04578955879396,,,3487,unknown
+E23000030,Hampshire,43.875012697541194,,,736,,E23000030,Hampshire,41.36594376043642,,,744,unknown
+E23000032,Kent,48.62355387531162,,,816,,E23000032,Kent,42.53390823668943,,,872,unknown
+E23000031,Surrey,56.55296764540508,[s],,466,,E23000031,Surrey,41.47638007785255,,,491,unknown
+E23000033,Sussex,46.33014788863506,,,562,,E23000033,Sussex,36.57450622597109,[s],,591,unknown
+E23000029,Thames Valley,49.70233158193089,,,788,,E23000029,Thames Valley,49.8904701262178,,,789,unknown
+E12000009,South West,47.136002705369386,,[sd],2703,,E12000009,South West,42.95535750462297,,[sd],2777,unknown
+E23000036,Avon and Somerset,44.995097694693456,,[sd],616,,E23000036,Avon and Somerset,43.540461526910654,,,630,unknown
+E23000035,Devon and Cornwall,44.975753745827404,,,611,,E23000035,Devon and Cornwall,40.78583295552878,,[sd],633,unknown
+E23000039,Dorset,47.14482367702079,,,439,,E23000039,Dorset,39.52924643248405,,,453,unknown
+E23000037,Gloucestershire,51.648663301028385,,,516,,E23000037,Gloucestershire,42.921456723618135,,,536,unknown
+E23000038,Wiltshire,51.96107348687665,,,521,,E23000038,Wiltshire,48.68993616131711,,,525,unknown
+W92000004,Wales,48.32093207531091,,[sd],1940,,W92000004,Wales,45.62620080951232,,,1979,unknown
+W15000004,Dyfed-Powys,53.51287337450971,,,409,,W15000004,Dyfed-Powys,46.3257349654071,,[sd],419,unknown
+W15000002,Gwent,41.03088092678563,[s],,493,,W15000002,Gwent,34.975071547148474,[s],[sd],506,unknown
+W15000001,North Wales,55.32905687234226,[s],,570,,W15000001,North Wales,53.91006278595133,[s],,576,unknown
+W15000003,South Wales,45.57451109299711,,,468,,W15000003,South Wales,45.73783930296938,,,478,unknown

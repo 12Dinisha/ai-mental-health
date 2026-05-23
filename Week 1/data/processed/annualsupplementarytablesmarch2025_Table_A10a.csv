@@ -1,0 +1,30 @@
+"Table A10a: Prevalence of sexual assault and stalking among people aged 16 years and over, by abuse type and sex [note 1, 2, 3, 4]",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,age_band,flag_depression,flag_anxiety,flag_comorbid
+"England and Wales, year ending March 2025",,,,,,,unknown,0,0,0
+This worksheet contains one table. The units used in this table are percentages. Some cells refer to notes which can be found on the Notes worksheet. ,,,,,,,unknown,0,0,0
+Link to Notes,,,,,,,unknown,0,0,0
+Some shorthand is used in this table. [c] denotes that figures have been suppressed due to disclosure constraints. ,,,,,,,unknown,0,0,0
+Link to Table of contents,,,,,,,unknown,0,0,0
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,,,,unknown,0,0,0
+Abuse type,Percentage of men aged 16 and over who were victims once or more since the age of 16,Percentage of women aged 16 and over who were victims once or more since the age of 16,Percentage of people aged 16 and over who were victims once or more since the age of 16,Percentage of men aged 16 and over who were victims once or more in the last year,Percentage of women aged 16 and over who were victims once or more in the last year,Percentage of people aged 16 and over who were victims once or more in the last year,unknown,0,0,0
+Any sexual assault (including attempts),5.94084917191702,25.5640809143361,15.8790253768895,0.67947399803699,3.00111718845951,1.85317391971206,unknown,0,0,0
+Sexual assault by rape or penetration including attempts,0.689450756140453,8.18889266386417,4.4773672944614,0.0626747546972171,0.404117029368934,0.235121793513019,unknown,0,0,0
+Sexual assault by rape or penetration excluding attempts,0.504113415382903,7.40758642580803,3.99045636335956,0.0627701599090354,0.276003012938574,0.170447301127825,unknown,0,0,0
+- Rape including attempts,0.542440513096195,7.32597932298703,3.96712160166038,[c],0.244790130569536,0.134557127058534,unknown,0,0,0
+- Rape excluding attempts,0.352305855858341,6.4607669582705,3.43459555397941,[c],0.154211508191381,0.0888358430519529,unknown,0,0,0
+- Assault by penetration including attempts,0.412470985441849,5.69527902011881,3.07960719203884,0.06287262903364,0.253690483130764,0.159213630188492,unknown,0,0,0
+- Assault by penetration excluding attempts,0.244136437754991,4.80923629524484,2.54457325322813,0.062977973689126,0.151141358771879,0.107402524049693,unknown,0,0,0
+Indecent exposure or unwanted sexual touching,5.69644839832925,24.5213479245489,15.2571194858936,0.659524197720182,2.82404228578467,1.7586951323267,unknown,0,0,0
+- Indecent exposure,1.84517234768135,11.5202823743763,6.7432122681349,0.27154669831928,0.827065976048975,0.55269369723652,unknown,0,0,0
+- Unwanted sexual touching,4.38480688940431,19.918143056512,12.2230168808977,0.39230995546827,2.34937535288368,1.37872712509679,unknown,0,0,0
+Any sexual assault (including attempts) by a partner [note 5],0.88596547449756,8.04501365961903,4.50898361119669,0.090661200855625,0.345915776670813,0.219713104068138,unknown,0,0,0
+Sexual assault by rape or penetration (including attempts) by a partner,0.10154408087639,4.69415367893477,2.42456317142701,[c],0.143799539124951,0.0727287376830726,unknown,0,0,0
+Indecent exposure or unwanted sexual touching by a partner,0.83755869217079,7.01434689324597,3.97247772492891,0.090365392530315,0.281197017378083,0.187228220766293,unknown,0,0,0
+- Indecent exposure by a partner,0.182956994474439,1.18841764487415,0.691821017438082,0.0545267811798189,0.02478999586759,0.0394770641256298,unknown,0,0,0
+- Unwanted sexual touching by a partner,0.783378995763413,7.00709303844004,3.922602609341,[c],0.287495577536552,0.162943798561258,unknown,0,0,0
+Any sexual assault (including attempts) by a family member [note 5],0.280995625042578,2.57873608295357,1.44491772452929,[c],0.0436391932259323,0.0220944730603156,unknown,0,0,0
+Sexual assault by rape or penetration (including attempts) by a family member,[c],0.71271093831078,0.380998381302813,[c],[c],[c],unknown,0,0,0
+Indecent exposure or unwanted sexual touching by a family member,0.261612664500424,2.29793545341376,1.29693023347106,[c],0.0177847659906914,0.00904288036528035,unknown,0,0,0
+- Indecent exposure by a family member,0.189960348630007,0.739298854484731,0.46796751439165,[c],[c],[c],unknown,0,0,0
+- Unwanted sexual touching by a family member,0.115548657395112,1.98125116229297,1.05569821147908,[c],0.018026934018945,0.00908499702487867,unknown,0,0,0
+Stalking [note 6],7.83435643958432,19.9397444498071,13.9725793343798,1.78927861933843,3.99371144097372,2.90683353158878,unknown,0,0,0
+Unweighted base - number of people aged 16 and over [note 7],6075,6716,12791,6067,6674,12741,unknown,0,0,0

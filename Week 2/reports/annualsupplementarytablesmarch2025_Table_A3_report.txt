@@ -1,0 +1,11 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : annualsupplementarytablesmarch2025.xlsx
+Sheet    : Table A3
+Rows     : 38
+Columns  : 6
+Duplicates : 0
+Missing Cells : 24
+

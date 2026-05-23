@@ -1,0 +1,65 @@
+"table s3: ratings of the local police, by household and area characteristics, year ending march 2020 csew",unnamed: 1,unnamed: 2
+England and Wales,,Adults aged 16 and over
+Household characteristic1,Local police,Unweighted base - number of adults
+,"Percentage saying police 
+doing a good/excellent job",
+ALL ADULTS,55.36026245098815,31791
+Structure of household,,
+Single adult and child(ren),53.365216202303614,1599
+Adults and child(ren),56.90944117670293,6919
+Adult(s) and no child(ren),54.84424021527089,23273
+Total household income,,
+"Less than £10,400",54.930656328152025,2803
+"£10,400 to less than £20,800",54.05598972981214,5596
+"£20,800 to less than £31,200",53.6768691919834,4807
+"£31,200 to less than £41,600",57.29667965179267,3612
+"£41,600 to less than £52,000",56.503850049115876,3092
+"£52,000 or more",56.88406598402296,5950
+No income stated or not enough information provided,54.86691315618526,148
+Tenure,,
+Owner occupiers,54.15709950410101,20533
+Social renters,52.41701543828399,5285
+Private renters,60.96782010196428,5770
+Accommodation type ,,
+Houses,54.89179019932687,26902
+Detached,55.82223221188322,7739
+Semi-detached,54.94861127137598,9860
+Terraced,54.09007601968323,9303
+Flats/maisonettes,58.06195839465109,4730
+Other accommodation ,66.35296146218488,72
+Output Area Classification,,
+Rural residents ,57.68576165609688,4153
+Cosmopolitans ,60.46311785211343,1172
+Ethnicity central ,52.94009159238996,1573
+Multicultural metropolitans ,54.305720827013445,3787
+Urbanities ,58.10200241967283,5945
+Suburbanites ,56.85176815087378,6743
+Constrained city dwellers ,51.182389139716925,2287
+Hard-pressed living ,51.12003815024646,6131
+Area type,,
+Urban,55.16455134137234,24989
+Rural,56.22314826757005,6802
+Level of physical disorder,,
+High,49.76076668019579,1498
+Not high,55.64693743170742,30231
+English Indices of Deprivation (Employment),,
+20% most deprived output areas,50.89796159700079,5577
+Other output areas,54.96140913818327,17973
+20% least deprived output areas,60.7291701289255,5880
+Welsh Indices of Deprivation (Employment),,
+20% most deprived output areas,47.827378483520825,424
+Other output areas,57.77173077336094,1486
+20% least deprived output areas,55.87924706768032,451
+Region,,
+North East,63.86457100596288,1934
+North West,54.91395787582377,4038
+Yorkshire and The Humber,54.86034185690058,2877
+East Midlands,55.066940145378204,2855
+West Midlands,47.82143456436134,2832
+East,54.64339668594468,3628
+London,54.61032623913788,3712
+South East,56.46297820617394,4333
+South West,60.30510826101535,3221
+Wales,55.42386764262294,2361
+Source: Office for National Statistics - Crime Survey for England and Wales,,
+1. See Sections 7.1 and 7.2 of the User Guide for definitions of household and area characteristics.,,

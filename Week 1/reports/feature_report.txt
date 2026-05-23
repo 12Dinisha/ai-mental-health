@@ -1,0 +1,50 @@
+============================================================
+APMS 2014 - Feature Exploration Report
+AI Mental Health UK Project - AIML-3 Week 1
+============================================================
+
+-- Top Feature-Target Correlations --
+     target      feature  pearson_r  p_value    abs_r
+anxiety_gad       weight     0.0214 0.129626 0.021436
+anxiety_gad          sex    -0.0146 0.301229 0.014623
+anxiety_gad          age    -0.0130 0.359408 0.012964
+anxiety_gad       region    -0.0030 0.833629 0.002971
+anxiety_gad    ethnicity     0.0024 0.865716 0.002392
+    any_cmd       region     0.0236 0.094881 0.023623
+    any_cmd          sex    -0.0160 0.259129 0.015962
+    any_cmd       weight    -0.0123 0.385989 0.012263
+    any_cmd          age     0.0077 0.587959 0.007664
+    any_cmd    ethnicity    -0.0056 0.694527 0.005555
+        cpd       region     0.0131 0.352865 0.013141
+        cpd    ethnicity    -0.0120 0.394732 0.012038
+        cpd       weight     0.0110 0.436283 0.011012
+        cpd imd_quintile     0.0101 0.477355 0.010051
+        cpd          sex    -0.0097 0.492112 0.009717
+ depression imd_quintile     0.0147 0.299335 0.014680
+ depression    ethnicity    -0.0119 0.401271 0.011873
+ depression          age     0.0068 0.631064 0.006793
+ depression       weight    -0.0032 0.820910 0.003202
+ depression          sex     0.0021 0.880461 0.002127
+        ocd       weight     0.0202 0.152585 0.020233
+        ocd imd_quintile    -0.0196 0.165673 0.019607
+        ocd          sex    -0.0126 0.372183 0.012623
+        ocd          age     0.0053 0.706239 0.005332
+        ocd       region     0.0019 0.893096 0.001901
+     phobia    ethnicity     0.0260 0.066389 0.025964
+     phobia          sex     0.0166 0.239390 0.016641
+     phobia          age    -0.0109 0.439252 0.010941
+     phobia imd_quintile    -0.0086 0.545403 0.008553
+     phobia       region    -0.0072 0.611673 0.007181
+
+-- any_cmd Prevalence by IMD Quintile --
+ imd_quintile  cases  total  prevalence_pct
+            0    178    979           18.18
+            1    169   1004           16.83
+            2    174    984           17.68
+            3    183   1014           18.05
+            4    179   1019           17.57
+
+Notes:
+  - Pearson r assumes linearity; use point-biserial for binary targets.
+  - Correlations >|0.3| considered noteworthy for NHS context.
+  - IMD = Index of Multiple Deprivation (1=least deprived, 5=most).

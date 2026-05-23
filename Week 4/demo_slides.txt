@@ -1,0 +1,54 @@
+╔════════════════════════════════════════════════════════════════╗
+║           NHS MENTAL HEALTH RISK PREDICTION MODEL            ║
+║                    AIML-4 Demo Walkthrough                  ║
+║                      28-30 May 2026                          ║
+╚════════════════════════════════════════════════════════════════╝
+
+SLIDE 1: OVERVIEW
+─────────────────
+- Purpose: Predict 30-day readmission risk for mental health patients
+- Model: XGBoost + Random Forest + Logistic Regression ensemble
+- Input: PHQ-9, GAD-7 scores + demographics + history
+- Output: Risk score (0-10) + classification (Low/Medium/High)
+
+SLIDE 2: LIVE DEMO
+──────────────────
+[Run: python demo_notebook.py]
+
+Case 1: P001 - 67yo male, PHQ-9=18, GAD-7=15
+→ Risk Score: 9.95 → HIGH risk 🔴
+
+Case 2: P002 - 34yo female, PHQ-9=3, GAD-7=2  
+→ Risk Score: 0.02 → LOW risk 🟢
+
+Case 3: P003 - 52yo male, PHQ-9=20, GAD-7=18
+→ Risk Score: 9.96 → HIGH risk 🔴
+
+SLIDE 3: MODEL PERFORMANCE
+───────────────────────────
+Training Metrics:
+- F1 Score: 1.00 (training set)
+- ROC-AUC: 1.00 (training set)
+
+Validation Metrics (MHSDS):
+- F1 Score: 0.34
+- ROC-AUC: 0.51
+
+SLIDE 4: TECHNICAL DETAILS
+───────────────────────────
+- Features: 14 (age band, PHQ-9, GAD-7, comorbidity flags, etc.)
+- Model file: models/ensemble_v3.pkl
+- API: FastAPI endpoint at /predict
+- Latency: ~2s per prediction
+
+SLIDE 5: LIMITATIONS & NEXT STEPS
+──────────────────────────────────
+Limitations:
+⚠ Not clinical validation yet
+⚠ Trained on synthetic data
+⚠ Requires real-world testing
+
+Next Steps:
+→ Clinical validation
+→ Governance approval
+→ Pilot in IAPT services

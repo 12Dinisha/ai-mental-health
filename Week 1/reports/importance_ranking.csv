@@ -1,0 +1,15 @@
+feature,mean_abs_shap
+gad7_tier_code,1.8210270818698047
+phq9_tier_code,1.6677598422069946
+severity_index,0.9469472391009546
+high_risk,0.8026601041177905
+phq9_score,0.6193212720878056
+gad7_score,0.5947157254807257
+imd_proxy,0.0
+high_deprivation,0.0
+flag_depression,0.0
+flag_anxiety,0.0
+flag_comorbid_anx_dep,0.0
+comorbidity_count,0.0
+phq9_change_code,0.0
+gad7_change_code,0.0

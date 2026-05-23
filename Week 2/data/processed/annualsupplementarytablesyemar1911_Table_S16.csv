@@ -1,0 +1,57 @@
+"table s16: percentage of incidents in which victims were satisfied with the police by household and area characteristics, year ending march 2019 csew",unnamed: 1,unnamed: 2,age_band
+England and Wales,,Adults aged 16 and over,unknown
+Household characteristic1,Satisfaction with the police,Unweighted base - number of incidents,unknown
+,Percentage of incidents in which the victim was 'very' or 'fairly' satisfied with the police,,unknown
+ALL INCIDENTS,65.66628372084634,2110,unknown
+Structure of household,,,unknown
+Single adult and child(ren),62.294423687624864,172,unknown
+Adults and child(ren),68.22990651925511,618,unknown
+Adult(s) and no child(ren),64.81047534203205,1320,unknown
+Tenure,,,unknown
+Owners,66.96904803311566,1229,unknown
+Social renters,62.999404361410214,433,unknown
+Private renters,65.24513477761136,436,unknown
+Accommodation type ,,,unknown
+Houses,66.82229405281205,1766,unknown
+Detached,65.58675127047687,381,unknown
+Semi-detached,64.92212794251215,667,unknown
+Terraced,69.16630567442128,718,unknown
+Flats/maisonettes,59.36623066543303,340,unknown
+Other accommodation,-,1,unknown
+Output Area Classification,,,unknown
+Rural residents,63.23020568986738,177,unknown
+Cosmopolitans,74.19829435467318,85,unknown
+Ethnicity central,61.54331789215377,147,unknown
+Multicultural metropolitans,60.6048517588132,346,unknown
+Urbanites,69.68919154632904,402,unknown
+Suburbanites,60.16402116545697,365,unknown
+Constrained city dwellers,58.164960964888365,147,unknown
+Hard-pressed living,72.76011849429905,441,unknown
+Area type,,,unknown
+Urban,64.33072513421281,1790,unknown
+Rural,73.5499606053513,320,unknown
+Level of physical disorder,,,unknown
+High,66.40693641610756,121,unknown
+Not high,65.65333012899876,1983,unknown
+English Indices of Deprivation (Employment),,,unknown
+20% most deprived output areas,57.975312638442524,483,unknown
+Other output areas,67.96054970674244,1188,unknown
+20% least deprived output areas,64.8499108800225,320,unknown
+Welsh Indices of Deprivation (Employment),,,unknown
+20% most deprived Output Areas,-,23,unknown
+Other Output Areas,78.64347826169376,79,unknown
+20% least deprived Output Areas,-,17,unknown
+English regions and Wales,,,unknown
+North East,67.7422492747822,97,unknown
+North West,60.83136068668924,250,unknown
+Yorkshire and The Humber,68.96598519671817,212,unknown
+East Midlands,68.31970175877653,198,unknown
+West Midlands,57.24300674833697,172,unknown
+East,62.515920514903414,276,unknown
+London,59.13437082387878,318,unknown
+South East,70.66334654206359,274,unknown
+South West,73.31660027021506,194,unknown
+Wales,76.88518573379936,119,unknown
+Source: Office for National Statistics - Crime Survey for England and Wales,,,unknown
+1. See Sections 7.1 and 7.2 of the User Guide for definitions of household and area characteristics.,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,unknown

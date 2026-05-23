@@ -1,0 +1,22 @@
+============================================================
+ONS Crime Dataset - Ingestion Report
+Generated: 2026-05-15 20:28:35.732039
+============================================================
+
+ONS page : https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesannualsupplementarytables
+Chosen   : https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesannualsupplementarytables/march2016/supplementarytablescrimeinenglandandwalesyearendingmarch2016.xls
+
+Rows     : 67
+Columns  : 1
+
+Dtypes (top 30 by null rate may be misleading; see null_summary.csv for nulls)
+Unnamed: 0    str
+
+
+Preview (head 5)
+                                                                                             Unnamed: 0
+                                Crime in England & Wales, year ending March 2016 - Supplementary tables
+                                                                                                    NaN
+                                                                                                    NaN
+For explanatory notes on these statistics, see the User Guide to Crime Statistics for England and Wales
+                                                                                                    NaN

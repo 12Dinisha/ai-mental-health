@@ -1,0 +1,56 @@
+"table s32: perceived likelihood of being a victim of crime by personal characteristics, year ending march 2016 csew1",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,age_band
+England and Wales,,,,,,Adults aged 16 and over,unknown
+,Percieved likelihood of victimisation,Unweighted base- number of adults,,,Percieved likelihood of victimisation,Unweighted base - number of adults,unknown
+,Percentage saying 'very likely' or 'fairly likely',,,,,,unknown
+,,,,Respondent's employment status,,,unknown
+,,,,In employment,20.69815172842982,19461,unknown
+ALL ADULTS,19.077341824016113,34566,,Unemployed,19.29298122012301,692,unknown
+,,,,Economically inactive,16.17677323708416,14361,unknown
+Age,,,,Student,16.494382819915003,719,unknown
+16-24,18.39696239793775,2478,,Looking after family/home,23.790902719117817,1473,unknown
+25-34,20.696604779386398,4892,,Long-term/temporarily sick/ill,26.06802425843692,1475,unknown
+35-44,22.38952313869154,5459,,Retired,12.87994244897962,10297,unknown
+45-54,21.6316068343765,6008,,Other inactive,17.74527269437894,397,unknown
+55-64,20.093959713260247,5574,,,,,unknown
+65-74,15.477535355386864,5728,,Respondent's occupation (NS-SEC),,,unknown
+75+,9.808651968448565,4427,,Managerial and professional occupations,17.452207137451804,12087,unknown
+,,,,Intermediate occupations,20.492289110924204,8048,unknown
+Sex,,,,Routine and manual occupations,19.99189605893685,11955,unknown
+Men,18.69479433174744,15765,,Never worked and long-term unemployed,20.32606118407009,1167,unknown
+Women,19.4456232557105,18801,,Full-time students,17.076428188538504,1078,unknown
+,,,,Not classified,24.04066068821836,231,unknown
+Ethnic group,,,,,,,unknown
+White ,18.014592533078183,31352,,Highest qualification,,,unknown
+English/ Welsh/ Scottish/ Northern Irish/ British ,17.788901283815385,29458,,Degree or Diploma,18.635439503177498,13318,unknown
+Irish ,20.370629757076316,280,,Apprenticeship or A/AS level,20.70506932752801,6214,unknown
+"Gypsy, Traveller or Irish Traveller ",-,15,,O level/GCSE,19.908382434146063,6414,unknown
+Any other White background,20.662158231593743,1599,,Other,20.63661258321055,1420,unknown
+Mixed/Multiple,21.124793895996643,359,,,16.807180626562985,7056,unknown
+White and Black Caribbean ,17.681844507516654,133,,,,,unknown
+White and Black African ,-,43,,Long-standing illness or Disability ,,,unknown
+White and Asian ,21.399968122713414,93,,Long-standing illness or Disability ,20.327404510351922,8568,unknown
+Any other Mixed/ Multiple ethnic background ,26.27100088606056,90,,Limits activities,21.037342681656238,6683,unknown
+Asian/Asian British,27.117928454672935,1712,,Does not limit activities,18.017034874411543,1876,unknown
+Indian ,27.48380944791019,694,,No long-standing illness or Disability ,18.709367856658147,25894,unknown
+Pakistani ,29.84767192653815,400,,,,,unknown
+Bangladeshi ,31.42807795399054,130,,Confidence in police and local council dealing with issues,,,unknown
+Chinese ,15.740763029438721,166,,Strongly/tend to agree,15.899430514083798,20548,unknown
+Any other Asian background ,25.66333688891141,322,,Neither agree nor Disagree,19.256846826320313,8000,unknown
+Black/African/Caribbean/Black British,26.308759768026285,854,,Strongly/tend to Disagree,33.91301564266758,4609,unknown
+African ,25.408086069619333,504,,,,,unknown
+Caribbean ,27.72325184261184,292,,Experience of crime in last 12 months,,,unknown
+Any other Black/ African/ Caribbean background ,28.120761265812266,58,,Victim,35.02126611106448,4779,unknown
+Other ethnic group,27.08636226548167,235,,Not a victim,16.195236954327395,29787,unknown
+Arab ,29.74133614637397,84,,,,,unknown
+Any other ethnic group,25.47512146324223,151,,Religion,,,unknown
+,,,,No religion,17.444482768666678,11515,unknown
+Marital status,,,,Christian,18.7587760132083,20960,unknown
+Married/civil partnered,19.419637790201925,15718,,Buddhist,24.444948969893435,135,unknown
+Cohabiting,20.29540421538145,3611,,Hindu,30.82411731970262,408,unknown
+Single,19.053006623331207,7516,,Muslim,28.78552171634669,985,unknown
+Separated,20.710577441827958,1001,,Other,25.347150481227082,475,unknown
+Divorced/legally dissolved partnership,19.716736125810318,3077,,,,,unknown
+Widowed,12.369280414487191,3515,,,,,unknown
+"Source: Crime Survey for England and Wales, Office for National Statistics",,,,,,,unknown
+1. See Section 7.3 of the User Guide for definitions of personal characteristics.,,,,,,,unknown
+ '-' indicates that data are not reported because the unweighted base is fewer than 50.,,,,,,,unknown

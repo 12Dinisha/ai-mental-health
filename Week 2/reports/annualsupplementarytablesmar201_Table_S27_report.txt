@@ -1,0 +1,11 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : annualsupplementarytablesmar201.xlsx
+Sheet    : Table S27
+Rows     : 43
+Columns  : 13
+Duplicates : 0
+Missing Cells : 208
+

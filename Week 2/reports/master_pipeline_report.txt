@@ -1,0 +1,374 @@
+======================================================================
+AI MENTAL HEALTH UK | MASTER REPORT
+======================================================================
+
+Workbook : supplementarytablescrimeinenglandandwalesyearendingmarch2016.xls
+--------------------------------------------------
+Sheet   : Table S2
+Rows    : 55
+Columns : 8
+
+Sheet   : Table S7
+Rows    : 13
+Columns : 14
+
+Sheet   : Table S8
+Rows    : 55
+Columns : 12
+
+Sheet   : Table S11
+Rows    : 54
+Columns : 8
+
+Sheet   : Table S15
+Rows    : 45
+Columns : 8
+
+Sheet   : Table S18
+Rows    : 60
+Columns : 11
+
+Sheet   : Table S19
+Rows    : 59
+Columns : 7
+
+Sheet   : Table S22
+Rows    : 55
+Columns : 8
+
+Sheet   : Table S26
+Rows    : 55
+Columns : 10
+
+Sheet   : Table S28
+Rows    : 36
+Columns : 253
+
+Sheet   : Table S30
+Rows    : 60
+Columns : 10
+
+Sheet   : Table S32
+Rows    : 55
+Columns : 8
+
+Sheet   : Table S35
+Rows    : 54
+Columns : 12
+
+Sheet   : Table S37
+Rows    : 54
+Columns : 8
+
+Sheet   : Table S39
+Rows    : 39
+Columns : 10
+
+Sheet   : Table S40
+Rows    : 43
+Columns : 31
+
+==================================================
+
+Workbook : supplementarytablescorrectionaugust2018.xls
+--------------------------------------------------
+Sheet   : Table S2
+Rows    : 55
+Columns : 8
+
+Sheet   : Table S8
+Rows    : 55
+Columns : 12
+
+Sheet   : Table S11
+Rows    : 54
+Columns : 8
+
+Sheet   : Table S15
+Rows    : 45
+Columns : 8
+
+Sheet   : Table S18
+Rows    : 60
+Columns : 12
+
+Sheet   : Table S19
+Rows    : 59
+Columns : 8
+
+Sheet   : Table S22
+Rows    : 55
+Columns : 8
+
+Sheet   : Table S26
+Rows    : 54
+Columns : 10
+
+Sheet   : Table S28
+Rows    : 36
+Columns : 254
+
+Sheet   : Table S30
+Rows    : 58
+Columns : 10
+
+Sheet   : Table S33
+Rows    : 61
+Columns : 12
+
+Sheet   : Table S35
+Rows    : 54
+Columns : 8
+
+Sheet   : Table S37
+Rows    : 39
+Columns : 10
+
+Sheet   : Table S38
+Rows    : 43
+Columns : 33
+
+==================================================
+
+Workbook : supplementarytablesyearendingmarch2018.xls
+--------------------------------------------------
+Sheet   : Table S2
+Rows    : 55
+Columns : 8
+
+Sheet   : Table S8
+Rows    : 55
+Columns : 12
+
+Sheet   : Table S11
+Rows    : 55
+Columns : 8
+
+Sheet   : Table S15
+Rows    : 46
+Columns : 8
+
+Sheet   : Table S18
+Rows    : 61
+Columns : 12
+
+Sheet   : Table S19
+Rows    : 60
+Columns : 8
+
+Sheet   : Table S22
+Rows    : 55
+Columns : 8
+
+Sheet   : Table S27
+Rows    : 59
+Columns : 12
+
+Sheet   : Table S28
+Rows    : 49
+Columns : 6
+
+Sheet   : Table S30
+Rows    : 61
+Columns : 12
+
+Sheet   : Table S32
+Rows    : 64
+Columns : 8
+
+Sheet   : Table S34
+Rows    : 41
+Columns : 18
+
+Sheet   : Table S35
+Rows    : 44
+Columns : 37
+
+==================================================
+
+Workbook : annualsupplementarytablesyemar1911.xlsx
+--------------------------------------------------
+Sheet   : Table S2
+Rows    : 80
+Columns : 8
+
+Sheet   : Table S8
+Rows    : 74
+Columns : 12
+
+Sheet   : Table S11
+Rows    : 76
+Columns : 8
+
+Sheet   : Table S15
+Rows    : 69
+Columns : 8
+
+Sheet   : Table S17
+Rows    : 34
+Columns : 16370
+
+Sheet   : Table S18
+Rows    : 61
+Columns : 12
+
+Sheet   : Table S19
+Rows    : 60
+Columns : 8
+
+Sheet   : Table S21
+Rows    : 74
+Columns : 10
+
+Sheet   : Table S24
+Rows    : 72
+Columns : 8
+
+Sheet   : Table S29
+Rows    : 72
+Columns : 12
+
+Sheet   : Table S30
+Rows    : 57
+Columns : 6
+
+Sheet   : Table S32
+Rows    : 71
+Columns : 14
+
+Sheet   : Table S34
+Rows    : 24
+Columns : 27
+
+Sheet   : Table S35
+Rows    : 79
+Columns : 8
+
+Sheet   : Table S38
+Rows    : 74
+Columns : 8
+
+Sheet   : Table S40a
+Rows    : 49
+Columns : 10
+
+Sheet   : Table S40b
+Rows    : 49
+Columns : 10
+
+Sheet   : Table S41a
+Rows    : 54
+Columns : 9
+
+Sheet   : Table S41b
+Rows    : 57
+Columns : 37
+
+==================================================
+
+Workbook : annualsupplementarytablesmar201.xlsx
+--------------------------------------------------
+Sheet   : Table S2
+Rows    : 74
+Columns : 8
+
+Sheet   : Table S8
+Rows    : 74
+Columns : 12
+
+Sheet   : Table S11
+Rows    : 76
+Columns : 8
+
+Sheet   : Table S15
+Rows    : 71
+Columns : 8
+
+Sheet   : Table S18
+Rows    : 61
+Columns : 12
+
+Sheet   : Table S19
+Rows    : 60
+Columns : 8
+
+Sheet   : Table S21
+Rows    : 75
+Columns : 10
+
+Sheet   : Table S24
+Rows    : 75
+Columns : 8
+
+Sheet   : Table S29
+Rows    : 71
+Columns : 10
+
+Sheet   : Table S32
+Rows    : 72
+Columns : 14
+
+Sheet   : Table S35
+Rows    : 71
+Columns : 8
+
+Sheet   : Table S38
+Rows    : 74
+Columns : 8
+
+Sheet   : Table S40
+Rows    : 47
+Columns : 11
+
+Sheet   : Table S41a
+Rows    : 56
+Columns : 13
+
+Sheet   : Table S41b
+Rows    : 60
+Columns : 39
+
+Sheet   : Table S42a
+Rows    : 54
+Columns : 8
+
+==================================================
+
+Workbook : annualsupplementarytablemar23correction.xlsx
+--------------------------------------------------
+Sheet   : Table S18
+Rows    : 62
+Columns : 14
+
+==================================================
+
+Workbook : annualsupplementarytablesmarch24corrected.xlsx
+--------------------------------------------------
+Sheet   : Worksheet S18
+Rows    : 62
+Columns : 14
+
+==================================================
+
+Workbook : annualsupplementarytablesmarch2025.xlsx
+--------------------------------------------------
+Sheet   : Table A6
+Rows    : 60
+Columns : 256
+
+Sheet   : Table A14
+Rows    : 41
+Columns : 44
+
+Sheet   : Table A15
+Rows    : 41
+Columns : 44
+
+==================================================
+
+======================================================================
+SUMMARY
+======================================================================
+
+Total sheets processed: 83
+Total rows generated: 4,748

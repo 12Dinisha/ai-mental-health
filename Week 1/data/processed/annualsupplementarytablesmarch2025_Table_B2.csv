@@ -1,0 +1,109 @@
+"Table B2: Perceptions of changing crime levels, people aged 16 and over, by personal characteristics, year ending March 2025",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,age_band,flag_depression,flag_anxiety,flag_comorbid
+England and Wales,,,,,unknown,0,0,0
+This worksheet contains one table. Some cells refer to notes which can be found on the Notes worksheet. The units in this table are percentages.,,,,,unknown,0,0,0
+Link to Notes,,,,,unknown,0,0,0
+Some shorthand is used in this table. [u] denotes that data are not reported because the unweighted base is fewer than 50.,,,,,unknown,0,0,0
+Link to Table of contents,,,,,unknown,0,0,0
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,,unknown,0,0,0
+Personal characteristic [note 1],Personal characteristic breakdown,Percentage saying crime has gone up 'a little' or 'a lot' in the past few years: national level,Percentage saying crime has gone up 'a little' or 'a lot' in the past few years: local level,Unweighted base - number of people aged 16 and over [note 2],unknown,0,0,0
+All people,All people,81.74730892637693,53.33558747160394,15206,unknown,0,0,0
+All people,16-24,79.34040118587072,47.77765693026814,845,unknown,0,0,0
+All people,25-34,78.56607073563153,52.18213237783856,2062,unknown,0,0,0
+All people,35-44,79.24470170471868,55.87341983562387,2511,unknown,0,0,0
+All people,45-54,81.88142326323138,59.62825098200346,2305,unknown,0,0,0
+All people,55-64,82.31281585574317,56.39552888995066,2663,unknown,0,0,0
+All people,65-74,86.26642090487529,52.55575130222419,2479,unknown,0,0,0
+All people,75+,86.52780967832302,44.5661802987329,2341,unknown,0,0,0
+Men,Men,78.8682027455232,49.15413352439081,7157,unknown,0,0,0
+Men,16-24,75.4581405334835,45.03947650524188,397,unknown,0,0,0
+Men,25-34,75.45811700201952,48.11387721952515,914,unknown,0,0,0
+Men,35-44,76.58288024504071,51.10169828382686,1126,unknown,0,0,0
+Men,45-54,80.33372027818079,56.95567270448668,1087,unknown,0,0,0
+Men,55-64,79.40165479992437,50.24717654813634,1325,unknown,0,0,0
+Men,65-74,83.8476948367506,46.4463480549233,1217,unknown,0,0,0
+Men,75+,83.37689216584843,42.18021025717258,1091,unknown,0,0,0
+Women,Women,84.50064129353807,57.31933381433042,8049,unknown,0,0,0
+Women,16-24,83.22582269945119,50.96538613058726,448,unknown,0,0,0
+Women,25-34,81.83301187784201,56.32389998074818,1148,unknown,0,0,0
+Women,35-44,81.84700647549988,60.16374839268679,1385,unknown,0,0,0
+Women,45-54,83.41522932655411,62.25929091313258,1218,unknown,0,0,0
+Women,55-64,85.00137874290816,62.06845992765941,1338,unknown,0,0,0
+Women,65-74,88.510223203956,58.34429936397974,1262,unknown,0,0,0
+Women,75+,89.04269399834405,46.51508087526577,1250,unknown,0,0,0
+Ethnic group,White ,82.15017998556685,52.42342444841358,12854,unknown,0,0,0
+Ethnic group,   English/Welsh/Scottish/Northern Irish/British,82.80820162516032,52.63708965036614,11721,unknown,0,0,0
+Ethnic group,   Irish,78.21144891887432,52.37204002858914,125,unknown,0,0,0
+Ethnic group,   Gypsy or Irish Traveller,[u],[u],10,unknown,0,0,0
+Ethnic group,   Any other white background,75.45572793081912,49.86073945908963,998,unknown,0,0,0
+Ethnic group,Mixed/Multiple,79.18954556743128,62.16667416487051,227,unknown,0,0,0
+Ethnic group,   White and Black Caribbean,78.37268654879773,53.33729027076875,70,unknown,0,0,0
+Ethnic group,   White and Black African,[u],[u],38,unknown,0,0,0
+Ethnic group,   White and Asian,[u],[u],48,unknown,0,0,0
+Ethnic group,   Any other Mixed/Multiple ethnic background,80.57447508068424,74.7661001576194,71,unknown,0,0,0
+Ethnic group,Asian/Asian British,81.55942859355876,62.40448450680996,1219,unknown,0,0,0
+Ethnic group,   Indian,82.30376505088158,65.01172094445744,500,unknown,0,0,0
+Ethnic group,   Pakistani,84.91945375579706,58.61252665015802,274,unknown,0,0,0
+Ethnic group,   Bangladeshi,81.62571123818915,72.78332346317264,107,unknown,0,0,0
+Ethnic group,   Chinese,76.00674889992457,65.18581201209092,124,unknown,0,0,0
+Ethnic group,   Any other Asian background,77.67387107152742,53.22305521867199,214,unknown,0,0,0
+Ethnic group,Black/African/Caribbean/Black British,78.8650360380009,48.04564604120258,665,unknown,0,0,0
+Ethnic group,   African,76.08752602866406,44.46094360875982,453,unknown,0,0,0
+Ethnic group,   Caribbean,87.67939994308286,52.0574406452514,173,unknown,0,0,0
+Ethnic group,   Any other Black/African/Caribbean background,[u],[u],39,unknown,0,0,0
+Ethnic group,Other ethnic group,71.40051395538153,54.19830372064061,191,unknown,0,0,0
+Ethnic group,   Arab,69.85401280448895,57.01580959724778,54,unknown,0,0,0
+Ethnic group,   Any other ethnic group,71.95732484535708,53.09043898170462,137,unknown,0,0,0
+Country of Birth,Born in the UK,83.18954725891592,53.22362929502127,12326,unknown,0,0,0
+Country of Birth,Not born in the UK,75.99591923789522,53.96175789895151,2831,unknown,0,0,0
+Marital status,Married/civil partnered,82.18457660512296,54.42569402865679,6713,unknown,0,0,0
+Marital status,Cohabiting,81.40882113069527,57.24781912154208,1399,unknown,0,0,0
+Marital status,Single,79.71061673797003,51.40527852134355,3825,unknown,0,0,0
+Marital status,Separated,84.38681854371957,54.72238442743939,348,unknown,0,0,0
+Marital status,Divorced/legally dissolved partnership,83.75734637334433,53.97532022894146,1356,unknown,0,0,0
+Marital status,Widowed,86.91869605727625,45.71413080648111,1472,unknown,0,0,0
+Respondent's employment status,Employed,80.68104525402178,55.62694320898143,8520,unknown,0,0,0
+Respondent's employment status,Unemployed,72.63771362234365,42.91779852206145,205,unknown,0,0,0
+Respondent's employment status,Economically inactive,84.12315495828076,50.21634692226874,6440,unknown,0,0,0
+Respondent's employment status,Economically inactive: student,74.6636885738385,46.00401590907378,276,unknown,0,0,0
+Respondent's employment status,Economically inactive: looking after family/home,82.37027673456991,60.41705941175393,510,unknown,0,0,0
+Respondent's employment status,Economically inactive: long-term/temp sick/ill,85.75085967006403,57.4248754455631,849,unknown,0,0,0
+Respondent's employment status,Economically inactive: retired,86.19871065386535,48.64616889910831,4581,unknown,0,0,0
+Respondent's employment status,Economically inactive: other,76.54753203749003,46.8666858209807,224,unknown,0,0,0
+Respondent's occupation,Managerial and professional occupations,79.61619659785772,52.94292005769281,5883,unknown,0,0,0
+Respondent's occupation,Intermediate occupations,85.05052003946439,56.06624641705366,3321,unknown,0,0,0
+Respondent's occupation,Routine and manual occupations,84.47472484996932,53.15457095843599,4676,unknown,0,0,0
+Respondent's occupation,Never worked and long-term unemployed,76.94817527422289,49.36157476422169,585,unknown,0,0,0
+Respondent's occupation,Full-time students,75.23151535157191,47.74206205653888,424,unknown,0,0,0
+Respondent's occupation,Not classified,78.94406794285437,55.43821340598064,317,unknown,0,0,0
+Respondent's highest qualification,Degree or diploma,77.9255284803387,52.97014612209934,7195,unknown,0,0,0
+Respondent's highest qualification,Apprenticeship or A/AS level,84.64364215620454,52.20587062756466,2344,unknown,0,0,0
+Respondent's highest qualification,O level/GCSE,87.81361091020158,56.43733299235451,2471,unknown,0,0,0
+Respondent's highest qualification,Other,84.90602591840697,53.75416438999208,701,unknown,0,0,0
+Respondent's highest qualification,,83.6717718293717,51.60452572949519,2363,unknown,0,0,0
+Disability [note 3],Disabled,87.1839229710805,55.03384920479204,3475,unknown,0,0,0
+Disability [note 3],Not disabled,80.63326969243539,52.84463552966475,11645,unknown,0,0,0
+Religion,No religion,78.76590594123047,49.92244328408881,6153,unknown,0,0,0
+Religion,Christian,84.73762898619896,54.54656566774311,7653,unknown,0,0,0
+Religion,Buddhist,71.78724390342802,71.39141787245374,82,unknown,0,0,0
+Religion,Hindu,83.6381520629349,70.28404249087929,274,unknown,0,0,0
+Religion,Jewish,78.1547956839319,78.26791080727673,55,unknown,0,0,0
+Religion,Muslim,78.13394643144662,59.23934339948964,713,unknown,0,0,0
+Religion,Sikh,92.16513366776906,54.78278571303209,72,unknown,0,0,0
+Religion,Other,87.44574515096879,54.78631640341472,104,unknown,0,0,0
+Sexual orientation [note 4],Heterosexual/straight,82.2828183001992,53.69927097301671,12775,unknown,0,0,0
+Sexual orientation [note 4],Gay/Lesbian,76.186636291642,54.76442757582299,226,unknown,0,0,0
+Sexual orientation [note 4],Bisexual,76.58973425028914,41.92846395292734,322,unknown,0,0,0
+Sexual orientation [note 4],Other,71.4692981948087,49.7387968640819,84,unknown,0,0,0
+Gender identity [note 5],Gender identity the same as sex registered at birth,81.8438031767701,53.98279832922213,12676,unknown,0,0,0
+Gender identity [note 5],Gender identity different from sex registered at birth,79.0867757476079,45.64436485946658,88,unknown,0,0,0
+Experience of crime in the previous 12 months (including fraud & computer misuse),Victim,85.22769975544999,64.27977081391941,2582,unknown,0,0,0
+Experience of crime in the previous 12 months (including fraud & computer misuse),Not a victim,81.01751917487789,51.00175778941768,12624,unknown,0,0,0
+Hours out of home on an average weekday,Less than 3 hours,82.1810103629583,50.5975287902374,6147,unknown,0,0,0
+Hours out of home on an average weekday,3 hours or more but less than 7 hours,81.17434487908494,54.89505497402558,4228,unknown,0,0,0
+Hours out of home on an average weekday,7 hours or longer,81.6124047297241,55.05785997713576,4739,unknown,0,0,0
+Number of evening visits to pub/bar in the last month,,83.21032854510925,53.52955756695784,8871,unknown,0,0,0
+Number of evening visits to pub/bar in the last month,Less than once a week ,80.57739134741765,53.77009808030044,4400,unknown,0,0,0
+Number of evening visits to pub/bar in the last month,Once a week or more often,78.58015709083365,51.64898495017744,1922,unknown,0,0,0
+Number of visits to a nightclub/disco in the last month,,81.95588583550754,53.47531145489999,14613,unknown,0,0,0
+Number of visits to a nightclub/disco in the last month,1-3 times a month,76.72087160267552,49.81952185571071,506,unknown,0,0,0
+Number of visits to a nightclub/disco in the last month,4+ times a month,86.0648449183,53.158413899858,77,unknown,0,0,0

@@ -1,0 +1,58 @@
+"table s2: ratings of the local police, by personal characteristics, year ending march 2016 csew1",unnamed: 1,unnamed: 2,unnamed: 4,unnamed: 5,unnamed: 6,age_band
+England and Wales,,,,,Adults aged 16 and over,unknown
+,Local police,Unweighted base - number of adults,,Local police,Unweighted base - number of adults,unknown
+,"Percentage saying police 
+doing a good/excellent job",,,"Percentage saying police 
+doing a good/excellent job",,unknown
+ALL ADULTS,62.66433840449157,33768,Respondent's employment status,,,unknown
+,,,In employment,62.68009328661637,19072,unknown
+Age,,,Unemployed,58.76881084214958,689,unknown
+16-24,62.627879072740065,2457,Economically inactive,62.94286694431796,13971,unknown
+25-34,64.27386082857703,4839,Student,68.98377248935493,712,unknown
+35-44,64.42676134115467,5366,Looking after family/home,61.49226395722156,1476,unknown
+45-54,59.95232401780498,5899,Long-term/temporarily sick/ill,52.9620120982588,1471,unknown
+55-64,59.309842071214725,5452,Retired,63.806552667583674,9911,unknown
+65-74,61.84951409031477,5555,Other inactive,61.77185514472292,401,unknown
+75+,68.0883636972495,4200,,,,unknown
+,,,Highest qualification,,,unknown
+Sex,,,Degree or diploma,64.85547307153716,12961,unknown
+Men,60.45646978092755,15448,Apprenticeship or A/AS level,62.158281505833514,6110,unknown
+Women,64.80024726135724,18320,O level/GCSE,59.59432693611026,6299,unknown
+,,,Other,64.3261308138169,1410,unknown
+Ethnic group,,,,61.320460840619376,6865,unknown
+White ,62.55957476672279,30593,,,,unknown
+English/ Welsh/ Scottish/ Northern Irish/ British ,61.64022727333068,28714,Long-standing illness or disability ,,,unknown
+Irish ,64.55045710936784,278,Long-standing illness or disability ,58.70449989402351,8341,unknown
+"Gypsy, Traveller or Irish Traveller ",67.1471594550875,14,Limits activities,57.521608978467256,6488,unknown
+Any other White background,74.52657458491785,1587,Does not limit activities,62.53290893247012,1845,unknown
+Mixed/ Multiple ethnic groups,60.43730900907715,347,No long-standing illness or disability ,63.73515912609018,25344,unknown
+White and Black Caribbean ,56.68969270244568,130,,,,unknown
+White and Black African ,-,-,Internet usage2,,,unknown
+White and Asian ,62.776174164075,91,Used in last 12 months,62.643876046528746,21087,unknown
+Any other Mixed/ Multiple ethnic background,60.87246622003414,85,Not used in last 12 months,64.03715333842031,4469,unknown
+Asian/ Asian British,62.6560483064602,1715,,,,unknown
+Indian ,63.745894451295605,695,Overall level of perceived ASB2,,,unknown
+Pakistani ,60.07154116551167,412,High,39.45836818215014,811,unknown
+Bangladeshi ,52.61586885355478,132,Not high,66.86562710594237,7559,unknown
+Chinese ,62.7352791211287,156,,,,unknown
+Any other Asian background ,69.75511276017482,320,Respondent's occupation (NS-SEC),,,unknown
+Black/ African/ Caribbean/ Black British,65.93330676772369,845,Managerial and professional occupations,64.13865401110179,11715,unknown
+African ,70.51181633227927,505,Intermediate occupations,63.05041372891927,7856,unknown
+Caribbean ,58.15920548630791,281,Routine and manual occupations,59.98336375377357,11745,unknown
+Any other Black/ African/ Caribbean background ,57.42385156935601,59,Never worked and long-term unemployed,61.69039704635635,1172,unknown
+Other ethnic group,69.14382918673213,231,Full-time students,68.6375674745749,1066,unknown
+Arab ,73.40903700717209,82,Not classified,53.81248242671492,214,unknown
+Any other ethnic group ,66.64221630501558,149,,,,unknown
+,,,Perception of local crime rate3,,,unknown
+Marital status,,,Higher than average,46.43732166632669,1283,unknown
+Married/civil partnered,63.024243010235296,15378,About average,58.155756085885876,5740,unknown
+Cohabiting,61.643886794665846,3527,Lower than average,69.63305040031756,9878,unknown
+Single,61.42298869657948,7413,,,,unknown
+Separated,63.85578836148669,979,Experience of crime in last 12 months,,,unknown
+Divorced/legally dissolved partnership,60.84792785925609,2999,Victim,53.94633767761133,4724,unknown
+Widowed,68.57211033291478,3346,Not a victim,64.25863607281677,29044,unknown
+"Source: Crime Survey for England and Wales, Office for National Statistics",,,,,,unknown
+1. Section 7.3 of the User Guide has definitions of personal characteristics.,,,,,,unknown
+"2. The relevant questions relating to internet usage, overall level of perceived anti-social behaviour, and awareness of neighbourhood policing, are only asked of one quarter of the CSEW sample.",,,,,,unknown
+3. The question relating to perceptions of local crime is only asked to half of the sample.,,,,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,,,,unknown

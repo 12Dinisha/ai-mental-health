@@ -1,0 +1,50 @@
+"table a9b: prevalence of domestic abuse in the last year among people aged 16 years and over, by abuse type and sex [note 1, 2, 3, 4]",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,unnamed: 7,unnamed: 8,unnamed: 9,age_band
+"England and Wales, year ending March 2024 to year ending March 2025",,,,,,,,,,unknown
+This worksheet contains one table. The units in this table are for percentage who were victims once or more. Some cells refer to notes which can be found on the Notes worksheet.,,,,,,,,,,unknown
+Link to Notes,,,,,,,,,,unknown
+Some shorthand is used in this table. [z] denotes that data are not applicable. [s] indicates there is a statistically significant change at the 5% level. [ns] indicates there is not a statistically significant change at the 5% level.,,,,,,,,,,unknown
+Link to Table of contents,,,,,,,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics ,,,,,,,,,,unknown
+Type of abuse [note 5],"Apr 2023 to
+ Mar 2024
+All ","Apr 2024 to
+ Mar 2025
+All","Apr 2024 to Mar 2025 compared with Apr 2023 to Mar 2024 statistically significant difference
+All","Apr 2023 to
+ Mar 2024
+Women ","Apr 2024 to
+ Mar 2025
+Women","Apr 2024 to Mar 2025 compared with Apr 2023 to Mar 2024 statistically significant difference
+Women","Apr 2023 to
+ Mar 2024
+Men ","Apr 2024 to
+ Mar 2025
+Men","Apr 2024 to Mar 2025 compared with Apr 2023 to Mar 2024 statistically significant difference
+Men",unknown
+Any domestic abuse,8.00358769976965,7.81374819686045,[ns],9.48172949506343,9.08746334278954,[ns],6.47064523656444,6.49806769198885,[ns],unknown
+Emotional abuse (partner or family),5.28353105081667,5.00196211272637,[ns],6.17754396700138,5.89261180924847,[ns],4.35318330572444,4.08080681562852,[ns],unknown
+Economic abuse (partner or family),2.30044607093022,2.66104886040202,[ns],2.80368470704326,3.27098824825123,[ns],1.77782379092939,2.02956691133541,[ns],unknown
+Health abuse (partner or family),0.523055300758539,0.704632637136287,[ns],0.781309146599244,0.715866680435638,[ns],0.254730809230303,0.69301316132981,[s],unknown
+Marital status-related abuse (family),0.135754528892807,0.147882595368742,[ns],0.179575226297534,0.158227403689916,[ns],0.0898894467764027,0.137189610228115,[ns],unknown
+Threats (partner or family),2.99218419662292,2.64209884050957,[ns],3.81581409648437,3.25822104557922,[ns],2.13711440684068,2.00481553840067,[ns],unknown
+Physical abuse (partner or family),1.34071745218032,1.28097050658545,[ns],1.47830489638304,1.53359339397197,[ns],1.19807695495195,1.01962195418074,[ns],unknown
+Domestic sexual assault (partner or family) [note 6],1.25183258203396,1.57227310332026,[ns],1.95840016400822,2.33584720392156,[ns],0.518289616340273,0.783094103269442,[ns],unknown
+Domestic stalking (partner or family) [note 7],2.28395428249725,2.18052686400608,[ns],2.98957312149821,2.55728262919987,[ns],1.55174866756044,1.79129671232051,[ns],unknown
+Any partner abuse,5.90111647481482,6.13747755647375,[ns],7.03084328305429,7.31120145771313,[ns],4.73480584159965,4.92827359829919,[ns],unknown
+Emotional abuse by a partner,4.08194875510428,4.04718901351539,[ns],4.7621921468076,4.84295788711543,[ns],3.37335545750998,3.22525193689274,[ns],unknown
+Economic abuse by a partner,1.74965511339721,2.11846681646584,[ns],2.2439885968713,2.48851410072812,[ns],1.23959271109677,1.73694084553137,[ns],unknown
+Health abuse by a partner,0.450424131090835,0.617187991445661,[ns],0.679442037957799,0.567573791142239,[ns],0.213446226359501,0.668349235229173,[s],unknown
+Threats by a partner,2.13781474358001,2.13579924948332,[ns],2.79632701726413,2.7061220273495,[ns],1.45700252842126,1.54770305752759,[ns],unknown
+Physical abuse by a partner,0.867733384711575,0.910487436358258,[ns],1.06758018276453,1.03825528407591,[ns],0.661643272701313,0.779053529279693,[ns],unknown
+Sexual assault by a partner [note 6],1.21366704622564,1.50445445696749,[ns],1.94694786243836,2.21534807493841,[ns],0.457198905584339,0.772297834437083,[ns],unknown
+Stalking by a partner [note 7],1.7277325096226,1.71718348933643,[ns],2.29766493922281,2.08351172562535,[ns],1.14036081279734,1.33998787994695,[ns],unknown
+Any family abuse,3.03761430744834,2.6774771407326,[ns],3.48377862350779,2.91781860238319,[ns],2.57091444491174,2.42865474094892,[ns],unknown
+Emotional abuse by a family member,1.70529052103671,1.4766424434203,[ns],2.02599348197854,1.66463286033765,[ns],1.37007605644159,1.28202228023262,[ns],unknown
+Economic abuse by a family member,0.676562929988376,0.780818433195668,[ns],0.69244588091822,1.01633084427023,[ns],0.659969023212903,0.536376038346153,[ns],unknown
+Health abuse by a family member,0.134728595742936,0.131141129534706,[ns],0.215643881049728,0.210397611891602,[ns],0.050178478169763,0.0491308940538914,[ns],unknown
+Marital status-related abuse by a family member,0.135754528892807,0.147882595368742,[ns],0.179575226297534,0.158227403689916,[ns],0.0898894467764027,0.137189610228115,[ns],unknown
+Threats by a family member,1.09740147046468,0.696404208237352,[s],1.32583936781191,0.724342366542165,[s],0.859113208762186,0.667461373790572,[ns],unknown
+Physical abuse by a family member,0.519276978805715,0.433383832080452,[ns],0.442343487974141,0.575144640860027,[ns],0.599703333485553,0.286589669794424,[ns],unknown
+Sexual assault by a family member [note 6],0.0600292288490561,0.112704772116974,[ns],0.0513196283432415,0.180700162459738,[ns],0.0691425209733938,0.0422983919200016,[ns],unknown
+Stalking by a family member [note 7],0.671279741493727,0.662771182431231,[ns],0.827341033192342,0.651212015155481,[ns],0.508392528667354,0.674739136361802,[ns],unknown
+Unweighted base - number of people aged 16 years and over [note 8],12353,13003,[z],6589,6887,[z],5764,6116,[z],unknown

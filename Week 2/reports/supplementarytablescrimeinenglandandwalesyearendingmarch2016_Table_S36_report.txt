@@ -1,0 +1,11 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : supplementarytablescrimeinenglandandwalesyearendingmarch2016.xls
+Sheet    : Table S36
+Rows     : 50
+Columns  : 6
+Duplicates : 0
+Missing Cells : 56
+

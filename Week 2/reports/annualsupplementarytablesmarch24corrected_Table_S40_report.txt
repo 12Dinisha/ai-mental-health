@@ -1,0 +1,11 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : annualsupplementarytablesmarch24corrected.xlsx
+Sheet    : Table S40
+Rows     : 13
+Columns  : 5
+Duplicates : 0
+Missing Cells : 16
+

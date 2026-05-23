@@ -1,0 +1,194 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Mental Health UK - Presentation</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #1a1a2e; color: white; }
+        .slide { display: none; padding: 40px; text-align: center; min-height: 100vh; overflow-y: auto; }
+        .slide.active { display: block; }
+        h1 { color: #4fc3f7; font-size: 2.5em; margin-bottom: 15px; }
+        h2 { color: #81c784; font-size: 2em; margin: 20px 0; }
+        h3 { color: #ffeb3b; font-size: 1.4em; margin: 15px 0; }
+        p { font-size: 1.2em; line-height: 1.6; }
+        ul { font-size: 1.1em; text-align: left; display: inline-block; }
+        li { margin: 10px 0; }
+        .img { max-width: 90%; max-height: 380px; margin: 15px auto; border: 2px solid #444; border-radius: 10px; }
+        .highlight { color: #ffeb3b; font-weight: bold; }
+        .high { color: #f44336; }
+        .low { color: #4caf50; }
+        .medium { color: #ff9800; }
+        .nav { position: fixed; bottom: 15px; left: 50%; transform: translateX(-50%); z-index: 100; }
+        button { padding: 10px 20px; font-size: 1em; cursor: pointer; background: #4fc3f7; border: none; border-radius: 5px; margin: 0 5px; }
+        .progress { position: fixed; top: 0; left: 0; height: 5px; background: #4fc3f7; width: 0%; transition: width 0.3s; }
+        .table { margin: 15px auto; border-collapse: collapse; width: 70%; }
+        .table th, .table td { padding: 10px 15px; border: 1px solid #444; text-align: left; }
+        .table th { background: #2d2d4a; color: #4fc3f7; }
+        .check { color: #4caf50; }
+        .cross { color: #f44336; }
+        .week-tag { background: #e91e63; padding: 4px 12px; border-radius: 15px; font-size: 0.75em; margin: 0 5px; }
+        .team { font-size: 1.8em; color: #4fc3f7; margin: 20px 0; }
+        .date { font-size: 1em; color: #888; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <div class="progress" id="progress"></div>
+    
+    <!-- SLIDE 1: TITLE -->
+    <div class="slide active">
+        <h1>🏥 AI Mental Health UK</h1>
+        <h2>Mental Health Risk Prediction</h2>
+        <p>Complete Project | May 2026</p>
+        <p style="margin-top: 40px;">
+            <span class="week-tag">WEEK 1</span>
+            <span class="week-tag">WEEK 2</span>
+            <span class="week-tag">WEEK 3</span>
+            <span class="week-tag">WEEK 4</span>
+        </p>
+    </div>
+    
+    <!-- SLIDE 2: WEEK 1 -->
+    <div class="slide">
+        <h2>Week 1: Data & EDA</h2>
+        <h3><span class="week-tag">AIML-1</span> Initial Analysis</h3>
+        <ul style="text-align: left;">
+            <li>✅ MHSDS dataset (496 samples)</li>
+            <li>✅ PHQ-9 & GAD-7 analysis</li>
+            <li>✅ Demographics & deprivation</li>
+            <li>✅ 14 features engineered</li>
+            <li>✅ 25.8% high risk rate</li>
+        </ul>
+    </div>
+    
+    <!-- SLIDE 3: WEEK 1 CHART -->
+    <div class="slide">
+        <h2>Week 1: Feature Analysis</h2>
+        <img src="Week 1/reports/feature_target_bars.png" class="img" alt="Feature Analysis">
+    </div>
+    
+    <!-- SLIDE 4: WEEK 2 -->
+    <div class="slide">
+        <h2>Week 2: Baseline Model</h2>
+        <h3><span class="week-tag">AIML-2</span> Model Development</h3>
+        <ul style="text-align: left;">
+            <li>✅ Logistic Regression (F1=0.72)</li>
+            <li>✅ Random Forest (F1=0.75)</li>
+            <li>✅ XGBoost (F1=0.78)</li>
+            <li>✅ 5-fold cross-validation</li>
+        </ul>
+    </div>
+    
+    <!-- SLIDE 5: ROC -->
+    <div class="slide">
+        <h2>Week 2: ROC Curve</h2>
+        <img src="reports/xgboost_roc_curve.png" class="img" alt="ROC Curve">
+    </div>
+    
+    <!-- SLIDE 6: WEEK 3 -->
+    <div class="slide">
+        <h2>Week 3: Ensemble + Optuna</h2>
+        <h3><span class="week-tag">AIML-2</span> Ensemble Model</h3>
+        <ul style="text-align: left;">
+            <li>✅ XGBoost + RF + LogReg</li>
+            <li>✅ 20 Optuna trials</li>
+            <li>✅ Training F1=1.00, AUC=1.00</li>
+            <li>✅ ensemble_v3.pkl</li>
+        </ul>
+    </div>
+    
+    <!-- SLIDE 7: ENSEMBLE -->
+    <div class="slide">
+        <h2>Week 3: Ensemble Comparison</h2>
+        <img src="reports/ensemble_comparison.png" class="img" alt="Ensemble">
+    </div>
+    
+    <!-- SLIDE 8: SHAP -->
+    <div class="slide">
+        <h2>Week 3: SHAP Analysis</h2>
+        <img src="reports/shap_bar.png" class="img" alt="SHAP">
+    </div>
+    
+    <div class="slide">
+        <h2>Week 3: SHAP Beeswarm</h2>
+        <img src="reports/shap_beeswarm.png" class="img" alt="SHAP">
+    </div>
+    
+    <!-- SLIDE 9: WEEK 4 -->
+    <div class="slide">
+        <h2>Week 4: Validation</h2>
+        <h3><span class="week-tag">AIML-1</span> Model Validation</h3>
+        <ul style="text-align: left;">
+            <li>✅ MHSDS validation</li>
+            <li>✅ Validation F1=0.34, AUC=0.51</li>
+            <li>✅ Model card created</li>
+            <li>✅ Load testing</li>
+        </ul>
+    </div>
+    
+    <!-- SLIDE 10: BIAS -->
+    <div class="slide">
+        <h2>Week 4: Bias Audit</h2>
+        <img src="reports/bias_audit_plot.png" class="img" alt="Bias">
+    </div>
+    
+    <!-- SLIDE 11: DEMO -->
+    <div class="slide">
+        <h2>AIML-4: Live Demo</h2>
+        <ul style="text-align: left;">
+            <li><strong>P001:</strong> PHQ-9=18, GAD-7=15 → <span class="high">9.95 HIGH</span></li>
+            <li><strong>P002:</strong> PHQ-9=3, GAD-7=2 → <span class="low">0.02 LOW</span></li>
+            <li><strong>P003:</strong> PHQ-9=20, GAD-7=18 → <span class="high">9.96 HIGH</span></li>
+        </ul>
+    </div>
+    
+    <!-- SLIDE 12: LIMITATIONS -->
+    <div class="slide">
+        <h2>Limitations</h2>
+        <ul style="text-align: left;">
+            <li class="cross">⚠ Synthetic training data</li>
+            <li class="cross">⚠ Validation needs improvement</li>
+            <li class="cross">⚠ NHS approval pending</li>
+            <li>⚠ NOT clinical replacement</li>
+        </ul>
+    </div>
+    
+    <!-- SLIDE 13: TEAM -->
+    <div class="slide">
+        <h1>Thank You!</h1>
+        <div class="team">Submitted by AI/ML Team</div>
+        <div class="team">Dinisha Jain</div>
+        <div class="team">Mohit</div>
+        <p class="date">May 2026</p>
+        <p style="margin-top: 30px;">ai-mh-uk@project.nhs</p>
+    </div>
+    
+    <!-- NAV -->
+    <div class="nav">
+        <button onclick="prevSlide()">◀</button>
+        <span id="slideNum" style="color:white;margin:0 10px;"></span>
+        <button onclick="nextSlide()">▶</button>
+    </div>
+    
+    <script>
+        let current = 0;
+        const slides = document.querySelectorAll('.slide');
+        
+        function showSlide(n) {
+            slides[current].classList.remove('active');
+            current = (n + slides.length) % slides.length;
+            slides[current].classList.add('active');
+            document.getElementById('progress').style.width = ((current + 1) / slides.length * 100) + '%';
+            document.getElementById('slideNum').textContent = (current + 1) + '/' + slides.length;
+        }
+        
+        function nextSlide() { showSlide(current + 1); }
+        function prevSlide() { showSlide(current - 1); }
+        
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') nextSlide();
+            if (e.key === 'ArrowLeft') prevSlide();
+        });
+        
+        showSlide(0);
+    </script>
+</body>
+</html>

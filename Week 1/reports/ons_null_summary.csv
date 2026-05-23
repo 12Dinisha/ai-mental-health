@@ -1,0 +1,31 @@
+column,dtype,null_count,null_rate
+Unnamed: 15,float64,54,1.0
+Unnamed: 14,str,52,0.9629629629629629
+Unnamed: 29,str,51,0.9444444444444444
+Unnamed: 13,str,44,0.8148148148148148
+Unnamed: 28,str,38,0.7037037037037037
+Unnamed: 3,object,22,0.4074074074074074
+Unnamed: 9,object,22,0.4074074074074074
+Unnamed: 10,object,22,0.4074074074074074
+Unnamed: 8,object,22,0.4074074074074074
+Unnamed: 7,object,22,0.4074074074074074
+Unnamed: 4,object,22,0.4074074074074074
+Unnamed: 5,object,22,0.4074074074074074
+Unnamed: 6,object,22,0.4074074074074074
+Unnamed: 2,object,22,0.4074074074074074
+Unnamed: 25,object,22,0.4074074074074074
+Unnamed: 21,object,22,0.4074074074074074
+Unnamed: 12,object,22,0.4074074074074074
+Unnamed: 11,object,22,0.4074074074074074
+Unnamed: 20,object,22,0.4074074074074074
+Unnamed: 19,object,22,0.4074074074074074
+Unnamed: 17,object,22,0.4074074074074074
+Unnamed: 18,object,22,0.4074074074074074
+Unnamed: 27,object,22,0.4074074074074074
+Unnamed: 24,object,22,0.4074074074074074
+Unnamed: 22,object,22,0.4074074074074074
+Unnamed: 23,object,22,0.4074074074074074
+Unnamed: 26,object,22,0.4074074074074074
+Unnamed: 1,object,20,0.37037037037037035
+Unnamed: 16,object,20,0.37037037037037035
+"Table S40:  Prevalence of intimate violence in the last year among men and women, by category, year ending March 2005 to year ending March 2016 CSEW1",str,15,0.2777777777777778

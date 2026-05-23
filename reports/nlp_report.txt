@@ -1,0 +1,23 @@
+======================================================================
+WEEK 3 — AIML-3: NLP TEXT CLASSIFICATION REPORT
+AI Mental Health UK Project
+======================================================================
+
+--- MODEL METRICS ---
+  Accuracy: 1.0000
+  F1 (macro): 1.0000
+  F1 (weighted): 1.0000
+
+--- CLASSIFICATION REPORT ---
+              precision    recall  f1-score   support
+
+         Low       1.00      1.00      1.00        17
+      Medium       1.00      1.00      1.00        13
+        High       1.00      1.00      1.00        10
+
+    accuracy                           1.00        40
+   macro avg       1.00      1.00      1.00        40
+weighted avg       1.00      1.00      1.00        40
+
+
+======================================================================

@@ -1,0 +1,15 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : supplementarytablescorrectionaugust2018.xls
+Sheet    : Table S26
+Rows     : 54
+Columns  : 10
+Duplicates : 0
+Missing Cells : 194
+
+NUMERIC SUMMARY
+
+            count  mean  std  min  25%  50%  75%  max
+unnamed: 4    0.0   NaN  NaN  NaN  NaN  NaN  NaN  NaN

@@ -1,0 +1,50 @@
+"table s27:  confidence in the criminal justice system by household and area characteristics, year ending march 2016 csew1",unnamed: 1,unnamed: 2,unnamed: 3,age_band
+England and Wales,,,Adults aged 16 and over/households,unknown
+,Confident that the CJS is fair,Confident that the CJS is effective,Unweighted base - number of adults2,unknown
+,Percentages,,,unknown
+ALL ADULTS,68.0255650433682,53.60137523879518,17185,unknown
+Structure of household,,,,unknown
+Single adult and child(ren),58.328413677601944,50.251153517919356,853,unknown
+Adults and child(ren),69.64759353765317,56.4177382670035,3649,unknown
+Adult(s) and no child(ren),67.79935097039001,52.66671824698154,12683,unknown
+Total household income,,,,unknown
+"Less than £10,000",68.76980681391096,57.19265192876834,1774,unknown
+"£10,000 to less than £20,000",67.71940397442138,51.64096406995915,3340,unknown
+"£20,000 to less than £30,000",66.70100222145383,51.44155171270035,2651,unknown
+"£30,000 to less than £40,000",69.24659399880578,52.57025451182196,2008,unknown
+"£40,000 to less than £50,000",68.71747525426643,53.423582536682716,1342,unknown
+"£50,000 or more",70.5199735083616,54.75097828837586,3119,unknown
+No income stated or not enough information provided,65.16079822319807,54.83631209811699,2947,unknown
+Tenure,,,,unknown
+Owner occupiers,68.66050868530924,50.95708252335256,11231,unknown
+Social renters,62.20121894660164,52.440490846342854,2726,unknown
+Private renters,70.25420632626393,61.77111995018176,3125,unknown
+Accommodation type ,,,,unknown
+Houses,67.72008184588863,52.535760386362696,14800,unknown
+Detached,70.3129292094503,52.78282318543395,4497,unknown
+Semi-detached,66.61605837386249,51.87229799104905,5370,unknown
+Terraced,66.73064605443653,53.01974614197387,4933,unknown
+Flats/maisonettes,70.0333404497884,60.69033279226548,2252,unknown
+Other accommodation,-,-,39,unknown
+Output Area Classification,,,,unknown
+Rural residents,71.23492900896179,52.672122298397014,2410,unknown
+Cosmopolitans,74.49265785293028,65.85576324125113,535,unknown
+Ethnicity central,68.40725089192345,61.93623765455444,715,unknown
+Multicultural metropolitans,68.38413008390572,59.525736673040065,1940,unknown
+Urbanities,69.68135287811343,53.87986365305078,3258,unknown
+Suburbanities,68.38139797248813,50.47590268244861,3794,unknown
+Constrained city dwellers,63.669919055262724,49.80571157826167,1107,unknown
+Hard-pressed living ,63.33751828941148,48.60765353793714,3426,unknown
+Area type,,,,unknown
+Urban,67.57477175090496,53.763780934571095,13205,unknown
+Rural,69.92296927580094,52.914963398624856,3980,unknown
+Level of physical disorder,,,,unknown
+High,64.54340837451755,52.785121170565056,658,unknown
+Not high,68.21824460516214,53.61514155685254,16404,unknown
+English Indices of Deprivation (Employment),,,,unknown
+20% most deprived Output Areas,63.68756133857468,52.5979512890516,2940,unknown
+Other Output Areas,67.89375326359044,52.91387416870954,9640,unknown
+20% least deprived Output Areas,72.5875978036484,57.24850229288847,3181,unknown
+"Source: Crime Survey for England and Wales, Office for National Statistics",,,,unknown
+1. Sections 7.1 and 7.2 of the User Guide provide definitions of area and household characteristics.,,,,unknown
+2. Unweighted base refers to confidence that the CJS is fair. Base for CJS is effective will be similar.,,,,unknown

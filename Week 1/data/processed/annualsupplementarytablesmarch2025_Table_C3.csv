@@ -1,0 +1,55 @@
+"Table C3: Experience of anti-social behaviour (ASB) in local area, by household and area characteristics, people aged 16 and over",Unnamed: 1,Unnamed: 2,Unnamed: 3,age_band,flag_depression,flag_anxiety,flag_comorbid
+"England and Wales, year ending March 2025",,,,unknown,0,0,0
+This worksheet contains one table. Some cells refer to notes which can be found on the Notes worksheet.,,,,unknown,0,0,0
+Link to Notes page,,,,unknown,0,0,0
+Link to Table of contents,,,,unknown,0,0,0
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,unknown,0,0,0
+Household characteristic [note 3],Household characteristic ,Experience of ASB in local area (%),Unweighted base - number of people aged 16 and over,unknown,0,0,0
+All People,All People,35.4765082049454,31465,unknown,0,0,0
+Structure of household,Single person and child(ren),40.06182838461923,1343,unknown,0,0,0
+Structure of household,People and child(ren),38.64196594134191,5989,unknown,0,0,0
+Structure of household,People or Person and no children,34.30662929718496,24133,unknown,0,0,0
+Total household income,"Less than £10,400",31.82236279932209,1437,unknown,0,0,0
+Total household income,"£10,400 to less than £20,800",34.68751811790185,4981,unknown,0,0,0
+Total household income,"£20,800 to less than £31,200",34.29943110953496,5090,unknown,0,0,0
+Total household income,"£31,200 to less than £41,600",35.83970878125348,3388,unknown,0,0,0
+Total household income,"£41,600 to less than £52,000",38.26879635225177,3034,unknown,0,0,0
+Total household income,"£52,000 or more",40.83048849612933,7018,unknown,0,0,0
+Total household income,No income stated or not enough information provided,20.42015952113007,356,unknown,0,0,0
+Tenure,Owners,36.03575463694867,19649,unknown,0,0,0
+Tenure,Social renters,37.47329449961126,5365,unknown,0,0,0
+Tenure,Private renters,32.84309360138899,6120,unknown,0,0,0
+Accommodation type ,Houses,35.24584710261382,25822,unknown,0,0,0
+Accommodation type ,Detached,29.9455483150935,7139,unknown,0,0,0
+Accommodation type ,Semi-detached,35.74803110646864,9300,unknown,0,0,0
+Accommodation type ,Terraced,39.18252929537645,9383,unknown,0,0,0
+Accommodation type ,Flats or maisonettes,37.18592686217516,5462,unknown,0,0,0
+Accommodation type ,Other accommodation,17.17944507941597,67,unknown,0,0,0
+Output Area Classification,Rural residents,22.00062320370422,3775,unknown,0,0,0
+Output Area Classification,Cosmopolitans,45.42771783019596,1367,unknown,0,0,0
+Output Area Classification,Ethnicity central,35.37211934291499,2074,unknown,0,0,0
+Output Area Classification,Multicultural metropolitans,36.40781799886526,4136,unknown,0,0,0
+Output Area Classification,Urbanites,36.18262316177647,5376,unknown,0,0,0
+Output Area Classification,Suburbanites,31.52382419838661,5626,unknown,0,0,0
+Output Area Classification,Constrained city dwellers,46.217728808511,2650,unknown,0,0,0
+Output Area Classification,Hard-pressed living,40.75655018147566,6461,unknown,0,0,0
+Area type,Urban,38.31345971347111,25136,unknown,0,0,0
+Area type,Rural,23.93475460809174,6329,unknown,0,0,0
+Level of physical disorder,High,43.04732125729203,2033,unknown,0,0,0
+Level of physical disorder,Not high,35.00609254523321,29346,unknown,0,0,0
+English Indices of Deprivation (Employment),20% most deprived Output Areas,44.60764028291475,7531,unknown,0,0,0
+English Indices of Deprivation (Employment),Other Output Areas,34.13617885430688,16716,unknown,0,0,0
+English Indices of Deprivation (Employment),20% least deprived Output Areas,31.147985116711,5029,unknown,0,0,0
+Welsh Indices of Deprivation (Employment),20% most deprived Output Areas,41.20177016163783,541,unknown,0,0,0
+Welsh Indices of Deprivation (Employment),Other Output Areas,31.89725942391479,1279,unknown,0,0,0
+Welsh Indices of Deprivation (Employment),20% least deprived Output Areas,29.40255930487947,369,unknown,0,0,0
+Region,North East,44.19359988493653,1887,unknown,0,0,0
+Region,North West,36.4476052642242,4021,unknown,0,0,0
+Region,Yorkshire and The Humber,37.3272339035201,3228,unknown,0,0,0
+Region,East Midlands,36.76927097910268,3005,unknown,0,0,0
+Region,West Midlands,39.07967787775911,3153,unknown,0,0,0
+Region,East,32.72389712049807,3528,unknown,0,0,0
+Region,London,31.75161962290635,3865,unknown,0,0,0
+Region,South East,34.68084661762249,3680,unknown,0,0,0
+Region,South West,34.92382345538746,2909,unknown,0,0,0
+Region,Wales,33.1473796669244,2189,unknown,0,0,0

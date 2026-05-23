@@ -1,0 +1,44 @@
+============================================================
+AI Mental Health UK - Baseline Model Report
+Task: AIML-4 | Week 1
+Generated: 2026-05-03 20:05:25.035673
+============================================================
+
+-- Model --
+  Algorithm : Logistic Regression (sklearn)
+  Target    : any_cmd  (1 = CMD present)
+  Features  : ['age', 'sex', 'ethnicity', 'imd_quintile', 'region']
+  Test size : 20%
+
+-- Hold-out Test Metrics --
+  Accuracy : 0.5180
+  F1 Score : 0.2697
+  ROC-AUC  : 0.5171
+
+-- Classification Report --
+              precision    recall  f1-score   support
+
+      No CMD       0.83      0.52      0.64       823
+         CMD       0.18      0.50      0.27       177
+
+    accuracy                           0.52      1000
+   macro avg       0.51      0.51      0.45      1000
+weighted avg       0.72      0.52      0.57      1000
+
+-- 5-Fold Cross-Validation --
+  accuracy    : 0.5002 +/- 0.0129
+  f1          : 0.2616 +/- 0.0089
+  roc_auc     : 0.4972 +/- 0.0129
+
+-- Feature Coefficients (Log-Odds) --
+     feature  log_odds  odds_ratio
+      region  0.068183    1.070562
+         sex -0.041451    0.959397
+         age  0.021093    1.021317
+imd_quintile -0.016729    0.983410
+   ethnicity -0.005376    0.994638
+
+-- Notes --
+  - class_weight='balanced' used to handle ~17% CMD prevalence.
+  - Logistic Regression is interpretable - suitable for NHS clinical context.
+  - Next step (Week 2): feature engineering & tree-based models.

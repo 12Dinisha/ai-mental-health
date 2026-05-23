@@ -1,0 +1,58 @@
+"table s2: ratings of the local police, by personal characteristics, year ending march 2018 csew1",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,age_band
+England and Wales,,,,,,Adults aged 16 and over,unknown
+,Local police,Unweighted base - number of adults,,,Local police,Unweighted base - number of adults,unknown
+,"Percentage saying police 
+doing a good/excellent job",,,,"Percentage saying police 
+doing a good/excellent job",,unknown
+ALL ADULTS,61.688574154127274,32985,,Respondent's employment status,,,unknown
+,,,,In employment,61.803835448097374,19099,unknown
+Age,,,,Unemployed,57.04692002600225,633,unknown
+16-24,65.33901496845407,2244,,Economically inactive,61.781473910825646,13240,unknown
+25-34,64.72666646507909,4944,,Student,70.408258965833,689,unknown
+35-44,63.114544200649156,5335,,Looking after family/home,62.919028267377406,1520,unknown
+45-54,57.662814186535705,5695,,Long-term/temporarily sick/ill,53.8349861956655,1392,unknown
+55-64,57.31992478158693,5419,,Retired,61.494320054078635,9289,unknown
+65-74,59.534182490972654,5267,,Other inactive,54.878878427383185,350,unknown
+75+,65.68279162947933,4081,,,,,unknown
+,,,,Highest qualification,,,unknown
+Sex,,,,Degree or diploma,63.366217903402976,13281,unknown
+Men,59.3058889217078,15463,,Apprenticeship or A/AS level,60.002816786067406,5818,unknown
+Women,63.99951483553319,17522,,O level/GCSE,59.09995680797762,5883,unknown
+,,,,Other,63.78681017720782,1399,unknown
+Ethnic group,,,,,61.78768518421695,6502,unknown
+White ,61.293885236602044,29483,,,,,unknown
+English/ Welsh/ Scottish/ Northern Irish/ British ,60.27423808333494,27326,,Long-standing illness or disability ,,,unknown
+Irish ,64.6242092527861,287,,Long-standing illness or disability ,57.34454982132762,7809,unknown
+"Gypsy, Traveller or Irish Traveller ",-,14,,Limits activities,56.69628082322606,6279,unknown
+Any other White background,72.79773631598007,1856,,Does not limit activities,59.90476112475772,1527,unknown
+Mixed/ Multiple ethnic groups,55.32612664751376,357,,No long-standing illness or disability ,62.79769930492334,24894,unknown
+White and Black Caribbean ,49.464051239297405,118,,,,,unknown
+White and Black African ,62.4903556037248,60,,Internet usage2,,,unknown
+White and Asian ,48.781695281673706,79,,Used in last 12 months,61.65176703776765,28074,unknown
+Any other Mixed/ Multiple ethnic background,62.98292871084801,100,,Not used in last 12 months,61.98344575374971,4909,unknown
+Asian/ Asian British,64.99220294591136,1909,,,,,unknown
+Indian ,66.64872019680277,752,,Overall level of perceived ASB2,,,unknown
+Pakistani ,58.3204581092785,477,,High,44.14900134622632,750,unknown
+Bangladeshi ,61.2248804596775,173,,Not high,65.93441905890887,7392,unknown
+Chinese ,65.43872769973534,154,,,,,unknown
+Any other Asian background ,73.86036664855494,353,,Respondent's occupation (NS-SEC),,,unknown
+Black/ African/ Caribbean/ Black British,64.18018004211876,914,,Managerial and professional occupations,62.671783317879495,11857,unknown
+African ,69.77161053283152,552,,Intermediate occupations,60.04028510652372,7531,unknown
+Caribbean ,55.44007090505654,301,,Routine and manual occupations,60.28976016635945,11199,unknown
+Any other Black/ African/ Caribbean background ,51.822060208849386,61,,Never worked and long-term unemployed,59.217325179322074,1112,unknown
+Other ethnic group,69.39179263903057,285,,Full-time students,70.8857673131197,1039,unknown
+Arab ,65.60175085977532,94,,Not classified,58.996737199581105,247,unknown
+Any other ethnic group ,71.29401160489815,191,,,,,unknown
+,,,,Experience of crime in last 12 months (excluding fraud and computer misuse),,,unknown
+Marital status,,,,Victim,50.61094292452021,4370,unknown
+Married/civil partnered,60.99572531018349,15154,,Not a victim,63.56795307785361,28615,unknown
+Cohabiting,61.387287814585825,3417,,,,,unknown
+Single,62.14894082369587,7444,,Experience of crime in last 12 months (including fraud and computer misuse)3,,,unknown
+Separated,60.63071546319241,950,,Victim,53.63163694916581,4698,unknown
+Divorced/legally dissolved partnership,61.78563285557955,2883,,Not a victim,63.8232256250867,19604,unknown
+Widowed,67.12504797631405,3082,,,,,unknown
+"Source: Crime Survey for England and Wales, Office for National Statistics",,,,,,,unknown
+1. Section 7.3 of the User Guide has definitions of personal characteristics.,,,,,,,unknown
+"2. The relevant questions relating to internet usage, overall level of perceived anti-social behaviour, and awareness of neighbourhood policing, are only asked of one quarter of the CSEW sample.",,,,,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,,,,,unknown
+3. Combined bases for the 'Experience of crime in the last 12 months (including fraud and computer misuse)' are smaller as questions relating to Fraud victimisation were only been asked of the full sample from October 2017 onwards and were previously only asked of half the sample. ,,,,,,,unknown

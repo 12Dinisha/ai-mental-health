@@ -1,0 +1,51 @@
+"table s16: percentage of incidents in which victims were satisfied with the police by household and area characteristics, year ending march 2018 csew1,2",unnamed: 1,unnamed: 2,age_band
+England and Wales,,Adults aged 16 and over/households,unknown
+,Satisfaction with the police,Unweighted base - number of incidents,unknown
+,Percentage of incidents in which the victim was 'very' or 'fairly' satisfied with the police,,unknown
+ALL INCIDENTS,67.52211163314097,2125,unknown
+Structure of household,,,unknown
+Single adult and child(ren),63.37573651611048,189,unknown
+Adults and child(ren),68.53424275476237,582,unknown
+Adult(s) and no child(ren),67.647075806912,1354,unknown
+Total household income,,,unknown
+"Less than £10,000",69.07569140006213,208,unknown
+"£10,000 to less than £20,000",65.02310263326343,388,unknown
+"£20,000 to less than £30,000",64.66990399840151,276,unknown
+"£30,000 to less than £40,000",69.89516507783863,249,unknown
+"£40,000 to less than £50,000",73.50667172416597,202,unknown
+"£50,000 or more",68.4323414322988,482,unknown
+No income stated or not enough information provided,65.15844092013229,316,unknown
+Tenure,,,unknown
+Owner occupiers,66.0828731181295,1183,unknown
+Social renters,68.1725434675729,459,unknown
+Private renters,69.50457642349346,471,unknown
+Accommodation type ,,,unknown
+Houses,66.58594864713729,1781,unknown
+Detached,61.534475267900056,444,unknown
+Semi-detached,70.58486189040764,611,unknown
+Terraced,66.14168229331638,726,unknown
+Flats/maisonettes,71.3476376353026,337,unknown
+Other,-,2,unknown
+Output Area Classification,,,unknown
+Rural residents,69.35541095225204,200,unknown
+Cosmopolitans,72.12231316319676,100,unknown
+Ethnicity central,73.70284271571143,133,unknown
+Multicultural metropolitans,69.35738862685234,344,unknown
+Urbanites,69.66356301802,394,unknown
+Suburbanites,65.72831459537989,333,unknown
+Constrained city dwellers,62.3335788410201,186,unknown
+Hard-pressed living,63.37292186285852,435,unknown
+Area type,,,unknown
+Urban,67.65927115057538,1776,unknown
+Rural,66.70199409772505,349,unknown
+Level of physical disorder,,,unknown
+High,73.69082566088161,140,unknown
+Not high,66.870031287512,1978,unknown
+English Indices of Deprivation (Employment),,,unknown
+20% most deprived output areas,64.76601268547955,437,unknown
+Other output areas,67.9855108590286,1236,unknown
+20% least deprived output areas,71.10045235365344,308,unknown
+"Source: Crime Survey for England and Wales, Office for National Statistics",,,unknown
+1. See Section 7.3 of the User Guide for definitions of personal characteristics.,,,unknown
+2. Excludes victims of fraud and computer misuse.,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,unknown

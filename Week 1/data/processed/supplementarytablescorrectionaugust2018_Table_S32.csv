@@ -1,0 +1,14 @@
+"table s32: trends in worry about crime, year ending december 1992 to year ending march 2017 csew1",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,unnamed: 7,unnamed: 8,unnamed: 9,unnamed: 10,unnamed: 11,unnamed: 12,unnamed: 13,unnamed: 14,unnamed: 15,unnamed: 16,unnamed: 17,unnamed: 18,unnamed: 19,unnamed: 20,unnamed: 21,unnamed: 22,unnamed: 23,age_band
+England and Wales,,,,,,,,,,,,,,,,,,,,,,,Adults aged 16 and over,unknown
+,Jan '92 to Dec '92,Jan '94 to Dec '94,Jan '96 to Dec '96,Jan '98 to Dec '98,Jan '00 to Dec '00,Apr '01 to Mar '02,Apr '02 to Mar '03,Apr '03 to Mar '04,Apr '04 to Mar '05,Apr '05 to Mar '06,Apr '06 to Mar '07,Apr '07 to Mar '08,Apr '08 to Mar '092,Apr '09 to Mar '10,Apr '10 to Mar '11,Apr '11 to Mar '12,Apr '12 to Mar '13,Apr '13 to Mar '14,Apr '14 to Mar '15,,,April 2016 to March 2017  compared with:,,unknown
+,,,,,,,,,,,,,,,,,,,,Apr '15 to Mar '16,Apr '16 to Mar'17,Apr '08 to Mar '09,Apr '15 to Mar '16,unknown
+,Percentage saying they worry about,,,,,,,,,,,,,,,,,,,,,Statistically significant difference,,unknown
+Burglary,19,26,22.125462213727698,19.3,19.2,15.2,14.8,12.6,12.1,12.7,12.63948601095236,11.546421788828553,11.130242932963483,10.164674286143883,10.359201654732814,11.447058717003722,11.91537284804752,11.071148139202155,9.705865814211819,10.666253594147404,10.210727497417663,,,unknown
+Car crime,:,:,:,22.3,21,17.3,16.6,14.9,13.4,13.7,13.010669132345331,11.939733644303969,11.39973841226717,10.159570888371425,9.837738321002846,9.944148238829605,6.789854268307454,6.8106701520302275,6.873377800669243,6.042805903138234,7.037160612738017,*,*,unknown
+Violent crime,:,:,:,24.6,23.7,21.8,20.8,16.3,16.3,17.2,17.080921961168958,14.928696909860797,13.618140837182777,12.936248137915573,13.176233605656487,13.754123791307224,12.03573123675676,12.09345200476723,11.085468346125122,11.526388407668694,10.946604874373692,*,,unknown
+Unweighted base - number of adults3,10044,14502,7973,14925,19388,32738,36427,37872,45095,47780,47122,46888,11510,11167,11627,11538,8792,8751,8207,8729,8722,,,unknown
+"Source: Crime Survey for England and Wales, Office for National Statistics",,,,,,,,,,,,,,,,,,,,,,,,unknown
+1. See Section 6.2 of the User Guide for more information on the definitions of the worry about crime indicators.,,,,,,,,,,,,,,,,,,,,,,,,unknown
+2. Questions on worry about crime were only asked of one-quarter of the CSEW sample from year ending March 2009.,,,,,,,,,,,,,,,,,,,,,,,,unknown
+"3. Unweighted bases refer to high levels of worry about burglary. Bases for violent crime will be similar but for car crime will be slightly lower as this is based only on those residing in households owning, or with use of a vehicle.",,,,,,,,,,,,,,,,,,,,,,,,unknown
+: denotes not available,,,,,,,,,,,,,,,,,,,,,,,,unknown

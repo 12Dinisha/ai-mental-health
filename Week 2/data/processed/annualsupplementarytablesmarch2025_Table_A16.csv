@@ -1,0 +1,39 @@
+"table a16: proportion of children aged 10 to 15 who experienced victimisation in the last year (preferred measure), by personal characteristics [note 1]",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,age_band
+"England and Wales, year ending March 2025",,,,,unknown
+This worksheet contains one table. The units in this table are percentage of children who experienced victimisation. Some cells refer to notes which can be found on the Notes worksheet.,,,,,unknown
+Link to Notes,,,,,unknown
+Some shorthand is used in this table. [u] indicates that data are not reported because the unweighted base is fewer than 50.,,,,,unknown
+Link to Table of contents,,,,,unknown
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,,unknown
+Personal characteristic [note 2],Personal characteristics breakdown,All crime experienced by children aged 10 to 15,"Crime against the 
+person 
+[note 3]",Unweighted base - number of children aged 10 to 15,unknown
+All children,All children aged 10-15,11.86283013819295,11.043513475896,1437,unknown
+All children,All children aged 10-12,12.28160855687892,11.76397660442279,777,unknown
+All children,All children aged 13-15,11.43558317157718,10.30848112349486,660,unknown
+Aged 10-12,10,14.53462951812481,14.53462951812481,249,unknown
+Aged 10-12,11,10.99360474695789,9.995962573640135,247,unknown
+Aged 10-12,12,11.33851053731219,10.75806954724039,281,unknown
+Aged 13-15,13,11.08245465751985,10.37354327957281,235,unknown
+Aged 13-15,14,8.251413125655995,7.943336999431443,217,unknown
+Aged 13-15,15,15.09484686900397,12.65141627567936,208,unknown
+Boys,Boys,14.49888749971707,13.64306253959402,787,unknown
+Boys,10-12,14.34334339180092,13.60768358786817,421,unknown
+Boys,13-15,14.65783823722316,13.67921633895265,366,unknown
+Girls,Girls,9.100961660716282,8.319895727862466,650,unknown
+Girls,10-12,10.11786909283876,9.829051951341444,356,unknown
+Girls,13-15,8.065276506482187,6.782872153538818,294,unknown
+Ethnic group,White ,12.05682037625598,11.15016547592567,1013,unknown
+Ethnic group,Mixed/Multiple,13.40457736627916,9.497533327481927,61,unknown
+Ethnic group,Asian/Asian British,11.56779952793516,11.56779952793516,211,unknown
+Ethnic group,Black/African/Caribbean/Black British,9.425509563740281,9.157531110526033,110,unknown
+Ethnic group,Other ethnic group,[u],[u],39,unknown
+School year [note 4],Year 5,11.38238865360311,11.38238865360311,124,unknown
+School year [note 4],Year 6,16.33389194754125,15.33513563869818,242,unknown
+School year [note 4],Year 7,8.825048038733243,8.220803103643473,269,unknown
+School year [note 4],Year 8,13.87261898418463,13.34506577586455,241,unknown
+School year [note 4],Year 9,8.768694229157706,8.243776319554028,234,unknown
+School year [note 4],Year 10,8.989710223200904,8.323577346619405,209,unknown
+School year [note 4],Year 11,18.35066149802957,13.98587896873661,89,unknown
+Disability [note 5],Disabled,14.09359632015023,14.09359632015023,81,unknown
+Disability [note 5],Not disabled,11.67392029220004,10.81213570187835,1349,unknown

@@ -1,0 +1,65 @@
+"table s19: attitudes to local police working in partnership, by police force area, english regions and wales, year ending march 2020 csew1",unnamed: 1,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,age_band
+England and Wales,,,,,Adults aged 16 and over,unknown
+Area Code,Area Name,Police and local council are dealing with issues,,,,unknown
+,,"% saying
+strongly agree/
+tend to agree",Statistically significantly different from England and Wales2,"Statistically significantly different from
+Apr '18 to 
+Mar '192",Unweighted base - number of adults,unknown
+K04000001,ENGLAND AND WALES,52.228024245655654,:,*↓,32225,unknown
+E92000001,ENGLAND,52.02598486353666,,*↓,29857,unknown
+E12000001,North East,54.49545530681944,,,1933,unknown
+E23000013,Cleveland,44.99709224243623,*,,539,unknown
+E23000008,Durham,53.900772540591205,,,611,unknown
+E23000007,Northumbria,57.71935429838468,,,783,unknown
+E12000002,North West,53.425185947810064,,,4140,unknown
+E23000006,Cheshire,59.287214924997585,*,,612,unknown
+E23000002,Cumbria,56.07060085320858,,,571,unknown
+E23000005,Greater Manchester,49.162337883008966,*,*↓,1376,unknown
+E23000003,Lancashire,57.154133666635374,*,,718,unknown
+E23000004,Merseyside,52.49021103626763,,,863,unknown
+E12000003,Yorkshire and the Humber,48.780439456431935,*,,2958,unknown
+E23000012,Humberside,49.20630341567838,,,610,unknown
+E23000009,North Yorkshire,63.08512987974544,*,,589,unknown
+E23000011,South Yorkshire,43.762228974513484,*,,662,unknown
+E23000010,West Yorkshire,46.56408827355436,*,,1097,unknown
+E12000004,East Midlands,50.41432705095856,,,2882,unknown
+E23000018,Derbyshire,44.56210617592546,*,,571,unknown
+E23000021,Leicestershire,50.939515558181995,,,562,unknown
+E23000020,Lincolnshire,56.856886084414995,*,,618,unknown
+E23000022,Northamptonshire,54.25053683385644,,,529,unknown
+E23000019,Nottinghamshire,48.22778644264498,,,603,unknown
+E12000005,West Midlands,45.954465128261944,*,*↓,2753,unknown
+E23000015,Staffordshire,47.802792272763604,,,498,unknown
+E23000017,Warwickshire,52.828500663097586,,,553,unknown
+E23000016,West Mercia,53.01183071806191,,,525,unknown
+E23000014,West Midlands,40.593702590646934,*,*↓,1177,unknown
+E12000006,East,53.70250400020136,,,3692,unknown
+E23000026,Bedfordshire,59.17226358615805,*,*↑,561,unknown
+E23000023,Cambridgeshire,53.030458909410044,,,572,unknown
+E23000028,Essex,49.66009109196597,,,865,unknown
+E23000027,Hertfordshire,57.15754300037784,*,*↓,583,unknown
+E23000024,Norfolk,57.20857476272988,,,561,unknown
+E23000025,Suffolk,49.33424262854367,,,549,unknown
+E12000007,London,53.99817866412117,,*↓,3792,unknown
+E12000007,City of London / Metropolitan Police,53.99817866412117,,*↓,3792,unknown
+E12000008,South East,53.08428142309716,,*↓,4423,unknown
+E23000030,Hampshire,53.85802317935016,,,915,unknown
+E23000032,Kent,48.48036032641225,*,,825,unknown
+E23000031,Surrey,51.86631338558571,,*↓,647,unknown
+E23000033,Sussex,47.04074974353952,*,*↓,953,unknown
+E23000029,Thames Valley,60.99191683685582,*,,1083,unknown
+E12000009,South West,52.72429199632909,,,3284,unknown
+E23000036,Avon and Somerset,52.47005879069797,,,816,unknown
+E23000035,Devon and Cornwall,50.964724336036795,,,832,unknown
+E23000039,Dorset,52.75800765190785,,,577,unknown
+E23000037,Gloucestershire,48.81597847401361,,,492,unknown
+E23000038,Wiltshire,60.41604837400083,*,,567,unknown
+W92000004,WALES,55.816751776328914,*,*↓,2368,unknown
+W15000004,Dyfed-Powys,65.30457079610466,*,,555,unknown
+W15000002,Gwent,50.02192833882557,,*↓,576,unknown
+W15000001,North Wales,56.33889175078766,,,652,unknown
+W15000003,South Wales,54.56554026474198,,*↓,585,unknown
+Source: Office for National Statistics - Crime Survey for England and Wales,,,,,,unknown
+"1. Being based on small sample sizes, police force area estimates from the CSEW are less robust than national level estimates and should be treated with extreme caution.",,,,,,unknown
+"2. Statistically significant change at the 5% level is indicated by an asterisk. For more information on statistical significance, see Chapter 8 of the User Guide.",,,,,,unknown

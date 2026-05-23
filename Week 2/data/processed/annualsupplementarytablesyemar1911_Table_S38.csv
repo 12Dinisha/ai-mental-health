@@ -1,0 +1,75 @@
+"table s38: percentage of adults who felt very/fairly safe when walking alone after dark, by personal characteristics, year ending march 2019 csew",unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,age_band
+England and Wales,,,,,,Adults aged 16 and over,unknown
+Personal characteristic1,Percentage who feel very / fairly safe2,Unweighted base - number of adults,,Personal characteristic1,Percentage who feel very / fairly safe2,Unweighted base - number of adults,unknown
+,Percentage,,,,Percentage,,unknown
+ALL ADULTS,78.41676293133554,8118,,Respondent's employment status,,,unknown
+,,,,In employment,82.77933196078386,4761,unknown
+16-24,80.26767232704465,554,,Unemployed,74.48204093543484,159,unknown
+25-34,82.40233909730615,1172,,Economically inactive,70.71977084101462,3193,unknown
+35-44,79.4084263958582,1346,,Student,78.65487699318965,166,unknown
+45-54,78.86493418980255,1377,,Looking after family/home,62.5475387652135,337,unknown
+55-64,78.97175330972198,1330,,Long-term/temporarily sick/ill,54.94681128143714,324,unknown
+65-74,73.96338701112634,1271,,Retired,73.42852658768663,2299,unknown
+75+,71.37582048947397,1068,,Other inactive,60.78166601611307,67,unknown
+Men,88.35775144994403,3721,,Respondent's occupation,,,unknown
+,,,,Managerial and professional occupations,84.4271460655315,3008,unknown
+16-24,91.21439964316546,253,,Intermediate occupations,77.76606645962924,1832,unknown
+25-34,90.67450594442457,524,,Routine and manual occupations,73.67538780045714,2694,unknown
+35-44,88.3222119933392,584,,Never worked and long-term unemployed,62.10707008318127,262,unknown
+45-54,87.95703176013215,651,,Full-time students,78.57270993726102,250,unknown
+55-64,88.53319337056503,644,,Not classified,78.51178306193641,72,unknown
+65-74,84.18782723645066,575,,,,,unknown
+75+,85.3682325564091,490,,Highest qualification,,,unknown
+,,,,Degree or diploma,83.04870289973186,3454,unknown
+Women,68.81072249215683,4397,,Apprenticeship or A/AS level,82.15325723680388,1421,unknown
+,,,,O level/GCSE,75.61128597796726,1361,unknown
+16-24,69.05765998777194,301,,Other,72.60194009203228,378,unknown
+25-34,73.82404259236019,648,,,65.4654383233381,1471,unknown
+35-44,70.62110623992287,762,,,,,unknown
+45-54,69.40956631805936,726,,Disability3,,,unknown
+55-64,69.89969095074123,686,,Disabled,63.64163116961257,1583,unknown
+65-74,65.34300363119706,696,,Not disabled,81.32498048789061,6511,unknown
+75+,59.93864362189636,578,,,,,unknown
+,,,,Religion,,,unknown
+Ethnic group,,,,No religion,82.15943676132297,2961,unknown
+White ,78.81217145729046,7222,,Christian,76.78232199249192,4545,unknown
+   English/Welsh/Scottish/Northern Irish/British,78.7523797930001,6619,,Buddhist,84.57683994032283,51,unknown
+   Irish,74.9862028800316,82,,Hindu,74.53179380014159,104,unknown
+   Gypsy or Irish Traveller,-,3,,Muslim,70.5051362124646,308,unknown
+   Any other white background,79.84218147531351,518,,Other,71.54056573236785,128,unknown
+Mixed/Multiple,84.75593746705765,90,,,,,unknown
+   White and Black Caribbean,-,33,,Sexual orientation4,,,unknown
+   White and Black African,-,8,,Heterosexual/straight,79.85060442488056,6283,unknown
+   White and Asian,-,20,,Gay/Lesbian,79.88856947912933,104,unknown
+   Any other Mixed/Multiple ethnic background,-,29,,Bisexual,76.04356573335657,78,unknown
+Asian/Asian British,75.27839954474747,498,,Other,-,39,unknown
+   Indian,73.46391719535835,178,,,,,unknown
+   Pakistani,74.43152249321248,125,,Experience of crime in the previous 12 months (incl fraud & computer misuse),,,unknown
+   Bangladeshi,69.517298812181,50,,Victim,74.7115453335906,1644,unknown
+   Chinese,-,49,,Not a victim,79.44652529094736,6474,unknown
+   Any other Asian background,77.96376902459552,96,,,,,unknown
+Black/African/Caribbean/Black British,77.05079735468706,231,,Hours out of home on an average weekday,,,unknown
+   African,74.05557140374054,153,,Less than 3 hours,70.58109872627747,2390,unknown
+   Caribbean,81.39877737252117,58,,3 hours or more but less than 7 hours,75.02373205798033,2135,unknown
+   Any other Black/African/Caribbean background,-,20,,7 hours or longer,84.29682685583946,3548,unknown
+Other ethnic group,65.92666573022196,63,,,,,unknown
+   Arab,-,22,,Number of evening visits to pub/bar in the last month,,,unknown
+   Any other ethnic group,-,41,,,72.9525906301698,4252,unknown
+,,,,Less than once a week ,83.37347656975723,2430,unknown
+Country of Birth,,,,Once a week or more often,84.85772326841219,1426,unknown
+Born in the UK,78.54333145981356,6816,,,,,unknown
+Not born in the UK,77.72011442294882,1281,,Number of visits to a nightclub/disco in the last month,,,unknown
+,,,,,78.00701476317383,7700,unknown
+Marital status,,,,1-3 times a month,83.05318133458425,360,unknown
+Married/civil partnered,80.12029182080242,3709,,4+ times a month,87.08151198275776,52,unknown
+Cohabiting,79.56465241109188,866,,,,,unknown
+Single,80.41184482738032,1813,,,,,unknown
+Separated,66.69099437866804,239,,,,,unknown
+Divorced/legally dissolved partnership,71.31953159951408,705,,,,,unknown
+Widowed,62.14839369278749,771,,,,,unknown
+ Source: Office for National Statistics - Crime Survey for England and Wales,,,,,,,unknown
+1. See Section 7.3 of the User Guide for definitions of personal characteristics.,,,,,,,unknown
+2. The relevant questions relating to feeling safe walking alone after dark are only asked of one quarter of the CSEW sample. ,,,,,,,unknown
+"3. The definition of disability used is consistent with the core definition of disability under the Equality Act 2010. A person is considered to have a disability if they have a long-standing illness, disability or impairment which causes difficulty with day-to-day activities.",,,,,,,unknown
+"4. The terminology used to label this data has been changed to 'sexual orientation' from 'sexual identity' to align with terminology used in legislation (Equality Act 2010). Sexual Orientation is an umbrella concept which encompasses sexual identity, attraction and behaviour. This question described within this principle is based on a substantial body of research and is designed to capture self-perceived Sexual Identity. An individual could respond differently to questions on either sexual identity, attraction or behaviour. The measurement of Sexual Identity was identified within the research as the component of Sexual Orientation most closely related to experiences of disadvantage and discrimination. The question was not designed for specific or detailed studies of sexual behaviour or attraction where a series of more detailed questions and answer categories might be more appropriate.",,,,,,,unknown
+"""-"" indicates that data are not reported because the unweighted base is fewer than 50.",,,,,,,unknown

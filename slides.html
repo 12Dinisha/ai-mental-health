@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>NHS Risk Prediction - AIML-4 Demo</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #1a1a2e; color: white; }
+        .slide { display: none; padding: 60px; text-align: center; min-height: 100vh; }
+        .slide.active { display: block; }
+        h1 { color: #4fc3f7; font-size: 3em; margin-bottom: 20px; }
+        h2 { color: #81c784; font-size: 2em; margin: 30px 0; }
+        p { font-size: 1.5em; line-height: 1.8; }
+        ul { font-size: 1.3em; text-align: left; display: inline-block; }
+        li { margin: 15px 0; }
+        .highlight { color: #ffeb3b; font-weight: bold; }
+        .high { color: #f44336; }
+        .low { color: #4caf50; }
+        .nav { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); }
+        button { padding: 15px 30px; font-size: 1.2em; cursor: pointer; background: #4fc3f7; border: none; border-radius: 5px; }
+        .progress { position: fixed; top: 0; left: 0; height: 5px; background: #4fc3f7; width: 0%; transition: width 0.3s; }
+    </style>
+</head>
+<body>
+    <div class="progress" id="progress"></div>
+    
+    <div class="slide active">
+        <h1>🏥 NHS Mental Health Risk Prediction</h1>
+        <h2>AIML-4: Live Model Demonstration</h2>
+        <p>May 2026</p>
+    </div>
+    
+    <div class="slide">
+        <h2>What Does This Model Do?</h2>
+        <ul style="text-align: left;">
+            <li>Predicts <span class="highlight">30-day readmission risk</span></li>
+            <li>Based on <span class="highlight">PHQ-9</span> (depression) + <span class="highlight">GAD-7</span> (anxiety)</li>
+            <li>Input: Patient demographics + questionnaire scores</li>
+            <li>Output: Risk Score (0-10) + Classification</li>
+        </ul>
+    </div>
+    
+    <div class="slide">
+        <h2>The Model</h2>
+        <ul style="text-align: left;">
+            <li><strong>Algorithm:</strong> XGBoost + Random Forest + Logistic Regression</li>
+            <li><strong>Features:</strong> 14 input features</li>
+            <li><strong>Model:</strong> ensemble_v3.pkl</li>
+            <li><strong>API:</strong> FastAPI at /predict</li>
+        </ul>
+    </div>
+    
+    <div class="slide">
+        <h2>Live Demo Results</h2>
+        <ul style="text-align: left;">
+            <li><strong>P001</strong> - 67yo, PHQ-9=18, GAD-7=15</li>
+            <li class="high">-> Risk: 9.95 / 10.0 = HIGH</li>
+            <li><strong>P002</strong> - 34yo, PHQ-9=3, GAD-7=2</li>
+            <li class="low">-> Risk: 0.02 / 10.0 = LOW</li>
+            <li><strong>P003</strong> - 52yo, PHQ-9=20, GAD-7=18</li>
+            <li class="high">-> Risk: 9.96 / 10.0 = HIGH</li>
+        </ul>
+    </div>
+    
+    <div class="slide">
+        <h2>Performance Metrics</h2>
+        <ul style="text-align: left;">
+            <li><strong>Training:</strong> F1=1.00, ROC-AUC=1.00</li>
+            <li><strong>Validation (MHSDS):</strong> F1=0.34, ROC-AUC=0.51</li>
+            <li><em>Note: Validation on real NHS data ongoing</em></li>
+        </ul>
+    </div>
+    
+    <div class="slide">
+        <h2>Limitations</h2>
+        <ul style="text-align: left;">
+            <li>⚠ NOT clinically validated</li>
+            <li>Trained on synthetic data</li>
+            <li>Requires NHS governance approval</li>
+            <li>Does NOT replace clinical assessment</li>
+        </ul>
+    </div>
+    
+    <div class="slide">
+        <h2>Next Steps</h2>
+        <ul style="text-align: left;">
+            <li>1. ✅ Model trained (Week 3)</li>
+            <li>2. 🔄 Validation (Week 4)</li>
+            <li>3. ⏳ Clinical validation</li>
+            <li>4. ⏳ Governance approval</li>
+            <li>5. ⏳ Pilot in IAPT services</li>
+        </ul>
+    </div>
+    
+    <div class="slide">
+        <h1>Questions?</h1>
+        <p>ai-mh-uk@project.nhs</p>
+    </div>
+    
+    <div class="nav">
+        <button onclick="prevSlide()">◀ Prev</button>
+        <button onclick="nextSlide()">Next ▶</button>
+    </div>
+    
+    <script>
+        let current = 0;
+        const slides = document.querySelectorAll('.slide');
+        
+        function showSlide(n) {
+            slides[current].classList.remove('active');
+            current = (n + slides.length) % slides.length;
+            slides[current].classList.add('active');
+            document.getElementById('progress').style.width = ((current + 1) / slides.length * 100) + '%';
+        }
+        
+        function nextSlide() { showSlide(current + 1); }
+        function prevSlide() { showSlide(current - 1); }
+        
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') nextSlide();
+            if (e.key === 'ArrowLeft') prevSlide();
+        });
+    </script>
+</body>
+</html>

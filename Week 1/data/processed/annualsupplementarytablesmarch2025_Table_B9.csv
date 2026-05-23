@@ -1,0 +1,56 @@
+"Table B9: Percentage of people aged 16 and over who felt very or fairly safe when walking alone after dark, by household and area characteristics ",Unnamed: 1,Unnamed: 2,Unnamed: 3,age_band,flag_depression,flag_anxiety,flag_comorbid
+"England and Wales, year ending March 2025",,,,unknown,0,0,0
+This worksheet contains one table. Some cells refer to notes which can be found on the Notes worksheet. The units used in this table are percentages.,,,,unknown,0,0,0
+Link to Notes,,,,unknown,0,0,0
+Some shorthand is used in this table. [u] denotes that data are not reported because the unweighted base is fewer than 50.,,,,unknown,0,0,0
+Link to Table of contents,,,,unknown,0,0,0
+Source: Crime Survey for England and Wales from the Office for National Statistics,,,,unknown,0,0,0
+Household or area characteristic [note 1],Household or area characteristic breakdown ,Percentage who feel very or fairly safe [note 2],Unweighted base - number of people aged 16 and over [note 3],unknown,0,0,0
+All people,All people aged 16 and over,78.35236362360456,7819,unknown,0,0,0
+Structure of household,Single person and child(ren) under 16,67.96222751201195,346,unknown,0,0,0
+Structure of household,Persons and child(ren) under 16,79.19761099198598,1519,unknown,0,0,0
+Structure of household,Person(s) and no children ,78.41269714020983,5954,unknown,0,0,0
+Total household income,"Less than £10,400",65.93697411039221,351,unknown,0,0,0
+Total household income,"£10,400 to less than £20,800",71.3203545116932,1235,unknown,0,0,0
+Total household income,"£20,800 to less than £31,200",78.44138591679608,1269,unknown,0,0,0
+Total household income,"£31,200 to less than £41,600",79.9982194656074,825,unknown,0,0,0
+Total household income,"£41,600 to less than £52,000",80.09142816431948,755,unknown,0,0,0
+Total household income,"£52,000 or more",84.55649206632071,1747,unknown,0,0,0
+Total household income,No income stated or not enough information provided,79.7276166475535,92,unknown,0,0,0
+Tenure,Owners,80.5327280964974,4850,unknown,0,0,0
+Tenure,Social renters,65.95498423204705,1354,unknown,0,0,0
+Tenure,Private renters,79.55559440385429,1529,unknown,0,0,0
+Accommodation type ,Houses,79.08361158731087,6404,unknown,0,0,0
+Accommodation type ,Detached,84.18752011540447,1817,unknown,0,0,0
+Accommodation type ,Semi-detached,77.30030665871804,2298,unknown,0,0,0
+Accommodation type ,Terraced,76.4681575514025,2289,unknown,0,0,0
+Accommodation type ,Flats/maisonettes,74.47927555830489,1372,unknown,0,0,0
+Accommodation type ,Other accommodation,[u],20,unknown,0,0,0
+Output Area Classification,Rural residents,86.76776901258961,966,unknown,0,0,0
+Output Area Classification,Cosmopolitans,75.53647719483624,356,unknown,0,0,0
+Output Area Classification,Ethnicity central,72.80064904893031,528,unknown,0,0,0
+Output Area Classification,Multicultural metropolitans,74.70308630751269,1003,unknown,0,0,0
+Output Area Classification,Urbanites,83.2413302688034,1362,unknown,0,0,0
+Output Area Classification,Suburbanites,82.89127645121489,1397,unknown,0,0,0
+Output Area Classification,Constrained city dwellers,68.05037019554865,649,unknown,0,0,0
+Output Area Classification,Hard-pressed living,71.85763913053331,1558,unknown,0,0,0
+Area type,Urban,76.62165511852658,6233,unknown,0,0,0
+Area type,Rural,85.39831592088464,1586,unknown,0,0,0
+Level of physical disorder,High,68.42570931388738,488,unknown,0,0,0
+Level of physical disorder,Not high ,78.94906229206084,7311,unknown,0,0,0
+English Indices of Deprivation (Employment),20% most deprived Output Areas,65.63379667381629,1820,unknown,0,0,0
+English Indices of Deprivation (Employment),Other Output Areas ,79.64606762032345,4157,unknown,0,0,0
+English Indices of Deprivation (Employment),20% least deprived Output Areas,85.93531172451725,1310,unknown,0,0,0
+Welsh Indices of Deprivation (Employment),20% most deprived Output Areas,73.48762636106488,134,unknown,0,0,0
+Welsh Indices of Deprivation (Employment),Other Output Areas ,80.60233303492717,311,unknown,0,0,0
+Welsh Indices of Deprivation (Employment),20% least deprived Output Areas,83.48188854296747,87,unknown,0,0,0
+Region,North East,71.78317199593673,449,unknown,0,0,0
+Region,North West,79.53546276622693,977,unknown,0,0,0
+Region,Yorkshire and The Humber,74.81782899983317,777,unknown,0,0,0
+Region,East Midlands,75.58737705953438,742,unknown,0,0,0
+Region,West Midlands,73.49521635634744,808,unknown,0,0,0
+Region,East,81.07150938886599,912,unknown,0,0,0
+Region,London,77.3918811194384,980,unknown,0,0,0
+Region,South East,81.06354504483399,908,unknown,0,0,0
+Region,South West,83.7896686095369,734,unknown,0,0,0
+Region,Wales,79.7630758231012,532,unknown,0,0,0

@@ -1,0 +1,11 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : annualsupplementarytablesyemar1911.xlsx
+Sheet    : Table S42a
+Rows     : 52
+Columns  : 5
+Duplicates : 0
+Missing Cells : 73
+

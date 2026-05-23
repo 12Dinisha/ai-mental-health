@@ -1,0 +1,854 @@
+======================================================================
+ONS DATA PIPELINE SUMMARY
+======================================================================
+
+Workbook: annualsupplementarytablesmar201.xlsx
+--------------------------------------------------
+Sheet: Notes
+Rows: 59
+Columns: 3
+
+Sheet: Table S1
+Rows: 15
+Columns: 21
+
+Sheet: Table S2
+Rows: 74
+Columns: 8
+
+Sheet: Table S3
+Rows: 63
+Columns: 4
+
+Sheet: Table S4
+Rows: 23
+Columns: 19
+
+Sheet: Table S5
+Rows: 121
+Columns: 10
+
+Sheet: Table S6
+Rows: 64
+Columns: 10
+
+Sheet: Table S7
+Rows: 14
+Columns: 17
+
+Sheet: Table S8
+Rows: 74
+Columns: 12
+
+Sheet: Table S9
+Rows: 63
+Columns: 6
+
+Sheet: Table S10
+Rows: 18
+Columns: 19
+
+Sheet: Table S11
+Rows: 76
+Columns: 8
+
+Sheet: Table S12
+Rows: 67
+Columns: 4
+
+Sheet: Table S13
+Rows: 13
+Columns: 28
+
+Sheet: Table S14
+Rows: 16
+Columns: 4
+
+Sheet: Table S15
+Rows: 71
+Columns: 8
+
+Sheet: Table S16
+Rows: 66
+Columns: 4
+
+Sheet: Table S17
+Rows: 34
+Columns: 4
+
+Sheet: Table S18
+Rows: 61
+Columns: 12
+
+Sheet: Table S19
+Rows: 60
+Columns: 8
+
+Sheet: Table S20
+Rows: 10
+Columns: 12
+
+Sheet: Table S21
+Rows: 75
+Columns: 10
+
+Sheet: Table S22
+Rows: 65
+Columns: 5
+
+Sheet: Table S23
+Rows: 11
+Columns: 9
+
+Sheet: Table S24
+Rows: 75
+Columns: 8
+
+Sheet: Table S25
+Rows: 66
+Columns: 4
+
+Sheet: Table S26
+Rows: 29
+Columns: 3
+
+Sheet: Table S27
+Rows: 43
+Columns: 13
+
+Sheet: Table S28
+Rows: 19
+Columns: 25
+
+Sheet: Table S29
+Rows: 71
+Columns: 10
+
+Sheet: Table S30
+Rows: 65
+Columns: 5
+
+Sheet: Table S31
+Rows: 19
+Columns: 28
+
+Sheet: Table S32
+Rows: 72
+Columns: 14
+
+Sheet: Table S33
+Rows: 66
+Columns: 7
+
+Sheet: Table S34
+Rows: 24
+Columns: 27
+
+Sheet: Table S35
+Rows: 71
+Columns: 8
+
+Sheet: Table S36
+Rows: 64
+Columns: 4
+
+Sheet: Table S37
+Rows: 14
+Columns: 26
+
+Sheet: Table S38
+Rows: 74
+Columns: 8
+
+Sheet: Table S39
+Rows: 65
+Columns: 4
+
+Sheet: Table S40
+Rows: 47
+Columns: 11
+
+Sheet: Table S41a
+Rows: 56
+Columns: 13
+
+Sheet: Table S41b
+Rows: 60
+Columns: 39
+
+Sheet: Table S42a
+Rows: 54
+Columns: 8
+
+Sheet: Table S42b
+Rows: 58
+Columns: 20
+
+==================================================
+Workbook: supplementarytablescorrectionaugust2018.xls
+--------------------------------------------------
+Sheet: Table S1
+Rows: 13
+Columns: 18
+
+Sheet: Table S2
+Rows: 55
+Columns: 8
+
+Sheet: Table S3
+Rows: 48
+Columns: 4
+
+Sheet: Table S4
+Rows: 20
+Columns: 16
+
+Sheet: Table S5
+Rows: 103
+Columns: 10
+
+Sheet: Table S6
+Rows: 49
+Columns: 10
+
+Sheet: Table S7
+Rows: 13
+Columns: 14
+
+Sheet: Table S8
+Rows: 55
+Columns: 12
+
+Sheet: Table S9
+Rows: 48
+Columns: 6
+
+Sheet: Table S10
+Rows: 16
+Columns: 15
+
+Sheet: Table S11
+Rows: 54
+Columns: 8
+
+Sheet: Table S12
+Rows: 49
+Columns: 4
+
+Sheet: Table S13
+Rows: 11
+Columns: 23
+
+Sheet: Table S14
+Rows: 15
+Columns: 4
+
+Sheet: Table S15
+Rows: 45
+Columns: 8
+
+Sheet: Table S16
+Rows: 48
+Columns: 4
+
+Sheet: Table S17
+Rows: 33
+Columns: 4
+
+Sheet: Table S18
+Rows: 60
+Columns: 12
+
+Sheet: Table S19
+Rows: 59
+Columns: 8
+
+Sheet: Table S20
+Rows: 8
+Columns: 9
+
+Sheet: Table S21
+Rows: 8
+Columns: 5
+
+Sheet: Table S22
+Rows: 55
+Columns: 8
+
+Sheet: Table S23
+Rows: 49
+Columns: 4
+
+Sheet: Table S24
+Rows: 27
+Columns: 3
+
+Sheet: Table S25
+Rows: 12
+Columns: 13
+
+Sheet: Table S26
+Rows: 54
+Columns: 10
+
+Sheet: Table S27
+Rows: 49
+Columns: 5
+
+Sheet: Table S28
+Rows: 36
+Columns: 254
+
+Sheet: Table S29
+Rows: 16
+Columns: 22
+
+Sheet: Table S30
+Rows: 58
+Columns: 10
+
+Sheet: Table S31
+Rows: 49
+Columns: 5
+
+Sheet: Table S32
+Rows: 13
+Columns: 25
+
+Sheet: Table S33
+Rows: 61
+Columns: 12
+
+Sheet: Table S34
+Rows: 49
+Columns: 6
+
+Sheet: Table S35
+Rows: 54
+Columns: 8
+
+Sheet: Table S36
+Rows: 50
+Columns: 4
+
+Sheet: Table S37
+Rows: 39
+Columns: 10
+
+Sheet: Table S38
+Rows: 43
+Columns: 33
+
+Sheet: Table S39
+Rows: 42
+Columns: 17
+
+==================================================
+Workbook: supplementarytablescrimeinenglandandwalesyearendingmarch2016.xls
+--------------------------------------------------
+Sheet: Table S1
+Rows: 13
+Columns: 17
+
+Sheet: Table S2
+Rows: 55
+Columns: 8
+
+Sheet: Table S3
+Rows: 48
+Columns: 4
+
+Sheet: Table S4
+Rows: 20
+Columns: 15
+
+Sheet: Table S5
+Rows: 107
+Columns: 10
+
+Sheet: Table S6
+Rows: 49
+Columns: 10
+
+Sheet: Table S7
+Rows: 13
+Columns: 14
+
+Sheet: Table S8
+Rows: 55
+Columns: 12
+
+Sheet: Table S9
+Rows: 48
+Columns: 6
+
+Sheet: Table S10
+Rows: 16
+Columns: 14
+
+Sheet: Table S11
+Rows: 54
+Columns: 8
+
+Sheet: Table S12
+Rows: 50
+Columns: 4
+
+Sheet: Table S13
+Rows: 11
+Columns: 22
+
+Sheet: Table S14
+Rows: 15
+Columns: 4
+
+Sheet: Table S15
+Rows: 45
+Columns: 8
+
+Sheet: Table S16
+Rows: 48
+Columns: 4
+
+Sheet: Table S17
+Rows: 33
+Columns: 4
+
+Sheet: Table S18
+Rows: 60
+Columns: 11
+
+Sheet: Table S19
+Rows: 59
+Columns: 7
+
+Sheet: Table S20
+Rows: 8
+Columns: 8
+
+Sheet: Table S21
+Rows: 8
+Columns: 4
+
+Sheet: Table S22
+Rows: 55
+Columns: 8
+
+Sheet: Table S23
+Rows: 49
+Columns: 4
+
+Sheet: Table S24
+Rows: 27
+Columns: 3
+
+Sheet: Table S25
+Rows: 12
+Columns: 12
+
+Sheet: Table S26
+Rows: 55
+Columns: 10
+
+Sheet: Table S27
+Rows: 49
+Columns: 5
+
+Sheet: Table S28
+Rows: 36
+Columns: 253
+
+Sheet: Table S29
+Rows: 16
+Columns: 21
+
+Sheet: Table S30
+Rows: 60
+Columns: 10
+
+Sheet: Table S31
+Rows: 49
+Columns: 5
+
+Sheet: Table S32
+Rows: 55
+Columns: 8
+
+Sheet: Table S33
+Rows: 48
+Columns: 4
+
+Sheet: Table S34
+Rows: 13
+Columns: 24
+
+Sheet: Table S35
+Rows: 54
+Columns: 12
+
+Sheet: Table S36
+Rows: 50
+Columns: 6
+
+Sheet: Table S37
+Rows: 54
+Columns: 8
+
+Sheet: Table S38
+Rows: 51
+Columns: 4
+
+Sheet: Table S39
+Rows: 39
+Columns: 10
+
+Sheet: Table S40
+Rows: 43
+Columns: 31
+
+Sheet: Table S41
+Rows: 42
+Columns: 16
+
+==================================================
+Workbook: supplementarytablesyearendingmarch2018.xls
+--------------------------------------------------
+Sheet: Table S1
+Rows: 13
+Columns: 19
+
+Sheet: Table S2
+Rows: 55
+Columns: 8
+
+Sheet: Table S3
+Rows: 48
+Columns: 4
+
+Sheet: Table S4
+Rows: 20
+Columns: 17
+
+Sheet: Table S5
+Rows: 105
+Columns: 10
+
+Sheet: Table S6
+Rows: 49
+Columns: 10
+
+Sheet: Table S7
+Rows: 12
+Columns: 15
+
+Sheet: Table S8
+Rows: 55
+Columns: 12
+
+Sheet: Table S9
+Rows: 48
+Columns: 6
+
+Sheet: Table S10
+Rows: 17
+Columns: 16
+
+Sheet: Table S11
+Rows: 55
+Columns: 8
+
+Sheet: Table S12
+Rows: 50
+Columns: 4
+
+Sheet: Table S13
+Rows: 11
+Columns: 24
+
+Sheet: Table S14
+Rows: 15
+Columns: 4
+
+Sheet: Table S15
+Rows: 46
+Columns: 8
+
+Sheet: Table S16
+Rows: 50
+Columns: 4
+
+Sheet: Table S17
+Rows: 34
+Columns: 4
+
+Sheet: Table S18
+Rows: 61
+Columns: 12
+
+Sheet: Table S19
+Rows: 60
+Columns: 8
+
+Sheet: Table S20
+Rows: 8
+Columns: 10
+
+Sheet: Table S21
+Rows: 9
+Columns: 7
+
+Sheet: Table S22
+Rows: 55
+Columns: 8
+
+Sheet: Table S23
+Rows: 49
+Columns: 4
+
+Sheet: Table S24
+Rows: 27
+Columns: 3
+
+Sheet: Table S25
+Rows: 40
+Columns: 11
+
+Sheet: Table S26
+Rows: 17
+Columns: 23
+
+Sheet: Table S27
+Rows: 59
+Columns: 12
+
+Sheet: Table S28
+Rows: 49
+Columns: 6
+
+Sheet: Table S29
+Rows: 14
+Columns: 26
+
+Sheet: Table S30
+Rows: 61
+Columns: 12
+
+Sheet: Table S31
+Rows: 49
+Columns: 6
+
+Sheet: Table S32
+Rows: 64
+Columns: 8
+
+Sheet: Table S33
+Rows: 50
+Columns: 4
+
+Sheet: Table S34
+Rows: 41
+Columns: 18
+
+Sheet: Table S35
+Rows: 44
+Columns: 37
+
+Sheet: Table S36
+Rows: 42
+Columns: 19
+
+==================================================
+Workbook: annualsupplementarytablemar23correction.xlsx
+--------------------------------------------------
+Sheet: Cover sheet
+Rows: 11
+Columns: 3
+
+Sheet: Table of contents
+Rows: 45
+Columns: 4
+
+Sheet: Notes
+Rows: 140
+Columns: 4
+
+Sheet: Table S1
+Rows: 13
+Columns: 22
+
+Sheet: Table S2
+Rows: 110
+Columns: 5
+
+Sheet: Table S3
+Rows: 54
+Columns: 5
+
+Sheet: Table S4
+Rows: 17
+Columns: 20
+
+Sheet: Table S5
+Rows: 110
+Columns: 11
+
+Sheet: Table S6
+Rows: 54
+Columns: 11
+
+Sheet: Table S7
+Rows: 11
+Columns: 18
+
+Sheet: Table S8
+Rows: 110
+Columns: 7
+
+Sheet: Table S9
+Rows: 54
+Columns: 7
+
+Sheet: Table S10
+Rows: 16
+Columns: 19
+
+Sheet: Table S11
+Rows: 110
+Columns: 5
+
+Sheet: Table S12
+Rows: 55
+Columns: 5
+
+Sheet: Table S13
+Rows: 11
+Columns: 29
+
+Sheet: Table S14
+Rows: 17
+Columns: 4
+
+Sheet: Table S15
+Rows: 104
+Columns: 5
+
+Sheet: Table S16
+Rows: 55
+Columns: 5
+
+Sheet: Table S17
+Rows: 26
+Columns: 5
+
+Sheet: Table S18
+Rows: 62
+Columns: 14
+
+Sheet: Table S19
+Rows: 61
+Columns: 7
+
+Sheet: Table S20
+Rows: 13
+Columns: 12
+
+Sheet: Table S21
+Rows: 110
+Columns: 5
+
+Sheet: Table S22
+Rows: 54
+Columns: 5
+
+Sheet: Table S23
+Rows: 9
+Columns: 10
+
+Sheet: Table S24
+Rows: 113
+Columns: 5
+
+Sheet: Table S25
+Rows: 55
+Columns: 5
+
+Sheet: Table S26
+Rows: 13
+Columns: 27
+
+Sheet: Table S27
+Rows: 108
+Columns: 6
+
+Sheet: Table S28
+Rows: 55
+Columns: 6
+
+Sheet: Table S29
+Rows: 12
+Columns: 29
+
+Sheet: Table S30
+Rows: 108
+Columns: 8
+
+Sheet: Table S31
+Rows: 55
+Columns: 8
+
+Sheet: Table S32
+Rows: 16
+Columns: 29
+
+Sheet: Table S33
+Rows: 108
+Columns: 5
+
+Sheet: Table S34
+Rows: 55
+Columns: 5
+
+Sheet: Table S35
+Rows: 11
+Columns: 13
+
+Sheet: Table S36
+Rows: 19
+Columns: 9
+
+Sheet: Table S37
+Rows: 11
+Columns: 28
+
+Sheet: Table S38
+Rows: 108
+Columns: 5
+
+Sheet: Table S39
+Rows: 55
+Columns: 5
+
+Sheet: Table S40
+Rows: 44
+Columns: 8
+
+Sheet: Table S41
+Rows: 44
+Columns: 11
+
+Sheet: Table S42a
+Rows: 46
+Columns: 22
+
+Sheet: Table S42b
+Rows: 46
+Columns: 22
+
+Sheet: Table S42c
+Rows: 46
+Columns: 22
+
+==================================================
+
+Successful Workbooks: 5
+Failed Workbooks: 3

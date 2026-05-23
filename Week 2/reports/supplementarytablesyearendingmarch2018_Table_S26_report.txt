@@ -1,0 +1,11 @@
+============================================================
+ONS DATASET REPORT
+============================================================
+
+Workbook : supplementarytablesyearendingmarch2018.xls
+Sheet    : Table S26
+Rows     : 17
+Columns  : 23
+Duplicates : 0
+Missing Cells : 213
+
